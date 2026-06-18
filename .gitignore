@@ -1,5 +1,6 @@
 
 __pycache__/
 *.pyc
+.vscode/
 data/3dm_games.json
 data/ali213_games.json

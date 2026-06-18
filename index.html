@@ -745,7 +745,16 @@
           currentSort = 'date';
           updatePlatformButtons();
           updateSourceButtons();
-          renderGames(allGames);
+          // GAMER520 游戏按日期降序排前面，其他游戏按日期降序排后面
+          var gamer520 = [];
+          var others = [];
+          allGames.forEach(function(g) {
+            if (g.platform === 'GAMER520') gamer520.push(g);
+            else others.push(g);
+          });
+          gamer520.sort(function(a, b) { return (b.date || '').localeCompare(a.date || ''); });
+          others.sort(function(a, b) { return (b.date || '').localeCompare(a.date || ''); });
+          renderGames(gamer520.concat(others));
           subFilterBar.style.display = 'none';
           sortBar.style.display = 'none';
         };
@@ -929,8 +938,18 @@
         })
         .then(function (games) {
           allGames = games;
+          // 默认排序：GAMER520 按日期降序排前面，其他按日期降序排后面
+          var gamer520 = [];
+          var others = [];
+          games.forEach(function(g) {
+            if (g.platform === 'GAMER520') gamer520.push(g);
+            else others.push(g);
+          });
+          gamer520.sort(function(a, b) { return (b.date || '').localeCompare(a.date || ''); });
+          others.sort(function(a, b) { return (b.date || '').localeCompare(a.date || ''); });
+          var sortedGames = gamer520.concat(others);
           createPlatformButtons(games);
-          renderGames(games);
+          renderGames(sortedGames);
         })
         .catch(function (err) {
           console.warn('Fetch failed:', err.message);

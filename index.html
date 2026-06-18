@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>游戏推荐 | Game Recommender</title>
+  <!-- Choices.js CSS -->
+  <link rel="stylesheet" href="assets/choices.min.css">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -66,7 +68,7 @@
     }
 
     /* ---- Filter Bar ---- */
-    #filter-bar, #sub-filter-bar {
+    #filter-bar, #sub-filter-bar, #sort-bar {
       max-width: 1280px;
       margin: 0 auto;
       padding: 16px 16px 0;
@@ -75,15 +77,15 @@
       gap: 8px;
       align-items: center;
     }
-    #sub-filter-bar {
+    #sub-filter-bar, #sort-bar {
       padding-top: 8px;
     }
-    #filter-bar .filter-label, #sub-filter-bar .filter-label {
+    #filter-bar .filter-label, #sub-filter-bar .filter-label, #sort-bar .filter-label {
       font-size: 13px;
       color: #888;
       margin-right: 4px;
     }
-    #platform-filters, #source-filters {
+    #platform-filters, #source-filters, #sort-filters {
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
@@ -156,6 +158,17 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+    .card-img-link {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+    .card-img-link:hover img {
+      transform: scale(1.05);
     }
     .card-img-wrap .no-img {
       position: absolute;
@@ -193,6 +206,7 @@
     }
     .tag-source.threedm { background: #1e3a5f; color: #64b5f6; }
     .tag-source.ali213 { background: #3a2e1e; color: #ffb74d; }
+    .tag-source.gamer520 { background: #1e3a2e; color: #66bb6a; }
 
     .tag-date {
       display: inline-block;
@@ -213,6 +227,14 @@
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
+    }
+    .card-title-link {
+      color: #fff;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .card-title-link:hover {
+      color: #6c63ff;
     }
     .card-body .desc {
       font-size: 13px;
@@ -251,6 +273,158 @@
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+    }
+
+    /* ---- Pagination ---- */
+    #pagination-bar {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 32px 16px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .pagination-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .page-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 12px;
+      border: 1px solid #2a2a4a;
+      border-radius: 8px;
+      background: #1a1a2e;
+      color: #aaa;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      user-select: none;
+    }
+    .page-btn:hover:not(:disabled):not(.active) {
+      border-color: #6c63ff;
+      color: #fff;
+      background: #252540;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(108, 99, 255, 0.2);
+    }
+    .page-btn:disabled {
+      display: none;
+    }
+    .page-btn.active {
+      background: linear-gradient(135deg, #6c63ff, #5a52e0);
+      border-color: #6c63ff;
+      color: #fff;
+      font-weight: 600;
+      box-shadow: 0 4px 16px rgba(108, 99, 255, 0.4);
+      cursor: default;
+    }
+    .page-btn.icon-btn {
+      padding: 0;
+    }
+    .page-btn.icon-btn svg {
+      width: 18px;
+      height: 18px;
+      stroke: currentColor;
+    }
+    .page-ellipsis {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      color: #555;
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: 2px;
+    }
+    /* ---- Choices.js Custom Styles ---- */
+    .choices {
+      margin-bottom: 0;
+    }
+    .choices__inner {
+      background-color: #1a1a2e !important;
+      border: 1px solid #2a2a4a;
+      border-radius: 8px;
+      padding: 8px 32px 8px 12px;
+      min-height: auto;
+      font-size: 14px;
+      color: #aaa;
+      transition: all 0.25s ease;
+    }
+    .choices__inner:hover {
+      border-color: #6c63ff;
+      color: #fff;
+    }
+    .choices--open .choices__inner {
+      border-color: #6c63ff;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+      box-shadow: 0 0 0 3px rgba(108, 99, 255, 0.2);
+    }
+    .choices__list--dropdown,
+    .choices__list[aria-expanded] {
+      background-color: #1a1a2e !important;
+      border: 1px solid #6c63ff;
+      border-top: none;
+      border-bottom-left-radius: 8px;
+      border-bottom-right-radius: 8px;
+      margin-top: 0;
+      animation: dropdownSlide 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    @keyframes dropdownSlide {
+      from {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .choices__list--dropdown .choices__item,
+    .choices__list[aria-expanded] .choices__item {
+      padding: 8px 16px;
+      font-size: 13px;
+      color: #aaa !important;
+      background-color: #1a1a2e !important;
+      transition: all 0.2s ease;
+    }
+    .choices__list--dropdown .choices__item--selectable,
+    .choices__list[aria-expanded] .choices__item--selectable {
+      padding-right: 16px;
+    }
+    .choices__list--dropdown .choices__item--selectable.is-highlighted,
+    .choices__list[aria-expanded] .choices__item--selectable.is-highlighted {
+      background: linear-gradient(135deg, rgba(108, 99, 255, 0.3), rgba(90, 82, 224, 0.2)) !important;
+      color: #fff !important;
+    }
+    .choices__list--dropdown .choices__item--selected,
+    .choices__list[aria-expanded] .choices__item--selected {
+      background: linear-gradient(135deg, #6c63ff, #5a52e0) !important;
+      color: #fff !important;
+      font-weight: 500;
+    }
+    .choices[data-type*=select-one] .choices__input {
+      background-color: #1a1a2e !important;
+      border-bottom: 1px solid #2a2a4a;
+      color: #e0e0e0 !important;
+    }
+    .choices[data-type*=select-one]::after {
+      border-color: #6c63ff transparent transparent;
+      right: 12px;
+      margin-top: -2px;
+    }
+    .choices[data-type*=select-one].is-open::after {
+      border-color: transparent transparent #6c63ff;
+      margin-top: -6px;
     }
 
     /* ---- Footer ---- */
@@ -301,13 +475,28 @@
     <span class="filter-label">分类：</span>
     <span id="source-filters"></span>
   </div>
+  <div id="sort-bar" style="display: none;">
+    <span class="filter-label">排序：</span>
+    <span id="sort-filters"></span>
+  </div>
 
   <div id="game-grid"></div>
+
+  <div id="pagination-bar" style="display: none;">
+    <div class="pagination-controls" id="pagination-pages"></div>
+    <select class="page-size-select" id="page-size-select">
+      <option value="10">10条/页</option>
+      <option value="20" selected>20条/页</option>
+      <option value="50">50条/页</option>
+    </select>
+  </div>
 
   <footer>
     Game Recommender &copy; 2026 &mdash; 数据来源：3DM、游侠网
   </footer>
 
+  <!-- Choices.js -->
+  <script src="assets/choices.min.js"></script>
   <script>
     (function () {
       const grid = document.getElementById('game-grid');
@@ -315,12 +504,21 @@
       const errorMsg = document.getElementById('error-msg');
       const filterBar = document.getElementById('filter-bar');
       const subFilterBar = document.getElementById('sub-filter-bar');
+      const sortBar = document.getElementById('sort-bar');
       const platformFilters = document.getElementById('platform-filters');
       const sourceFilters = document.getElementById('source-filters');
+      const sortFilters = document.getElementById('sort-filters');
+      const paginationBar = document.getElementById('pagination-bar');
+      const paginationPages = document.getElementById('pagination-pages');
+      const pageSizeSelect = document.getElementById('page-size-select');
 
       let allGames = [];
+      let filteredGames = []; // 当前筛选后的游戏列表
       let currentPlatform = 'all'; // 当前平台筛选（3DM / ali213 / all）
       let currentSource = 'all';   // 当前来源筛选（如"近期新作"、"3DM-排行榜"等）
+      let currentSort = 'date';    // 当前排序方式（date / hot / comment_count）
+      let currentPage = 1;         // 当前页码
+      let pageSize = 20;           // 每页显示数量
 
       // 创建单个卡片
       function createCard(game, index) {
@@ -329,18 +527,25 @@
         card.style.animationDelay = (index * 0.05) + 's';
 
         // 来源标签（基于 platform）
-        const sourceClass = game.platform === '3DM' ? 'threedm' : 'ali213';
+        let sourceClass;
+        if (game.platform === '3DM') {
+          sourceClass = 'threedm';
+        } else if (game.platform === 'GAMER520') {
+          sourceClass = 'gamer520';
+        } else {
+          sourceClass = 'ali213';
+        }
         const sourceTag = '<span class="tag-source ' + sourceClass + '">' + escapeHtml(game.platform) + '</span>';
         const dateTag = game.date
           ? '<span class="tag-date">' + escapeHtml(game.date) + '</span>'
           : '';
 
-        // 图片
+        // 图片（带链接）
         var imgHtml;
         if (game.image) {
-          imgHtml = '<img src="' + escapeHtml(game.image) + '" alt="' + escapeHtml(game.title) + '" loading="lazy">';
+          imgHtml = '<a href="' + escapeHtml(game.url) + '" target="_blank" rel="noopener" class="card-img-link"><img src="' + escapeHtml(game.image) + '" alt="' + escapeHtml(game.title) + '" loading="lazy"></a>';
         } else {
-          imgHtml = '<div class="no-img">&#127918;</div>';
+          imgHtml = '<a href="' + escapeHtml(game.url) + '" target="_blank" rel="noopener" class="card-img-link"><div class="no-img">&#127918;</div></a>';
         }
 
         // 类型
@@ -355,7 +560,7 @@
           '<div class="card-img-wrap">' + imgHtml + '</div>' +
           '<div class="card-body">' +
             '<div class="tags">' + sourceTag + ' ' + dateTag + '</div>' +
-            '<h3>' + escapeHtml(game.title) + '</h3>' +
+            '<h3><a href="' + escapeHtml(game.url) + '" target="_blank" rel="noopener" class="card-title-link">' + escapeHtml(game.title) + '</a></h3>' +
             '<p class="desc">' + escapeHtml(desc) + '</p>' +
             '<div class="card-footer">' +
               '<a href="' + escapeHtml(game.url) + '" target="_blank" rel="noopener">查看 &#8599;</a>' +
@@ -374,19 +579,153 @@
         return div.innerHTML;
       }
 
-      // 渲染游戏列表
+      // 渲染游戏列表（分页）
       function renderGames(games) {
         loader.style.display = 'none';
+        filteredGames = games;
         if (!games || games.length === 0) {
           errorMsg.textContent = '未找到游戏数据';
           errorMsg.style.display = 'block';
+          paginationBar.style.display = 'none';
           return;
         }
+        currentPage = 1;
+        renderCurrentPage();
+        paginationBar.style.display = 'flex';
+      }
+
+      // 渲染当前页
+      function renderCurrentPage() {
+        const totalPages = Math.ceil(filteredGames.length / pageSize);
+        const start = (currentPage - 1) * pageSize;
+        const end = start + pageSize;
+        const pageGames = filteredGames.slice(start, end);
+
         grid.innerHTML = '';
-        games.forEach(function (game, i) {
+        pageGames.forEach(function (game, i) {
           grid.appendChild(createCard(game, i));
         });
+
+        // 渲染分页按钮
+        renderPagination(totalPages);
       }
+
+      // 渲染分页按钮
+      function renderPagination(totalPages) {
+        paginationPages.innerHTML = '';
+
+        if (totalPages <= 1) return;
+
+        // 上一页按钮（第一页时不显示）
+        if (currentPage > 1) {
+          var prevBtn = document.createElement('button');
+          prevBtn.className = 'page-btn icon-btn';
+          prevBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"></polyline></svg>';
+          prevBtn.onclick = function() {
+            currentPage--;
+            renderCurrentPage();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          };
+          paginationPages.appendChild(prevBtn);
+        }
+
+        // 计算要显示的页码（滑动窗口模式）
+        var pages = [];
+        var windowSize = 5; // 窗口大小
+
+        if (totalPages <= 7) {
+          // 总页数少，全部显示
+          for (var i = 1; i <= totalPages; i++) pages.push(i);
+        } else {
+          // 计算窗口的起始和结束位置
+          var startPage = Math.max(1, currentPage - 2);
+          var endPage = Math.min(totalPages, currentPage + 2);
+
+          // 如果窗口靠近开头，调整结束位置
+          if (startPage === 1) {
+            endPage = Math.min(totalPages, windowSize);
+          }
+
+          // 如果窗口靠近结尾，调整起始位置
+          if (endPage === totalPages) {
+            startPage = Math.max(1, totalPages - windowSize + 1);
+          }
+
+          // 添加第一页（如果不在窗口内）
+          if (startPage > 1) {
+            pages.push(1);
+            if (startPage > 2) {
+              pages.push('...');
+            }
+          }
+
+          // 添加窗口内的页码
+          for (var i = startPage; i <= endPage; i++) {
+            pages.push(i);
+          }
+
+          // 添加最后一页（如果不在窗口内）
+          if (endPage < totalPages) {
+            if (endPage < totalPages - 1) {
+              pages.push('...');
+            }
+            pages.push(totalPages);
+          }
+        }
+
+        // 创建页码按钮
+        pages.forEach(function(page) {
+          if (page === '...') {
+            var ellipsis = document.createElement('span');
+            ellipsis.className = 'page-ellipsis';
+            ellipsis.textContent = '...';
+            paginationPages.appendChild(ellipsis);
+          } else {
+            var pageBtn = document.createElement('button');
+            pageBtn.className = 'page-btn';
+            if (page === currentPage) {
+              pageBtn.classList.add('active');
+            }
+            pageBtn.textContent = page;
+            pageBtn.onclick = function() {
+              currentPage = page;
+              renderCurrentPage();
+              window.scrollTo({ top: 0, behavior: 'smooth' });
+            };
+            paginationPages.appendChild(pageBtn);
+          }
+        });
+
+        // 下一页按钮（最后一页时不显示）
+        if (currentPage < totalPages) {
+          var nextBtn = document.createElement('button');
+          nextBtn.className = 'page-btn icon-btn';
+          nextBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"></polyline></svg>';
+          nextBtn.onclick = function() {
+            currentPage++;
+            renderCurrentPage();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          };
+          paginationPages.appendChild(nextBtn);
+        }
+      }
+
+      // 每页显示数量切换（使用 Choices.js）
+      const pageSizeChoices = new Choices('#page-size-select', {
+        searchEnabled: false,
+        itemSelectText: '',
+        shouldSort: false,
+        position: 'bottom',
+        classNames: {
+          containerOuter: ['choices'],
+        }
+      });
+
+      document.getElementById('page-size-select').addEventListener('change', function() {
+        pageSize = parseInt(this.value);
+        currentPage = 1;
+        renderCurrentPage();
+      });
 
       // 创建平台筛选按钮（第一级）
       function createPlatformButtons(games) {
@@ -403,28 +742,45 @@
         allBtn.onclick = function() {
           currentPlatform = 'all';
           currentSource = 'all';
+          currentSort = 'date';
           updatePlatformButtons();
           updateSourceButtons();
           renderGames(allGames);
           subFilterBar.style.display = 'none';
+          sortBar.style.display = 'none';
         };
         platformFilters.appendChild(allBtn);
 
-        // 为每个平台创建按钮
-        Object.keys(platformCount).sort().forEach(function(platform) {
+        // 为每个平台创建按钮 - 自定义排序：GAMER520 排在最前面
+        const platforms = Object.keys(platformCount);
+        platforms.sort((a, b) => {
+          if (a === 'GAMER520') return -1;
+          if (b === 'GAMER520') return 1;
+          return a.localeCompare(b);
+        });
+
+        platforms.forEach(function(platform) {
           const btn = document.createElement('button');
           btn.className = 'filter-btn';
           btn.innerHTML = escapeHtml(platform) + ' <span class="count">(' + platformCount[platform] + ')</span>';
           btn.onclick = function() {
             currentPlatform = platform;
             currentSource = 'all';
+            currentSort = 'date';
             updatePlatformButtons();
             createSourceButtons(platform);
             const filtered = allGames.filter(function(g) {
               return g.platform === platform;
             });
+            // GAMER520 显示排序栏，不显示分类筛选栏
+            if (platform === 'GAMER520') {
+              subFilterBar.style.display = 'none';
+              createSortButtons(filtered);
+              sortBar.style.display = 'flex';
+            } else {
+              sortBar.style.display = 'none';
+            }
             renderGames(filtered);
-            subFilterBar.style.display = 'flex';
           };
           platformFilters.appendChild(btn);
         });
@@ -434,6 +790,12 @@
 
       // 创建来源筛选按钮（第二级）
       function createSourceButtons(platform) {
+        // 如果平台是 GAMER520，不显示来源筛选
+        if (platform === 'GAMER520') {
+          subFilterBar.style.display = 'none';
+          return;
+        }
+
         const filtered = allGames.filter(function(g) {
           return g.platform === platform;
         });
@@ -471,6 +833,58 @@
             renderGames(subFiltered);
           };
           sourceFilters.appendChild(btn);
+        });
+
+        subFilterBar.style.display = 'flex';
+      }
+
+      // 创建排序按钮（GAMER520 专用）
+      function createSortButtons(games) {
+        const sortOptions = [
+          { value: 'date', label: '发布日期' },
+          { value: 'hot', label: '热度' },
+          { value: 'comment_count', label: '评论数量' }
+        ];
+
+        sortFilters.innerHTML = '';
+
+        sortOptions.forEach(function(option) {
+          const btn = document.createElement('button');
+          btn.className = 'filter-btn' + (currentSort === option.value ? ' active' : '');
+          btn.textContent = option.label;
+          btn.onclick = function() {
+            currentSort = option.value;
+            updateSortButtons();
+            var sorted;
+            if (option.value === 'date') {
+              // 发布日期：直接用 date 字段降序排序（ISO 格式字典序等同时间顺序）
+              sorted = games.slice().sort(function(a, b) {
+                var dateA = a.date || '';
+                var dateB = b.date || '';
+                return dateB.localeCompare(dateA); // 降序
+              });
+            } else {
+              // 热度/评论数量：只展示有对应 rank 字段的数据
+              var rankKey = 'rank_' + option.value;
+              var pool = games.filter(function(g) { return g[rankKey] != null && g[rankKey] !== ''; });
+              sorted = pool.slice().sort(function(a, b) {
+                var rankA = a[rankKey] || 99999;
+                var rankB = b[rankKey] || 99999;
+                return rankA - rankB;
+              });
+            }
+            renderGames(sorted);
+          };
+          sortFilters.appendChild(btn);
+        });
+      }
+
+      // 更新排序按钮的激活状态
+      function updateSortButtons() {
+        const buttons = sortFilters.querySelectorAll('.filter-btn');
+        const sortOptions = ['date', 'hot', 'comment_count'];
+        buttons.forEach(function(btn, index) {
+          btn.classList.toggle('active', currentSort === sortOptions[index]);
         });
       }
 

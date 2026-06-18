@@ -6,8 +6,9 @@ import os
 import re
 from pathlib import Path
 
+from . import config
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = config.PROJECT_ROOT
 
 
 def normalize_chinese_date(date_str: str) -> str:
@@ -89,6 +90,28 @@ def aggregate_ali213(raw_list: list[dict]) -> list[dict]:
     return result
 
 
+def aggregate_gamer520(raw_list: list[dict]) -> list[dict]:
+    """将 gamer520 原始数据转换为统一格式。"""
+    result = []
+    for item in raw_list:
+        entry = {
+            "title": item.get("title", ""),
+            "url": item.get("url", ""),
+            "image": item.get("image", ""),
+            "description": item.get("description", ""),
+            "source": "GAMER520",
+            "date": item.get("date", ""),
+            "type": "",
+            "platform": "GAMER520",
+        }
+        # 传递排名字段（rank_date 不需要，前端直接用 date 字段排序）
+        for key in ["rank_hot", "rank_comment_count"]:
+            if key in item:
+                entry[key] = item[key]
+        result.append(entry)
+    return result
+
+
 def deduplicate_by_url(games: list[dict]) -> list[dict]:
     """基于 URL 去重（忽略大小写），优先保留有更多信息的记录。"""
     seen = {}  # url_lower -> index in result list
@@ -125,8 +148,8 @@ def sort_by_date(games: list[dict]) -> list[dict]:
 
 
 def main():
-    data_dir = PROJECT_ROOT / "data"
-    out_file = data_dir / "games.json"
+    data_dir = config.DATA_DIR
+    out_file = config.AGGREGATE_CONFIG["output_file"]
 
     # 读取源数据
     with open(data_dir / "3dm_games.json", encoding="utf-8") as f:

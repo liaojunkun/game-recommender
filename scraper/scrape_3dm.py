@@ -22,23 +22,15 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
+from . import config
+
 # ---- 配置 ----
-BASE_URL = "https://www.3dmgame.com/"
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate",
-    "Connection": "keep-alive",
-}
-REQUEST_DELAY = 2  # 请求间隔秒数，遵守 robots.txt 友好原则
-MAX_RETRIES = 3  # 最大重试次数
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "3dm_games.json")
+BASE_URL = config.THREEDM_CONFIG["base_url"]
+HEADERS = config.THREEDM_CONFIG["headers"]
+REQUEST_DELAY = config.REQUEST_DELAY
+MAX_RETRIES = config.MAX_RETRIES
+OUTPUT_DIR = config.DATA_DIR
+OUTPUT_FILE = config.THREEDM_CONFIG["output_file"]
 
 
 def fetch_page(url: str, headers: dict = None, retries: int = MAX_RETRIES) -> str | None:
@@ -428,7 +420,7 @@ def save_games(games: list[dict], output_file: str = None) -> str:
     return output_file
 
 
-def scrape_3dm(output_file: str = None) -> list[dict]:
+def scrape_3dm(output_file: str = None, delay: float = REQUEST_DELAY) -> list[dict]:
     """
     抓取 3DM 网站游戏数据。
 
@@ -439,6 +431,7 @@ def scrape_3dm(output_file: str = None) -> list[dict]:
 
     Args:
         output_file: 输出文件路径
+        delay: 请求间隔秒数
 
     Returns:
         游戏字典列表
@@ -448,6 +441,7 @@ def scrape_3dm(output_file: str = None) -> list[dict]:
     print("=" * 50)
     print("3DM 数据抓取模块启动")
     print(f"目标站点: {BASE_URL}")
+    print(f"请求延迟: {delay}s")
     print("=" * 50)
 
     # 1. 获取首页
@@ -467,14 +461,14 @@ def scrape_3dm(output_file: str = None) -> list[dict]:
 
     # 3. 解析"游戏排行榜"板块
     print("\n[STEP 3] 解析'游戏排行榜'板块...")
-    time.sleep(REQUEST_DELAY)  # 遵守 robots.txt 友好原则
+    time.sleep(delay)  # 遵守 robots.txt 友好原则
     rank_games = parse_game_ranking(soup)
     all_games.extend(rank_games)
     print(f"  -> 提取 {len(rank_games)} 个游戏")
 
     # 4. 解析专题推荐板块
     print("\n[STEP 4] 解析专题推荐板块...")
-    time.sleep(REQUEST_DELAY)
+    time.sleep(delay)
     lunbo_games = parse_lunbo_section(soup)
     all_games.extend(lunbo_games)
     print(f"  -> 提取 {len(lunbo_games)} 个游戏")

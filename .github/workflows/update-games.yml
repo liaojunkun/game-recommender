@@ -25,7 +25,7 @@ jobs:
         run: pip install -r requirements.txt
       
       - name: Run scraper
-        run: python run_scraper.py --delay 2.0
+        run: python run_scraper.py
       
       - name: Commit and push changes
         run: |

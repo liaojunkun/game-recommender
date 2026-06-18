@@ -42,18 +42,29 @@ def aggregate_3dm(raw_list: list[dict]) -> list[dict]:
     """将 3DM 原始数据转换为统一格式。"""
     result = []
     for item in raw_list:
-        # 将 tags 数组合并为 type 字符串
+        # 优先使用 tags 数组作为 type
         tags = item.get("tags", [])
         type_str = ", ".join(tags) if tags else ""
+
+        # 如果 tags 为空，尝试从 description 中提取"类型：xxx |"
+        if not type_str:
+            desc = item.get("description", "")
+            m = re.match(r"类型：([^|]+)", desc)
+            if m:
+                type_str = m.group(1).strip()
+
+        # 保留原始来源分类（如"近期新作"、"3DM-排行榜"、"3DM-专题"）
+        original_source = item.get("source", "3DM")
 
         result.append({
             "title": item.get("title", ""),
             "url": item.get("url", ""),
             "image": item.get("image", ""),
             "description": item.get("description", ""),
-            "source": "3DM",
+            "source": original_source,
             "date": normalize_chinese_date(item.get("date", "")),
             "type": type_str,
+            "platform": "3DM",
         })
     return result
 
@@ -62,14 +73,18 @@ def aggregate_ali213(raw_list: list[dict]) -> list[dict]:
     """将 ali213 原始数据转换为统一格式。"""
     result = []
     for item in raw_list:
+        # 保留原始来源分类（如"ali213-期待榜"、"ali213-好评榜"等）
+        original_source = item.get("source", "ali213")
+
         result.append({
             "title": item.get("title", ""),
             "url": item.get("url", ""),
             "image": item.get("image", ""),
             "description": item.get("description", ""),
-            "source": "ali213",
+            "source": original_source,
             "date": normalize_chinese_date(item.get("date", "")),
             "type": item.get("type", ""),
+            "platform": "ali213",
         })
     return result
 

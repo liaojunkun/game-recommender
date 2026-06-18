@@ -1,848 +1,992 @@
 [
   {
+    "title": "太吾绘卷",
+    "url": "https://www.3dmgame.com/games/taiwu/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260618/1781746206_510486.jpg",
+    "description": "发行：ConchShip Games",
+    "source": "近期新作",
+    "date": "2026-06-17",
+    "type": "恋爱模拟, 仙侠, 类 Rogue, 神话, 建造",
+    "platform": "3DM"
+  },
+  {
+    "title": "哥特王朝：重制版",
+    "url": "https://www.3dmgame.com/games/gothic1re/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780882630_777756.jpg",
+    "description": "发行：THQ Nordic,Alkimia Interactive",
+    "source": "近期新作",
+    "date": "2026-06-06",
+    "type": "奇幻, 中世纪, 哥特, 魔法, 重制",
+    "platform": "3DM"
+  },
+  {
+    "title": "007 初露锋芒",
+    "url": "https://www.3dmgame.com/games/007fl/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
+    "description": "发行：IO Interactive A/S",
+    "source": "近期新作",
+    "date": "2026-05-27",
+    "type": "驾驶, 潜行, 探索, 沉浸式模拟, 冒险",
+    "platform": "3DM"
+  },
+  {
+    "title": "平行人生",
+    "url": "https://www.3dmgame.com/games/parali/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260518/1779071877_120737.jpg",
+    "description": "发行：Paralives Studio",
+    "source": "近期新作",
+    "date": "2026-05-25",
+    "type": "生活模拟, 可爱, 角色自定义, 沉浸式模拟, 彩色",
+    "platform": "3DM"
+  },
+  {
+    "title": "极限竞速：地平线6",
+    "url": "https://www.3dmgame.com/games/forzahorizon6/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260123/1769131229_942610.jpg",
+    "description": "发行：Xbox Game Studios",
+    "source": "近期新作",
+    "date": "2026-05-19",
+    "type": "竞速, 玩家对战, 合作, 开放世界, 虚拟现实, XGP游戏列表",
+    "platform": "3DM"
+  },
+  {
     "title": "极品飞车18：宿敌",
     "url": "https://www.3dmgame.com/games/needforspeed18/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526960029_838372.jpg",
     "description": "类型：赛车游戏 | 制作：Ghost | 平台：PC | 发行：EA Games",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "2013-11-19",
-    "type": ""
+    "type": "赛车游戏",
+    "platform": "3DM"
   },
   {
     "title": "生化危机9：安魂曲",
     "url": "https://www.3dmgame.com/games/shwj9/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
     "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "2026-02-27",
-    "type": ""
+    "type": "动作游戏",
+    "platform": "3DM"
   },
   {
     "title": "归唐",
     "url": "https://www.3dmgame.com/games/gt/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250620/1750384793_164625.jpg",
     "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "角色扮演",
+    "platform": "3DM"
   },
   {
     "title": "剑星",
     "url": "https://www.3dmgame.com/games/projecteve/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250821/1755756802_316689.jpg",
     "description": "类型：动作游戏 | 制作：Shift up | 平台：PC | 发行：索尼",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "2025-06-12",
-    "type": ""
+    "type": "动作游戏",
+    "platform": "3DM"
   },
   {
     "title": "宝可梦：剑/盾",
     "url": "https://www.3dmgame.com/games/pokemonswordshield/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
     "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "2019-11-15",
-    "type": ""
+    "type": "角色扮演",
+    "platform": "3DM"
   },
   {
     "title": "上古卷轴5：天际",
     "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
     "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "2011-11-11",
-    "type": ""
+    "type": "角色扮演",
+    "platform": "3DM"
   },
   {
     "title": "逃出生天",
     "url": "https://www.3dmgame.com/games/awayout/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180719/1531967652_232197.jpg",
     "description": "类型：动作游戏 | 制作：Hazelight | 平台：PC | 发行：EA Games",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "2018-03-23",
-    "type": ""
+    "type": "动作游戏",
+    "platform": "3DM"
   },
   {
     "title": "魔法门之英雄无敌：上古纪元",
     "url": "https://www.3dmgame.com/games/hommoe/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260506/1778034918_130331.jpg",
     "description": "类型：策略游戏 | 制作：Unfrozen | 平台：PC | 发行：Hooded Horse",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "2026-04-30",
-    "type": ""
+    "type": "策略游戏",
+    "platform": "3DM"
   },
   {
     "title": "逆战",
     "url": "https://ol.3dmgame.com/nizhan/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171213/1513147864_264365.jpg",
     "description": "类型：动作 | 制作：琳琅天上 | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "动作",
+    "platform": "3DM"
   },
   {
     "title": "英雄联盟",
     "url": "https://ol.3dmgame.com/lol/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
     "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "MOBA",
+    "platform": "3DM"
   },
   {
     "title": "原神",
     "url": "https://ol.3dmgame.com/ys/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
     "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "冒险",
+    "platform": "3DM"
   },
   {
     "title": "魔兽世界",
     "url": "https://ol.3dmgame.com/wow/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
     "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "角色扮演",
+    "platform": "3DM"
   },
   {
     "title": "穿越火线",
     "url": "https://ol.3dmgame.com/cf/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
     "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "射击",
+    "platform": "3DM"
   },
   {
     "title": "地下城与勇士",
     "url": "https://ol.3dmgame.com/dnf/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
     "description": "类型：动作 | 制作：Neople | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "动作",
+    "platform": "3DM"
   },
   {
     "title": "CS:GO",
     "url": "https://ol.3dmgame.com/csgo/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171228/1514440716_369007.jpg",
     "description": "类型：射击 | 制作：Valve | 平台：PC | 发行：完美世界",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "射击",
+    "platform": "3DM"
   },
   {
     "title": "梦幻西游",
     "url": "https://ol.3dmgame.com/mhxy/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
     "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "角色扮演",
+    "platform": "3DM"
   },
   {
     "title": "天龙八部·归来",
     "url": "https://ol.3dmgame.com/tianlong/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20250725/1753431262_374520.jpg",
     "description": "类型：角色扮演 | 制作：搜狐畅游 | 平台：PC | 发行：畅游",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "角色扮演",
+    "platform": "3DM"
   },
   {
     "title": "我的世界",
     "url": "https://ol.3dmgame.com/mc/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
     "description": "类型：沙盒 | 制作：Mojang | 平台：PC | 发行：网易游戏",
-    "source": "3DM",
+    "source": "3DM-排行榜",
     "date": "",
-    "type": ""
+    "type": "沙盒",
+    "platform": "3DM"
   },
   {
     "title": "识质存在",
     "url": "https://www.3dmgame.com/games/pragmata/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20251213/1765589729_203390.jpg",
     "description": "",
-    "source": "3DM",
+    "source": "3DM-专题",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "3DM"
   },
   {
     "title": "杀戮尖塔2",
     "url": "https://www.3dmgame.com/games/sljt2/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772761857_118592.jpg",
     "description": "",
-    "source": "3DM",
+    "source": "3DM-专题",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "3DM"
   },
   {
     "title": "极限竞速：地平线6",
     "url": "http://0day.ali213.net/html/2025/151647.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/09/26/20250926105404656.jpg",
     "description": "极限竞速：地平线6",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-05-19",
-    "type": "赛车竞速RAC"
+    "type": "赛车竞速RAC",
+    "platform": "ali213"
   },
   {
     "title": "Pragmata",
     "url": "http://www.ali213.net/zt/pragmata/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/12/12/2025121291801706.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-17",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "OPUS：心相吾山",
     "url": "http://www.ali213.net/zt/opusprismpeak/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2024/07/18/2024071815436237.jpeg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-16",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "我是耶稣基督",
     "url": "http://www.ali213.net/zt/imjesus/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2020/01/19/2020011953404713.jpg",
     "description": "我是耶稣基督",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-02",
-    "type": "模拟经营SIM"
+    "type": "模拟经营SIM",
+    "platform": "ali213"
   },
   {
     "title": "Dosmic",
     "url": "http://0day.ali213.net/html/2026/153503.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/05/2026010520908179.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-07-01",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "RIG Riot",
     "url": "http://0day.ali213.net/html/2026/153727.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/20/20260120111521388.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-20",
-    "type": "动作射击STG"
+    "type": "动作射击STG",
+    "platform": "ali213"
   },
   {
     "title": "命运之潮",
     "url": "http://0day.ali213.net/html/2026/153501.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/05/2026010520222747.jpg",
     "description": "命运之潮",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-06-01",
-    "type": "动作射击STG"
+    "type": "动作射击STG",
+    "platform": "ali213"
   },
   {
     "title": "纸上的魔法使",
     "url": "http://0day.ali213.net/html/2026/153759.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/21/2026012120558717.jpg",
     "description": "纸上的魔法使",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-03",
-    "type": "角色扮演RPG"
+    "type": "角色扮演RPG",
+    "platform": "ali213"
   },
   {
     "title": "逆转命运之光",
     "url": "http://www.ali213.net/zt/lightofreversingdestiny/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/28/2026012853410480.jpg",
     "description": "逆转命运之光",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-05-20",
-    "type": "角色扮演RPG"
+    "type": "角色扮演RPG",
+    "platform": "ali213"
   },
   {
     "title": "地狱卡牌2",
     "url": "http://0day.ali213.net/html/2026/153987.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/02/06/2026020622917724.jpg",
     "description": "地狱卡牌2",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-07-01",
-    "type": "策略战棋SLG"
+    "type": "策略战棋SLG",
+    "platform": "ali213"
   },
   {
     "title": "传颂之物 循白之证",
     "url": "http://0day.ali213.net/html/2026/154071.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/02/12/2026021224958479.jpg",
     "description": "传颂之物 循白之证",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-05-28",
-    "type": "角色扮演RPG"
+    "type": "角色扮演RPG",
+    "platform": "ali213"
   },
   {
     "title": "木偶之匣",
     "url": "http://0day.ali213.net/html/2026/154075.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/02/12/2026021225920682.jpg",
     "description": "木偶之匣",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-06-01",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "堕落世界",
     "url": "http://0day.ali213.net/html/2026/154083.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/02/13/20260213103655779.jpg",
     "description": "堕落世界",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-17",
-    "type": "角色扮演RPG"
+    "type": "角色扮演RPG",
+    "platform": "ali213"
   },
   {
     "title": "死或生6 Last Round",
     "url": "http://0day.ali213.net/html/2026/154095.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/02/13/202602131355020.jpg",
     "description": "死或生6 Last Round",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-06-25",
-    "type": "格斗游戏FTG"
+    "type": "格斗游戏FTG",
+    "platform": "ali213"
   },
   {
     "title": "除邪2",
     "url": "http://0day.ali213.net/html/2026/154419.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/04/02/2026040211380898.jpg",
     "description": "除邪2",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-02",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "疫区档案",
     "url": "http://0day.ali213.net/html/2026/154411.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/04/01/2026040151744904.jpg",
     "description": "疫区档案",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-28",
-    "type": "即时战略RTS"
+    "type": "即时战略RTS",
+    "platform": "ali213"
   },
   {
     "title": "霸王契约",
     "url": "http://0day.ali213.net/html/2026/154405.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/03/31/2026033145153591.jpg",
     "description": "霸王契约",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-03",
-    "type": "角色扮演RPG"
+    "type": "角色扮演RPG",
+    "platform": "ali213"
   },
   {
     "title": "摩托GP26",
     "url": "http://0day.ali213.net/html/2026/154315.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/03/16/2026031610232410.jpg",
     "description": "摩托GP26",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-29",
-    "type": "赛车竞速RAC"
+    "type": "赛车竞速RAC",
+    "platform": "ali213"
   },
   {
     "title": "飞飞：无限宇宙",
     "url": "http://0day.ali213.net/html/2026/154241.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/03/09/20260309101441188.jpg",
     "description": "飞飞：无限宇宙",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-03",
-    "type": "网络游戏"
+    "type": "网络游戏",
+    "platform": "ali213"
   },
   {
     "title": "香缇小镇",
     "url": "http://0day.ali213.net/html/2026/154179.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/03/02/2026030222358254.jpg",
     "description": "香缇小镇",
-    "source": "ali213",
+    "source": "ali213-期待榜",
     "date": "2026-04-17",
-    "type": "休闲益智PUZ"
+    "type": "休闲益智PUZ",
+    "platform": "ali213"
   },
   {
     "title": "生化危机 安魂曲",
     "url": "http://www.ali213.net/zt/residentevilrequiem/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/06/23/2025062320927642.jpg",
     "description": "生化危机 安魂曲",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-27",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "仁王3",
     "url": "http://www.ali213.net/zt/nioh3/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/29/20260129122017834.jpg",
     "description": "仁王3",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-06",
-    "type": "角色扮演RPG"
+    "type": "角色扮演RPG",
+    "platform": "ali213"
   },
   {
     "title": "明日方舟：终末地",
     "url": "http://www.ali213.net/zt/arknightsendfield/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2023/12/12/2023121232805878.png",
     "description": "明日方舟：终末地",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-01-22",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "逆战：未来",
     "url": "http://www.ali213.net/zt/nizhanfuture/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/04/2026010410145632.png",
     "description": "逆战：未来",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-01-13",
-    "type": "第一人称射击FPS"
+    "type": "第一人称射击FPS",
+    "platform": "ali213"
   },
   {
     "title": "PUBG: BLINDSPOT",
     "url": "http://www.ali213.net/zt/pungblindspot/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/02/24/2025022413104390.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-05",
-    "type": "动作射击STG"
+    "type": "动作射击STG",
+    "platform": "ali213"
   },
   {
     "title": "死亡搁浅2：冥滩之上",
     "url": "http://www.ali213.net/zt/deathstranding2/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/02/13/2026021393813932.jpg",
     "description": "死亡搁浅2：冥滩之上",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-03-19",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "勇者斗恶龙7重制版",
     "url": "http://www.ali213.net/zt/dragqst7regd/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/09/19/2025091911640922.jpg",
     "description": "勇者斗恶龙7重制版",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-06",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "怪物猎人物语3：命运双龙",
     "url": "http://www.ali213.net/zt/gwlrwy3/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/08/05/202508051119108.jpg",
     "description": "怪物猎人物语3：命运双龙",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-03-13",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "极速骑行6",
     "url": "http://www.ali213.net/zt/ride6/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/12/16/20251216115817858.jpg",
     "description": "极速骑行6",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-12",
-    "type": "赛车竞速RAC"
+    "type": "赛车竞速RAC",
+    "platform": "ali213"
   },
   {
     "title": "人中之龙 极３",
     "url": "http://www.ali213.net/zt/yakuzakiwami3/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/10/31/2025103131110387.jpg",
     "description": "人中之龙 极３",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-12",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "零～红蝶～重制版",
     "url": "http://www.ali213.net/zt/lhdremake/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/09/26/2025092631336758.jpg",
     "description": "零～红蝶～重制版",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-03-12",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "YAPYAP",
     "url": "http://www.ali213.net/zt/yapyap/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/10/20/2025102053130579.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-04",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "巅峰守卫",
     "url": "http://www.ali213.net/zt/dfsw/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/12/15/2025121522547714.jpg",
     "description": "巅峰守卫",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-01-27",
-    "type": "第一人称射击FPS"
+    "type": "第一人称射击FPS",
+    "platform": "ali213"
   },
   {
     "title": "罗密欧是个绝命侠",
     "url": "http://www.ali213.net/zt/romeoisadeadman/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/10/30/2025103040750657.jpg",
     "description": "罗密欧是个绝命侠",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-11",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "嘟嘟嘟~恋爱信号响不停，美女室友们教我如何淡定？",
     "url": "http://www.ali213.net/zt/rrrddd/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/11/11/2025111132706816.jpg",
     "description": "嘟嘟嘟~恋爱信号响不停，美女室友们教我如何淡定？",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-03-04",
-    "type": "恋爱养成LVG"
+    "type": "恋爱养成LVG",
+    "platform": "ali213"
   },
   {
     "title": "生灵重塑",
     "url": "http://www.ali213.net/zt/reanimal/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2024/08/21/2024082195641811.jpeg",
     "description": "生灵重塑",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-13",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "马里奥网球：狂热",
     "url": "http://www.ali213.net/zt/mariotennisfever/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2026/01/28/2026012841914529.jpg",
     "description": "马里奥网球：狂热",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-02-12",
-    "type": "体育竞技SPG"
+    "type": "体育竞技SPG",
+    "platform": "ali213"
   },
   {
     "title": "红色沙漠",
     "url": "http://www.ali213.net/zt/crimsondesert/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2020/12/03/2020120355231234.jpg",
     "description": "红色沙漠",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-03-20",
-    "type": "冒险游戏AVG"
+    "type": "冒险游戏AVG",
+    "platform": "ali213"
   },
   {
     "title": "失落星船：马拉松",
     "url": "http://www.ali213.net/zt/marathon/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/05/07/2025050744841589.jpg",
     "description": "失落星船：马拉松",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-03-06",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "噬血代码2",
     "url": "http://www.ali213.net/zt/codevein2/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/06/07/2025060713343230.jpg",
     "description": "噬血代码2",
-    "source": "ali213",
+    "source": "ali213-好评榜",
     "date": "2026-01-30",
-    "type": "动作游戏ACT"
+    "type": "动作游戏ACT",
+    "platform": "ali213"
   },
   {
     "title": "侠盗猎车手6",
     "url": "http://www.ali213.net/zt/gta6/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2024/10/14/2024101445202114.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "矿井安全",
     "url": "http://www.ali213.net/zt/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/06/21/20250621111613937.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "黑神话：悟空",
     "url": "http://www.ali213.net/zt/blackmythwukong/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2024/05/11/2024051115448918.jpeg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "博德之门3",
     "url": "http://www.ali213.net/zt/bg3/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2023/12/12/2023121291405552.png",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "艾尔登法环",
     "url": "http://www.ali213.net/zt/eldenring/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2022/12/30/20221230122222799.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "双人成行",
     "url": "http://www.ali213.net/zt/ittakestwo/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2024/11/08/2024110835721740.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "赛博朋克2077",
     "url": "http://www.ali213.net/zt/Cyberpunk2077/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2021/01/20/20210120104527593.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "只狼：影逝二度",
     "url": "http://www.ali213.net/zt/sekirosdt/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2018/06/11/20180611113947714.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "战神4",
     "url": "http://www.ali213.net/zt/godofwar4/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2022/12/29/2022122953655871.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "巫师3：狂猎-血与酒",
     "url": "http://www.ali213.net/zt/yw3whbaw/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2016/12/27/20161227110543637.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "侠客风云传",
     "url": "http://www.ali213.net/zt/xinwulin/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2020/02/07/2020020762430140.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "使命召唤11：高级战争",
     "url": "http://www.ali213.net/zt/COD11/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2014/05/03/20145310342165375468.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "刺客信条3",
     "url": "http://www.ali213.net/zt/ac3/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2012/03/07/xu006.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "使命召唤8：现代战争3",
     "url": "http://www.ali213.net/zt/cod8/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2024/10/11/2024101113313901.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "使命召唤7黑色行动",
     "url": "http://www.ali213.net/zt/cod7/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2010/20100719104238106.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "使命召唤6现代战争2",
     "url": "http://www.ali213.net/zt/COD6/",
     "image": "https://imgs.ali213.net/oday/uploadfile/2009/cod6.jpg",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-年度榜",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "死亡搁浅2",
     "url": "https://www.ali213.net/zt/deathstranding2/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "杀戮尖塔2",
     "url": "https://www.ali213.net/zt/slaythespire2/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "红色沙漠",
     "url": "https://www.ali213.net/zt/crimsondesert/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "约翰·卡朋特之毒液突击队",
     "url": "https://www.ali213.net/zt/johncarpentertcao/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "怪物猎人物语3",
     "url": "https://www.ali213.net/zt/gwlrwy3/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "噬血代码2",
     "url": "https://www.ali213.net/zt/codevein2/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "零～红蝶～重制版",
     "url": "https://www.ali213.net/zt/lhdremake/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "失落星船：马拉松",
     "url": "https://www.ali213.net/zt/marathon/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-近期新作",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "王者荣耀：世界",
     "url": "https://www.ali213.net/zt/hokworld/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "神探杰克鼠",
     "url": "https://www.ali213.net/zt/mouse/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "OPUS：心相吾山",
     "url": "https://www.ali213.net/zt/opusprismpeak/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "虚实万象",
     "url": "https://www.ali213.net/zt/pragmata/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "Replaced",
     "url": "https://www.ali213.net/zt/replaced/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "星河战队: 终焉虫潮",
     "url": "https://www.ali213.net/zt/starshiptroopersubw/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "罪托邦",
     "url": "https://www.ali213.net/zt/sintopia/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "尖叫者",
     "url": "https://www.ali213.net/zt/screamer/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "奇异人生：重聚",
     "url": "https://www.ali213.net/zt/lifeisstranger/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   },
   {
     "title": "Road to Vostok",
     "url": "https://www.ali213.net/zt/roadtovostok/",
     "image": "",
     "description": "",
-    "source": "ali213",
+    "source": "ali213-即将上市",
     "date": "",
-    "type": ""
+    "type": "",
+    "platform": "ali213"
   }
 ]

@@ -62,14 +62,14 @@ def scrape_and_save(source: str, output_file: str, delay: float) -> list:
     Returns:
         聚合后的游戏列表
     """
-    all_raw = []
+    raw_3dm = []
+    raw_ali213 = []
 
     if source in ("all", "3dm"):
         print("\n" + "=" * 50)
         print("[1/3] 抓取 3DM 数据...")
         print("=" * 50)
         raw_3dm = scrape_3dm.scrape_3dm()
-        all_raw.extend(raw_3dm)
         print(f"  -> 3DM 原始数据: {len(raw_3dm)} 条")
 
     if source in ("all", "ali213"):
@@ -77,20 +77,14 @@ def scrape_and_save(source: str, output_file: str, delay: float) -> list:
         print("[2/3] 抓取游侠网数据...")
         print("=" * 50)
         raw_ali213 = scrape_ali213.scrape_ali213()
-        all_raw.extend(raw_ali213)
         print(f"  -> 游侠网原始数据: {len(raw_ali213)} 条")
 
     print("\n" + "=" * 50)
     print("[3/3] 数据聚合...")
     print("=" * 50)
 
-    # 按来源分别聚合
-    # 先分离来源
-    raw_3dm_list = [g for g in all_raw if "3DM" in g.get("source", "")]
-    raw_ali213_list = [g for g in all_raw if "ali213" in g.get("source", "")]
-
-    games_3dm = aggregate_3dm(raw_3dm_list)
-    games_ali213 = aggregate_ali213(raw_ali213_list)
+    games_3dm = aggregate_3dm(raw_3dm)
+    games_ali213 = aggregate_ali213(raw_ali213)
 
     # 合并、去重、排序
     all_games = games_3dm + games_ali213

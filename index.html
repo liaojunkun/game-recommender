@@ -65,6 +65,54 @@
       display: none;
     }
 
+    /* ---- Filter Bar ---- */
+    #filter-bar, #sub-filter-bar {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 16px 16px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+    #sub-filter-bar {
+      padding-top: 8px;
+    }
+    #filter-bar .filter-label, #sub-filter-bar .filter-label {
+      font-size: 13px;
+      color: #888;
+      margin-right: 4px;
+    }
+    #platform-filters, #source-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .filter-btn {
+      padding: 6px 14px;
+      border: 1px solid #2a2a4a;
+      border-radius: 20px;
+      background: #1a1a2e;
+      color: #aaa;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .filter-btn:hover {
+      border-color: #6c63ff;
+      color: #fff;
+    }
+    .filter-btn.active {
+      background: #6c63ff;
+      border-color: #6c63ff;
+      color: #fff;
+    }
+    .filter-btn .count {
+      font-size: 11px;
+      opacity: 0.7;
+      margin-left: 4px;
+    }
+
     /* ---- Grid ---- */
     #game-grid {
       display: grid;
@@ -245,6 +293,15 @@
 
   <div id="error-msg"></div>
 
+  <div id="filter-bar" style="display: none;">
+    <span class="filter-label">来源：</span>
+    <span id="platform-filters"></span>
+  </div>
+  <div id="sub-filter-bar" style="display: none;">
+    <span class="filter-label">分类：</span>
+    <span id="source-filters"></span>
+  </div>
+
   <div id="game-grid"></div>
 
   <footer>
@@ -256,6 +313,14 @@
       const grid = document.getElementById('game-grid');
       const loader = document.getElementById('loader');
       const errorMsg = document.getElementById('error-msg');
+      const filterBar = document.getElementById('filter-bar');
+      const subFilterBar = document.getElementById('sub-filter-bar');
+      const platformFilters = document.getElementById('platform-filters');
+      const sourceFilters = document.getElementById('source-filters');
+
+      let allGames = [];
+      let currentPlatform = 'all'; // 当前平台筛选（3DM / ali213 / all）
+      let currentSource = 'all';   // 当前来源筛选（如"近期新作"、"3DM-排行榜"等）
 
       // 创建单个卡片
       function createCard(game, index) {
@@ -263,9 +328,9 @@
         card.className = 'card';
         card.style.animationDelay = (index * 0.05) + 's';
 
-        // 来源标签
-        const sourceClass = game.source === '3DM' ? 'threedm' : 'ali213';
-        const sourceTag = '<span class="tag-source ' + sourceClass + '">' + escapeHtml(game.source) + '</span>';
+        // 来源标签（基于 platform）
+        const sourceClass = game.platform === '3DM' ? 'threedm' : 'ali213';
+        const sourceTag = '<span class="tag-source ' + sourceClass + '">' + escapeHtml(game.platform) + '</span>';
         const dateTag = game.date
           ? '<span class="tag-date">' + escapeHtml(game.date) + '</span>'
           : '';
@@ -317,8 +382,121 @@
           errorMsg.style.display = 'block';
           return;
         }
+        grid.innerHTML = '';
         games.forEach(function (game, i) {
           grid.appendChild(createCard(game, i));
+        });
+      }
+
+      // 创建平台筛选按钮（第一级）
+      function createPlatformButtons(games) {
+        const platformCount = {};
+        games.forEach(function(game) {
+          const platform = game.platform || '未知';
+          platformCount[platform] = (platformCount[platform] || 0) + 1;
+        });
+
+        // "全部"按钮
+        const allBtn = document.createElement('button');
+        allBtn.className = 'filter-btn active';
+        allBtn.innerHTML = '全部 <span class="count">(' + games.length + ')</span>';
+        allBtn.onclick = function() {
+          currentPlatform = 'all';
+          currentSource = 'all';
+          updatePlatformButtons();
+          updateSourceButtons();
+          renderGames(allGames);
+          subFilterBar.style.display = 'none';
+        };
+        platformFilters.appendChild(allBtn);
+
+        // 为每个平台创建按钮
+        Object.keys(platformCount).sort().forEach(function(platform) {
+          const btn = document.createElement('button');
+          btn.className = 'filter-btn';
+          btn.innerHTML = escapeHtml(platform) + ' <span class="count">(' + platformCount[platform] + ')</span>';
+          btn.onclick = function() {
+            currentPlatform = platform;
+            currentSource = 'all';
+            updatePlatformButtons();
+            createSourceButtons(platform);
+            const filtered = allGames.filter(function(g) {
+              return g.platform === platform;
+            });
+            renderGames(filtered);
+            subFilterBar.style.display = 'flex';
+          };
+          platformFilters.appendChild(btn);
+        });
+
+        filterBar.style.display = 'flex';
+      }
+
+      // 创建来源筛选按钮（第二级）
+      function createSourceButtons(platform) {
+        const filtered = allGames.filter(function(g) {
+          return g.platform === platform;
+        });
+
+        const sourceCount = {};
+        filtered.forEach(function(game) {
+          const source = game.source || '未知';
+          sourceCount[source] = (sourceCount[source] || 0) + 1;
+        });
+
+        sourceFilters.innerHTML = '';
+
+        // "全部"按钮
+        const allBtn = document.createElement('button');
+        allBtn.className = 'filter-btn active';
+        allBtn.innerHTML = '全部 <span class="count">(' + filtered.length + ')</span>';
+        allBtn.onclick = function() {
+          currentSource = 'all';
+          updateSourceButtons();
+          renderGames(filtered);
+        };
+        sourceFilters.appendChild(allBtn);
+
+        // 为每个来源创建按钮
+        Object.keys(sourceCount).sort().forEach(function(source) {
+          const btn = document.createElement('button');
+          btn.className = 'filter-btn';
+          btn.innerHTML = escapeHtml(source) + ' <span class="count">(' + sourceCount[source] + ')</span>';
+          btn.onclick = function() {
+            currentSource = source;
+            updateSourceButtons();
+            const subFiltered = filtered.filter(function(g) {
+              return g.source === source;
+            });
+            renderGames(subFiltered);
+          };
+          sourceFilters.appendChild(btn);
+        });
+      }
+
+      // 更新平台筛选按钮的激活状态
+      function updatePlatformButtons() {
+        const buttons = platformFilters.querySelectorAll('.filter-btn');
+        buttons.forEach(function(btn, index) {
+          if (index === 0) {
+            btn.classList.toggle('active', currentPlatform === 'all');
+          } else {
+            const platform = btn.textContent.replace(/\s*\(\d+\)\s*$/, '');
+            btn.classList.toggle('active', currentPlatform === platform);
+          }
+        });
+      }
+
+      // 更新来源筛选按钮的激活状态
+      function updateSourceButtons() {
+        const buttons = sourceFilters.querySelectorAll('.filter-btn');
+        buttons.forEach(function(btn, index) {
+          if (index === 0) {
+            btn.classList.toggle('active', currentSource === 'all');
+          } else {
+            const source = btn.textContent.replace(/\s*\(\d+\)\s*$/, '');
+            btn.classList.toggle('active', currentSource === source);
+          }
         });
       }
 
@@ -336,6 +514,8 @@
           return res.json();
         })
         .then(function (games) {
+          allGames = games;
+          createPlatformButtons(games);
           renderGames(games);
         })
         .catch(function (err) {

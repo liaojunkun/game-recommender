@@ -1,20 +1,20 @@
 [
   {
-    "title": "生化危机9：安魂曲",
-    "url": "https://www.3dmgame.com/games/shwj9/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
-    "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
-    "source": "3DM",
-    "date": "2026-02-27",
-    "type": ""
-  },
-  {
     "title": "极品飞车18：宿敌",
     "url": "https://www.3dmgame.com/games/needforspeed18/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526960029_838372.jpg",
     "description": "类型：赛车游戏 | 制作：Ghost | 平台：PC | 发行：EA Games",
     "source": "3DM",
     "date": "2013-11-19",
+    "type": ""
+  },
+  {
+    "title": "生化危机9：安魂曲",
+    "url": "https://www.3dmgame.com/games/shwj9/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
+    "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
+    "source": "3DM",
+    "date": "2026-02-27",
     "type": ""
   },
   {
@@ -27,12 +27,12 @@
     "type": ""
   },
   {
-    "title": "生化危机6",
-    "url": "https://www.3dmgame.com/games/re6/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
-    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
+    "title": "剑星",
+    "url": "https://www.3dmgame.com/games/projecteve/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250821/1755756802_316689.jpg",
+    "description": "类型：动作游戏 | 制作：Shift up | 平台：PC | 发行：索尼",
     "source": "3DM",
-    "date": "2013-03-22",
+    "date": "2025-06-12",
     "type": ""
   },
   {
@@ -45,21 +45,12 @@
     "type": ""
   },
   {
-    "title": "杀戮尖塔2",
-    "url": "https://www.3dmgame.com/games/sljt2/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772761857_118592.jpg",
-    "description": "类型：策略游戏 | 制作：暂无 | 平台：PC | 发行：暂无",
+    "title": "上古卷轴5：天际",
+    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
+    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
     "source": "3DM",
-    "date": "2026-03-06",
-    "type": ""
-  },
-  {
-    "title": "尼尔：机械纪元",
-    "url": "https://www.3dmgame.com/games/nierautomata/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
-    "description": "类型：动作游戏 | 制作：Platinum Games Inc. | 平台：Switch | 发行：史克威尔艾尼克斯",
-    "source": "3DM",
-    "date": "2022-10-06",
+    "date": "2011-11-11",
     "type": ""
   },
   {
@@ -72,12 +63,12 @@
     "type": ""
   },
   {
-    "title": "上古卷轴5：天际",
-    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
-    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "title": "魔法门之英雄无敌：上古纪元",
+    "url": "https://www.3dmgame.com/games/hommoe/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260506/1778034918_130331.jpg",
+    "description": "类型：策略游戏 | 制作：Unfrozen | 平台：PC | 发行：Hooded Horse",
     "source": "3DM",
-    "date": "2011-11-11",
+    "date": "2026-04-30",
     "type": ""
   },
   {
@@ -99,10 +90,10 @@
     "type": ""
   },
   {
-    "title": "穿越火线",
-    "url": "https://ol.3dmgame.com/cf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
-    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "title": "原神",
+    "url": "https://ol.3dmgame.com/ys/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
+    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
     "source": "3DM",
     "date": "",
     "type": ""
@@ -117,28 +108,19 @@
     "type": ""
   },
   {
+    "title": "穿越火线",
+    "url": "https://ol.3dmgame.com/cf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
+    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM",
+    "date": "",
+    "type": ""
+  },
+  {
     "title": "地下城与勇士",
     "url": "https://ol.3dmgame.com/dnf/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
     "description": "类型：动作 | 制作：Neople | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM",
-    "date": "",
-    "type": ""
-  },
-  {
-    "title": "梦幻西游",
-    "url": "https://ol.3dmgame.com/mhxy/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
-    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
-    "source": "3DM",
-    "date": "",
-    "type": ""
-  },
-  {
-    "title": "原神",
-    "url": "https://ol.3dmgame.com/ys/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
-    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
     "source": "3DM",
     "date": "",
     "type": ""
@@ -153,27 +135,45 @@
     "type": ""
   },
   {
-    "title": "云顶之弈",
-    "url": "https://ol.3dmgame.com/ydzy/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20210305/1614911519_761793.jpg",
-    "description": "类型：卡牌 | 制作：拳头游戏 | 平台：PC | 发行：腾讯游戏",
+    "title": "梦幻西游",
+    "url": "https://ol.3dmgame.com/mhxy/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
+    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
     "source": "3DM",
     "date": "",
     "type": ""
   },
   {
-    "title": "剑网3",
-    "url": "https://ol.3dmgame.com/jianw3/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511160516_991733.jpg",
-    "description": "类型：角色扮演 | 制作：西山居 | 平台：PC | 发行：金山游戏",
+    "title": "天龙八部·归来",
+    "url": "https://ol.3dmgame.com/tianlong/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20250725/1753431262_374520.jpg",
+    "description": "类型：角色扮演 | 制作：搜狐畅游 | 平台：PC | 发行：畅游",
     "source": "3DM",
     "date": "",
     "type": ""
   },
   {
-    "title": "红色沙漠",
-    "url": "https://www.3dmgame.com/games/hssm/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260319/1773889078_911049.jpg",
+    "title": "我的世界",
+    "url": "https://ol.3dmgame.com/mc/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
+    "description": "类型：沙盒 | 制作：Mojang | 平台：PC | 发行：网易游戏",
+    "source": "3DM",
+    "date": "",
+    "type": ""
+  },
+  {
+    "title": "识质存在",
+    "url": "https://www.3dmgame.com/games/pragmata/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20251213/1765589729_203390.jpg",
+    "description": "",
+    "source": "3DM",
+    "date": "",
+    "type": ""
+  },
+  {
+    "title": "杀戮尖塔2",
+    "url": "https://www.3dmgame.com/games/sljt2/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772761857_118592.jpg",
     "description": "",
     "source": "3DM",
     "date": "",

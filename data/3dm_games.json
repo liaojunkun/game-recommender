@@ -1,85 +1,79 @@
 [
   {
-    "title": "黑相集：指令8020",
-    "url": "https://www.3dmgame.com/games/hxjzl8020/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260417/1776407700_385657.jpg",
-    "description": "发行：Supermassive Games",
-    "date": "2026年5月12日",
+    "title": "太吾绘卷",
+    "url": "https://www.3dmgame.com/games/taiwu/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260618/1781746206_510486.jpg",
+    "description": "发行：ConchShip Games",
+    "date": "2026年6月17日",
     "tags": [
-      "恐怖",
-      "电影式",
+      "恋爱模拟",
+      "仙侠",
+      "类 Rogue",
+      "神话",
+      "建造"
+    ],
+    "source": "近期新作"
+  },
+  {
+    "title": "哥特王朝：重制版",
+    "url": "https://www.3dmgame.com/games/gothic1re/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780882630_777756.jpg",
+    "description": "发行：THQ Nordic,Alkimia Interactive",
+    "date": "2026年6月6日",
+    "tags": [
+      "奇幻",
+      "中世纪",
+      "哥特",
+      "魔法",
+      "重制"
+    ],
+    "source": "近期新作"
+  },
+  {
+    "title": "007 初露锋芒",
+    "url": "https://www.3dmgame.com/games/007fl/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
+    "description": "发行：IO Interactive A/S",
+    "date": "2026年5月27日",
+    "tags": [
+      "驾驶",
       "潜行",
-      "生存恐怖",
+      "探索",
+      "沉浸式模拟",
       "冒险"
     ],
     "source": "近期新作"
   },
   {
-    "title": "魔法门之英雄无敌：上古纪元",
-    "url": "https://www.3dmgame.com/games/hommoe/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260506/1778034918_130331.jpg",
-    "description": "发行：Hooded Horse",
-    "date": "2026年4月30日",
+    "title": "平行人生",
+    "url": "https://www.3dmgame.com/games/parali/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260518/1779071877_120737.jpg",
+    "description": "发行：Paralives Studio",
+    "date": "2026年5月25日",
     "tags": [
-      "沙盒",
-      "历史",
-      "奇幻",
-      "回合制",
-      "军事"
-    ],
-    "source": "近期新作"
-  },
-  {
-    "title": "识质存在",
-    "url": "https://www.3dmgame.com/games/pragmata/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20251213/1765589729_203390.jpg",
-    "description": "发行：CAPCOM Co., Ltd.",
-    "date": "2026年4月17日",
-    "tags": [
-      "欢乐",
-      "机器人",
+      "生活模拟",
       "可爱",
-      "黑客",
-      "人工智能"
+      "角色自定义",
+      "沉浸式模拟",
+      "彩色"
     ],
     "source": "近期新作"
   },
   {
-    "title": "灵魂面甲",
-    "url": "https://www.3dmgame.com/games/soulmask/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260414/1776135113_319874.jpg",
-    "description": "发行：Qooland Games",
-    "date": "2026年4月10日",
+    "title": "极限竞速：地平线6",
+    "url": "https://www.3dmgame.com/games/forzahorizon6/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260123/1769131229_942610.jpg",
+    "description": "发行：Xbox Game Studios",
+    "date": "2026年5月19日",
     "tags": [
-      "战争",
-      "生存",
+      "竞速",
       "玩家对战",
+      "合作",
       "开放世界",
-      "探索"
+      "虚拟现实",
+      "XGP游戏列表"
     ],
     "source": "近期新作"
-  },
-  {
-    "title": "宝可梦：冠军",
-    "url": "https://www.3dmgame.com/games/pkmchampions/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250407/1743992532_710052.jpg",
-    "description": "发行：任天堂",
-    "date": "2026年4月8日",
-    "tags": [
-      "回合制",
-      "创意",
-      "玩家对战"
-    ],
-    "source": "近期新作"
-  },
-  {
-    "title": "生化危机9：安魂曲",
-    "url": "https://www.3dmgame.com/games/shwj9/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
-    "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
-    "date": "2026年2月27日 ( PC )",
-    "tags": [],
-    "source": "3DM-排行榜"
   },
   {
     "title": "极品飞车18：宿敌",
@@ -87,6 +81,15 @@
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526960029_838372.jpg",
     "description": "类型：赛车游戏 | 制作：Ghost | 平台：PC | 发行：EA Games",
     "date": "2013年11月19日 ( PC )",
+    "tags": [],
+    "source": "3DM-排行榜"
+  },
+  {
+    "title": "生化危机9：安魂曲",
+    "url": "https://www.3dmgame.com/games/shwj9/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
+    "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
+    "date": "2026年2月27日 ( PC )",
     "tags": [],
     "source": "3DM-排行榜"
   },
@@ -100,11 +103,11 @@
     "source": "3DM-排行榜"
   },
   {
-    "title": "生化危机6",
-    "url": "https://www.3dmgame.com/games/re6/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
-    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
-    "date": "2013年3月22日 ( PC )",
+    "title": "剑星",
+    "url": "https://www.3dmgame.com/games/projecteve/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250821/1755756802_316689.jpg",
+    "description": "类型：动作游戏 | 制作：Shift up | 平台：PC | 发行：索尼",
+    "date": "2025年6月12日 ( PC )",
     "tags": [],
     "source": "3DM-排行榜"
   },
@@ -118,20 +121,11 @@
     "source": "3DM-排行榜"
   },
   {
-    "title": "杀戮尖塔2",
-    "url": "https://www.3dmgame.com/games/sljt2/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772761857_118592.jpg",
-    "description": "类型：策略游戏 | 制作：暂无 | 平台：PC | 发行：暂无",
-    "date": "2026年3月6日 ( PC )",
-    "tags": [],
-    "source": "3DM-排行榜"
-  },
-  {
-    "title": "尼尔：机械纪元",
-    "url": "https://www.3dmgame.com/games/nierautomata/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
-    "description": "类型：动作游戏 | 制作：Platinum Games Inc. | 平台：Switch | 发行：史克威尔艾尼克斯",
-    "date": "2022年10月6日 ( Switch )",
+    "title": "上古卷轴5：天际",
+    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
+    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "date": "2011年11月11日 ( PC )",
     "tags": [],
     "source": "3DM-排行榜"
   },
@@ -145,11 +139,11 @@
     "source": "3DM-排行榜"
   },
   {
-    "title": "上古卷轴5：天际",
-    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
-    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
-    "date": "2011年11月11日 ( PC )",
+    "title": "魔法门之英雄无敌：上古纪元",
+    "url": "https://www.3dmgame.com/games/hommoe/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260506/1778034918_130331.jpg",
+    "description": "类型：策略游戏 | 制作：Unfrozen | 平台：PC | 发行：Hooded Horse",
+    "date": "2026年4月30日 ( PC )",
     "tags": [],
     "source": "3DM-排行榜"
   },
@@ -172,10 +166,10 @@
     "source": "3DM-排行榜"
   },
   {
-    "title": "穿越火线",
-    "url": "https://ol.3dmgame.com/cf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
-    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "title": "原神",
+    "url": "https://ol.3dmgame.com/ys/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
+    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
     "date": "",
     "tags": [],
     "source": "3DM-排行榜"
@@ -190,28 +184,19 @@
     "source": "3DM-排行榜"
   },
   {
+    "title": "穿越火线",
+    "url": "https://ol.3dmgame.com/cf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
+    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "date": "",
+    "tags": [],
+    "source": "3DM-排行榜"
+  },
+  {
     "title": "地下城与勇士",
     "url": "https://ol.3dmgame.com/dnf/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
     "description": "类型：动作 | 制作：Neople | 平台：PC | 发行：腾讯游戏",
-    "date": "",
-    "tags": [],
-    "source": "3DM-排行榜"
-  },
-  {
-    "title": "梦幻西游",
-    "url": "https://ol.3dmgame.com/mhxy/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
-    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
-    "date": "",
-    "tags": [],
-    "source": "3DM-排行榜"
-  },
-  {
-    "title": "原神",
-    "url": "https://ol.3dmgame.com/ys/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
-    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
     "date": "",
     "tags": [],
     "source": "3DM-排行榜"
@@ -226,27 +211,45 @@
     "source": "3DM-排行榜"
   },
   {
-    "title": "云顶之弈",
-    "url": "https://ol.3dmgame.com/ydzy/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20210305/1614911519_761793.jpg",
-    "description": "类型：卡牌 | 制作：拳头游戏 | 平台：PC | 发行：腾讯游戏",
+    "title": "梦幻西游",
+    "url": "https://ol.3dmgame.com/mhxy/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
+    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
     "date": "",
     "tags": [],
     "source": "3DM-排行榜"
   },
   {
-    "title": "剑网3",
-    "url": "https://ol.3dmgame.com/jianw3/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511160516_991733.jpg",
-    "description": "类型：角色扮演 | 制作：西山居 | 平台：PC | 发行：金山游戏",
+    "title": "天龙八部·归来",
+    "url": "https://ol.3dmgame.com/tianlong/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20250725/1753431262_374520.jpg",
+    "description": "类型：角色扮演 | 制作：搜狐畅游 | 平台：PC | 发行：畅游",
     "date": "",
     "tags": [],
     "source": "3DM-排行榜"
   },
   {
-    "title": "红色沙漠",
-    "url": "https://www.3dmgame.com/games/hssm/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260319/1773889078_911049.jpg",
+    "title": "我的世界",
+    "url": "https://ol.3dmgame.com/mc/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
+    "description": "类型：沙盒 | 制作：Mojang | 平台：PC | 发行：网易游戏",
+    "date": "",
+    "tags": [],
+    "source": "3DM-排行榜"
+  },
+  {
+    "title": "识质存在",
+    "url": "https://www.3dmgame.com/games/pragmata/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20251213/1765589729_203390.jpg",
+    "description": "",
+    "date": "",
+    "tags": [],
+    "source": "3DM-专题"
+  },
+  {
+    "title": "杀戮尖塔2",
+    "url": "https://www.3dmgame.com/games/sljt2/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772761857_118592.jpg",
     "description": "",
     "date": "",
     "tags": [],

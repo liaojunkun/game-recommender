@@ -1,0 +1,66 @@
+name: Update Game Data
+
+on:
+  schedule:
+    # 每天 UTC 19:00 = 北京时间 03:00
+    - cron: '0 19 * * *'
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run scraper
+        run: python run_scraper.py
+      
+      - name: Update embedded data in index.html
+        run: |
+          # 读取 games.json 并更新 index.html 中的内嵌数据
+          python3 << 'EOF'
+          import json
+          import re
+          
+          # 读取游戏数据
+          with open('data/games.json', 'r', encoding='utf-8') as f:
+              games_data = json.load(f)
+          
+          # 转换为单行 JSON
+          games_json = json.dumps(games_data, ensure_ascii=False, separators=(',', ':'))
+          
+          # 读取 index.html
+          with open('index.html', 'r', encoding='utf-8') as f:
+              html_content = f.read()
+          
+          # 替换 EMBEDDED_GAMES_DATA 变量
+          pattern = r'var EMBEDDED_GAMES_DATA = \[.*?\];'
+          replacement = f'var EMBEDDED_GAMES_DATA = {games_json};'
+          new_html = re.sub(pattern, replacement, html_content, flags=re.DOTALL)
+          
+          # 写回文件
+          with open('index.html', 'w', encoding='utf-8') as f:
+              f.write(new_html)
+          
+          print(f"Updated index.html with {len(games_data)} games")
+          EOF
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/games.json index.html
+          git diff --staged --quiet || git commit -m "chore: update game data [automated]"
+          git push

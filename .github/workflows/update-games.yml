@@ -27,40 +27,10 @@ jobs:
       - name: Run scraper
         run: python run_scraper.py
       
-      - name: Update embedded data in index.html
-        run: |
-          # 读取 games.json 并更新 index.html 中的内嵌数据
-          python3 << 'EOF'
-          import json
-          import re
-          
-          # 读取游戏数据
-          with open('data/games.json', 'r', encoding='utf-8') as f:
-              games_data = json.load(f)
-          
-          # 转换为单行 JSON
-          games_json = json.dumps(games_data, ensure_ascii=False, separators=(',', ':'))
-          
-          # 读取 index.html
-          with open('index.html', 'r', encoding='utf-8') as f:
-              html_content = f.read()
-          
-          # 替换 EMBEDDED_GAMES_DATA 变量
-          pattern = r'var EMBEDDED_GAMES_DATA = \[.*?\];'
-          replacement = f'var EMBEDDED_GAMES_DATA = {games_json};'
-          new_html = re.sub(pattern, replacement, html_content, flags=re.DOTALL)
-          
-          # 写回文件
-          with open('index.html', 'w', encoding='utf-8') as f:
-              f.write(new_html)
-          
-          print(f"Updated index.html with {len(games_data)} games")
-          EOF
-      
       - name: Commit and push changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add data/games.json index.html
+          git add data/games.json
           git diff --staged --quiet || git commit -m "chore: update game data [automated]"
           git push

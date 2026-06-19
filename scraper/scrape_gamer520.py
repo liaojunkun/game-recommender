@@ -57,8 +57,19 @@ def fetch_page(url: str, headers: dict = None, retries: int = MAX_RETRIES) -> st
         except requests.exceptions.HTTPError as e:
             print(f"[WARN] HTTP错误 (尝试 {attempt}/{retries}): {e}")
             print(f"  状态码: {e.response.status_code}")
-            print(f"  响应头: {dict(e.response.headers)}")
-            print(f"  响应体(前500字符): {e.response.text[:500]}")
+            # 只打印关键响应头，避免过长
+            important_headers = {k: v for k, v in e.response.headers.items() 
+                                if k.lower() in ('server', 'cf-ray', 'cf-mitigated', 'content-type', 'set-cookie')}
+            print(f"  关键响应头: {important_headers}")
+            # 尝试解码响应体，失败则跳过
+            try:
+                body_text = e.response.text[:300]
+                if body_text.isprintable() or len(body_text.encode('utf-8', errors='ignore')) > 100:
+                    print(f"  响应体(前300字符): {body_text}")
+                else:
+                    print(f"  响应体: [非文本内容，长度 {len(e.response.content)} 字节]")
+            except Exception:
+                print(f"  响应体: [无法解码，长度 {len(e.response.content)} 字节]")
             if attempt < retries:
                 time.sleep(REQUEST_DELAY * attempt)
             else:

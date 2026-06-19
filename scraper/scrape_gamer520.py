@@ -54,8 +54,18 @@ def fetch_page(url: str, headers: dict = None, retries: int = MAX_RETRIES) -> st
             resp.raise_for_status()
             resp.encoding = resp.apparent_encoding
             return resp.text
+        except requests.exceptions.HTTPError as e:
+            print(f"[WARN] HTTP错误 (尝试 {attempt}/{retries}): {e}")
+            print(f"  状态码: {e.response.status_code}")
+            print(f"  响应头: {dict(e.response.headers)}")
+            print(f"  响应体(前500字符): {e.response.text[:500]}")
+            if attempt < retries:
+                time.sleep(REQUEST_DELAY * attempt)
+            else:
+                print(f"[ERROR] 请求 {url} 最终失败")
+                return None
         except requests.exceptions.RequestException as e:
-            print(f"[WARN] 请求失败 (尝试 {attempt}/{retries}): {e}")
+            print(f"[WARN] 请求失败 (尝试 {attempt}/{retries}): {type(e).__name__}: {e}")
             if attempt < retries:
                 time.sleep(REQUEST_DELAY * attempt)
             else:

@@ -2,8 +2,8 @@ name: Update Game Data
 
 on:
   schedule:
-    # 每天 UTC 19:00 = 北京时间 03:00
-    - cron: '0 19 * * *'
+    # 每小时的第45分钟执行
+    - cron: '45 * * * *'
   workflow_dispatch:  # 支持手动触发
 
 jobs:

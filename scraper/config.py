@@ -51,7 +51,7 @@ GAMER520_HEADERS = {
 }
 
 # 通用配置
-REQUEST_DELAY = 1.0  # 请求间隔秒数（优化：从2秒减到1秒）
+REQUEST_DELAY = 2.0  # 请求间隔秒数（优化：从2秒减到1秒）
 MAX_RETRIES = 3  # 最大重试次数
 REQUEST_TIMEOUT = 20  # 请求超时秒数
 

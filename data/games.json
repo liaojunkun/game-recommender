@@ -12,7 +12,7 @@
   {
     "title": "太吾绘卷",
     "url": "https://www.3dmgame.com/games/taiwu/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260618/1781746206_510486.jpg",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260621/1781972088_837271.jpg",
     "description": "发行：ConchShip Games",
     "source": "近期新作",
     "date": "2026-06-17",
@@ -110,22 +110,22 @@
     "platform": "3DM"
   },
   {
-    "title": "生化危机6",
-    "url": "https://www.3dmgame.com/games/re6/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
-    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
-    "source": "3DM-排行榜",
-    "date": "2013-03-22",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "逃出生天",
     "url": "https://www.3dmgame.com/games/awayout/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180719/1531967652_232197.jpg",
     "description": "类型：动作游戏 | 制作：Hazelight | 平台：PC | 发行：EA Games",
     "source": "3DM-排行榜",
     "date": "2018-03-23",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "生化危机6",
+    "url": "https://www.3dmgame.com/games/re6/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
+    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
+    "source": "3DM-排行榜",
+    "date": "2013-03-22",
     "type": "动作游戏",
     "platform": "3DM"
   },
@@ -1049,7 +1049,7 @@
     "date": "2026-06-20 08:02",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 87
+    "rank_hot": 85
   },
   {
     "title": "法外枭雄 滚石城|豪华中文|Build.23686601-黑夜狂徒-铁血帮派+预购特典+全DLC+多人模式|解压即撸|",
@@ -1161,7 +1161,7 @@
     "date": "2026-06-20 06:03",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 89
+    "rank_hot": 88
   },
   {
     "title": "感谢你的投递|官方中文|Build.23824927+全DLC|解压即撸|",
@@ -1202,7 +1202,7 @@
     "date": "2026-06-19 06:25",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 85
+    "rank_hot": 86
   },
   {
     "title": "魔法门之英雄无敌 上古纪元|豪华中文|Build.23785616+全DLC|解压即撸|",
@@ -3224,19 +3224,8 @@
     "date": "2026-06-12 07:03",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 20,
+    "rank_hot": 21,
     "rank_comment_count": 35
-  },
-  {
-    "title": "哈迪斯2|官方中文|Build.23661331-战歌四起-冥界神威+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/75506.html",
-    "image": "https://s1.imagehub.cc/images/2025/06/18/caa89c0c4d8e7c8b75e5b34f378e2d54.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-11 06:55",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 21
   },
   {
     "title": "对马岛之魂 导演剪辑版|豪华中文|V1053.8.1212.1408-FSR帧生成-天照烈火-狂澜灭寂+预购特典+全DLC|解压即撸|",
@@ -3834,7 +3823,7 @@
     "date": "2021-06-01 14:31",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 86
+    "rank_hot": 87
   },
   {
     "title": "浪人崛起|豪华中文|V1.09.0.5Fix-誓血修罗-逆命武魂+预购特典+全DLC+修改器-支持手柄|解压即撸|",
@@ -3845,7 +3834,7 @@
     "date": "2026-01-26 10:00",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 88
+    "rank_hot": 89
   },
   {
     "title": "暗黑破坏神4|官方中文|V1.2.3.47954.2|解压即撸|",
@@ -3892,23 +3881,23 @@
     "rank_hot": 93
   },
   {
-    "title": "降妖散记|官方中文|Build.23182768+盗墓贼沙儿扩展包DLC-魔妖擒拿-龙腾虎跃+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/55661.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1915510/capsule_616x353_schinese.jpg?t=1695144770",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-05-12 07:27",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 94
-  },
-  {
     "title": "仁王 3|豪华中文|V1.07+预购特典+全DLC+全季票+修改器-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/106845.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3681010/0084f83d831210e7f0095c20806c7c172783f6e6/capsule_616x353.jpg?t=1767948787",
     "description": "",
     "source": "GAMER520",
     "date": "2026-06-12 07:04",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 94
+  },
+  {
+    "title": "降妖散记|官方中文|Build.23182768+盗墓贼沙儿扩展包DLC-魔妖擒拿-龙腾虎跃+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/55661.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1915510/capsule_616x353_schinese.jpg?t=1695144770",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-05-12 07:27",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 95

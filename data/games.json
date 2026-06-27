@@ -110,22 +110,22 @@
     "platform": "3DM"
   },
   {
-    "title": "剑星",
-    "url": "https://www.3dmgame.com/games/projecteve/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250821/1755756802_316689.jpg",
-    "description": "类型：动作游戏 | 制作：Shift up | 平台：PC | 发行：索尼",
-    "source": "3DM-排行榜",
-    "date": "2025-06-12",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "生化危机6",
     "url": "https://www.3dmgame.com/games/re6/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
     "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
     "source": "3DM-排行榜",
     "date": "2013-03-22",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "剑星",
+    "url": "https://www.3dmgame.com/games/projecteve/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250821/1755756802_316689.jpg",
+    "description": "类型：动作游戏 | 制作：Shift up | 平台：PC | 发行：索尼",
+    "source": "3DM-排行榜",
+    "date": "2025-06-12",
     "type": "动作游戏",
     "platform": "3DM"
   },

@@ -180,16 +180,6 @@
     "platform": "3DM"
   },
   {
-    "title": "穿越火线",
-    "url": "https://ol.3dmgame.com/cf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
-    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "射击",
-    "platform": "3DM"
-  },
-  {
     "title": "我的世界",
     "url": "https://ol.3dmgame.com/mc/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
@@ -197,6 +187,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "沙盒",
+    "platform": "3DM"
+  },
+  {
+    "title": "穿越火线",
+    "url": "https://ol.3dmgame.com/cf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
+    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "射击",
     "platform": "3DM"
   },
   {
@@ -220,13 +220,13 @@
     "platform": "3DM"
   },
   {
-    "title": "魔域",
-    "url": "https://ol.3dmgame.com/moyu/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20250625/1750842714_281283.jpg",
-    "description": "类型：角色扮演 | 制作：天晴数码娱乐公司 | 平台：PC | 发行：网龙网络",
+    "title": "失落的方舟",
+    "url": "https://ol.3dmgame.com/lostark/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20181119/1542621558_587118.jpg",
+    "description": "类型：动作 | 制作：Tripod Studio | 平台：PC | 发行：腾讯游戏",
     "source": "3DM-排行榜",
     "date": "",
-    "type": "角色扮演",
+    "type": "动作",
     "platform": "3DM"
   },
   {

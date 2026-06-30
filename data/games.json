@@ -170,16 +170,6 @@
     "platform": "3DM"
   },
   {
-    "title": "地下城与勇士",
-    "url": "https://ol.3dmgame.com/dnf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
-    "description": "类型：动作 | 制作：Neople | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "动作",
-    "platform": "3DM"
-  },
-  {
     "title": "我的世界",
     "url": "https://ol.3dmgame.com/mc/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
@@ -187,6 +177,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "沙盒",
+    "platform": "3DM"
+  },
+  {
+    "title": "地下城与勇士",
+    "url": "https://ol.3dmgame.com/dnf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
+    "description": "类型：动作 | 制作：Neople | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "动作",
     "platform": "3DM"
   },
   {

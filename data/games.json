@@ -1,5 +1,265 @@
 [
   {
+    "title": "冒险家艾略特的千年奇谭",
+    "url": "https://www.3dmgame.com/games/taoetmt/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260206/1770349020_817494.jpg",
+    "description": "发行：Square Enix",
+    "source": "近期新作",
+    "date": "2026-06-19",
+    "type": "日系角色扮演, 动作角色扮演, 多结局, 2.5D, 冒险",
+    "platform": "3DM"
+  },
+  {
+    "title": "太吾绘卷",
+    "url": "https://www.3dmgame.com/games/taiwu/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260621/1781972088_837271.jpg",
+    "description": "发行：ConchShip Games",
+    "source": "近期新作",
+    "date": "2026-06-17",
+    "type": "恋爱模拟, 仙侠, 类 Rogue, 神话, 建造",
+    "platform": "3DM"
+  },
+  {
+    "title": "哥特王朝：重制版",
+    "url": "https://www.3dmgame.com/games/gothic1re/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780882630_777756.jpg",
+    "description": "发行：THQ Nordic,Alkimia Interactive",
+    "source": "近期新作",
+    "date": "2026-06-06",
+    "type": "奇幻, 中世纪, 哥特, 魔法, 重制",
+    "platform": "3DM"
+  },
+  {
+    "title": "007 初露锋芒",
+    "url": "https://www.3dmgame.com/games/007fl/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
+    "description": "发行：IO Interactive A/S",
+    "source": "近期新作",
+    "date": "2026-05-27",
+    "type": "驾驶, 潜行, 探索, 沉浸式模拟, 冒险",
+    "platform": "3DM"
+  },
+  {
+    "title": "平行人生",
+    "url": "https://www.3dmgame.com/games/parali/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260518/1779071877_120737.jpg",
+    "description": "发行：Paralives Studio",
+    "source": "近期新作",
+    "date": "2026-05-25",
+    "type": "生活模拟, 可爱, 角色自定义, 沉浸式模拟, 彩色",
+    "platform": "3DM"
+  },
+  {
+    "title": "极品飞车18：宿敌",
+    "url": "https://www.3dmgame.com/games/needforspeed18/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526960029_838372.jpg",
+    "description": "类型：赛车游戏 | 制作：Ghost | 平台：PC | 发行：EA Games",
+    "source": "3DM-排行榜",
+    "date": "2013-11-19",
+    "type": "赛车游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "生化危机9：安魂曲",
+    "url": "https://www.3dmgame.com/games/shwj9/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
+    "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
+    "source": "3DM-排行榜",
+    "date": "2026-02-27",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "归唐",
+    "url": "https://www.3dmgame.com/games/gt/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250620/1750384793_164625.jpg",
+    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "宝可梦：剑/盾",
+    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
+    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
+    "source": "3DM-排行榜",
+    "date": "2019-11-15",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "逃出生天",
+    "url": "https://www.3dmgame.com/games/awayout/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180719/1531967652_232197.jpg",
+    "description": "类型：动作游戏 | 制作：Hazelight | 平台：PC | 发行：EA Games",
+    "source": "3DM-排行榜",
+    "date": "2018-03-23",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "上古卷轴5：天际",
+    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
+    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "source": "3DM-排行榜",
+    "date": "2011-11-11",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "生化危机6",
+    "url": "https://www.3dmgame.com/games/re6/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
+    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
+    "source": "3DM-排行榜",
+    "date": "2013-03-22",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "逆战",
+    "url": "https://ol.3dmgame.com/nizhan/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171213/1513147864_264365.jpg",
+    "description": "类型：动作 | 制作：琳琅天上 | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "动作",
+    "platform": "3DM"
+  },
+  {
+    "title": "英雄联盟",
+    "url": "https://ol.3dmgame.com/lol/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
+    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "MOBA",
+    "platform": "3DM"
+  },
+  {
+    "title": "原神",
+    "url": "https://ol.3dmgame.com/ys/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
+    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "冒险",
+    "platform": "3DM"
+  },
+  {
+    "title": "魔兽世界",
+    "url": "https://ol.3dmgame.com/wow/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
+    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "我的世界",
+    "url": "https://ol.3dmgame.com/mc/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
+    "description": "类型：沙盒 | 制作：Mojang | 平台：PC | 发行：网易游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "沙盒",
+    "platform": "3DM"
+  },
+  {
+    "title": "地下城与勇士",
+    "url": "https://ol.3dmgame.com/dnf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
+    "description": "类型：动作 | 制作：Neople | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "动作",
+    "platform": "3DM"
+  },
+  {
+    "title": "穿越火线",
+    "url": "https://ol.3dmgame.com/cf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
+    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "射击",
+    "platform": "3DM"
+  },
+  {
+    "title": "CS:GO",
+    "url": "https://ol.3dmgame.com/csgo/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171228/1514440716_369007.jpg",
+    "description": "类型：射击 | 制作：Valve | 平台：PC | 发行：完美世界",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "射击",
+    "platform": "3DM"
+  },
+  {
+    "title": "梦幻西游",
+    "url": "https://ol.3dmgame.com/mhxy/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
+    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "失落的方舟",
+    "url": "https://ol.3dmgame.com/lostark/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20181119/1542621558_587118.jpg",
+    "description": "类型：动作 | 制作：Tripod Studio | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "动作",
+    "platform": "3DM"
+  },
+  {
+    "title": "极限竞速：地平线6",
+    "url": "https://www.3dmgame.com/games/forzahorizon6/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260123/1769131229_942610.jpg",
+    "description": "",
+    "source": "3DM-专题",
+    "date": "",
+    "type": "",
+    "platform": "3DM"
+  },
+  {
+    "title": "魔法门之英雄无敌：上古纪元",
+    "url": "https://www.3dmgame.com/games/hommoe/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260506/1778034918_130331.jpg",
+    "description": "",
+    "source": "3DM-专题",
+    "date": "",
+    "type": "",
+    "platform": "3DM"
+  },
+  {
+    "title": "识质存在",
+    "url": "https://www.3dmgame.com/games/pragmata/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20251213/1765589729_203390.jpg",
+    "description": "",
+    "source": "3DM-专题",
+    "date": "",
+    "type": "",
+    "platform": "3DM"
+  },
+  {
+    "title": "杀戮尖塔2",
+    "url": "https://www.3dmgame.com/games/sljt2/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772761857_118592.jpg",
+    "description": "",
+    "source": "3DM-专题",
+    "date": "",
+    "type": "",
+    "platform": "3DM"
+  },
+  {
     "title": "极限竞速：地平线6",
     "url": "http://0day.ali213.net/html/2025/151647.html",
     "image": "https://imgs.ali213.net/oday/uploadfile/2025/09/26/20250926105404656.jpg",
@@ -740,6 +1000,147 @@
     "platform": "ali213"
   },
   {
+    "title": "原子之心 非虚拟机 解压即撸|中字-国语|Build.23009721+水晶之血DLC-钢铁审判-幻影追杀+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/109884.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2214824/ebb31f40f0908db99b0f1ae5e90046219812e85e/capsule_616x353.jpg?t=1776439658",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 10:00",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "红色沙漠|豪华中文|Build.24048742+预购特典+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/110658.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3321460/d76689d0bd0a77b863a64b08760b8dd1c5b50081/capsule_616x353.jpg?t=1773980522",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 09:10",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 61
+  },
+  {
+    "title": "使命召唤14 二战|豪华中文|Build.22081346+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/117355.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/476600/capsule_616x353.jpg?t=1780963893",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 09:05",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "使命召唤13 无限战争|豪华中文|Build.2715288+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/117353.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/292730/capsule_616x353.jpg?t=1755558170",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 09:02",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "魔法门之异世界觉醒|豪华中文|Build.23612430-英魂再临-黑曜统御+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/117337.html",
+    "image": "https://v1.imagehub.cc/images/2026/07/05/ad366f2365c29781d541ef1b8d1ba790.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 09:00",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "玄尘遗卷|豪华中文|Build.24041298-江湖遗劫-破卷成道+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/115999.html",
+    "image": "https://v1.imagehub.cc/images/2026/06/17/a9376dca9fb7fda30dd2484541132725.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 08:02",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "九霄仙途|官方中文|Build.24035587-逆命飞升-五行轮转+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/108710.html",
+    "image": "https://v1.imagehub.cc/images/2026/02/13/ef03b2a04ffea899aeae2485cb0ef218.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 08:01",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "大荒消劫录|官方中文|Build.24048399+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/116928.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4385590/e55344f8288de005b58a001f957e08c7985389f0/capsule_616x353.jpg?t=1782540177",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 08:00",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "妖精剑士F 和声重奏 豪华版|豪华中文|Build.22156927+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/58457.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/524580/capsule_616x353_tchinese.jpg?t=1776728885",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 07:15",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "觉醒异刃|官方中文|Build.23110061+金鳞套装DLC-破敌狂潮-觉醒时刻+全DLC-支持手柄|解压即撸|",
+    "url": "https://www.gamer520.com/83344.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1716310/capsule_616x353_schinese.jpg?t=1729647310",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 07:13",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "梦幻魔法公主|豪华中文|Build.23969428-沙盒-美少女养成+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/112551.html",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3562120/eb0bf5acdeb13b3a990fbbfd10c39ec85fbfc780/capsule_616x353_schinese.jpg?t=1777115409",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 07:12",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "武装博弈|官方中文|Build.24044935+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/113129.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3802470/ba29266e568784a8f0565a7e3709b533c4da0744/capsule_616x353_tchinese.jpg?t=1778060278",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 07:10",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "失落的天空|豪华中文|Build.23704476+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/99573.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1931180/937e33f988447d501c93f6e455dc17b5327caf88/capsule_616x353.jpg?t=1757711964",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 07:10",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "落日余晖|豪华中文|Build.24015240-昼夜纷争-亡灵契约+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/84479.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2271930/d31db0d0af597736951a94c1a080cb556e820816/capsule_616x353_schinese.jpg?t=1777488328",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-05 07:05",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "生化危机9 安魂曲|中字-国语|Build.22898177+预购特典+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/109515.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3764200/0731e32e73a1311c20a71199f4e4fd78ee9e9411/capsule_616x353.jpg?t=1772168710",
@@ -769,7 +1170,7 @@
     "date": "2026-07-04 09:20",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 47
+    "rank_hot": 46
   },
   {
     "title": "泰坦之旅2|豪华中文|Build.24041071-新功能:自动对话+预购特典+全DLC+修改器-支持手柄|解压即撸|",
@@ -791,7 +1192,7 @@
     "date": "2026-07-04 09:00",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 90
+    "rank_hot": 88
   },
   {
     "title": "山上那个猴儿|官方中文|Build.24039339-逆天取道-斩妖问仙+全DLC|解压即撸|",
@@ -834,9 +1235,29 @@
     "platform": "GAMER520"
   },
   {
+    "title": "今古群侠传|豪华中文|Build.23953856-宗威镇世-顺逆皆斩+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/104746.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3313720/d8d95840ca6ef361d2a55f70420b0d307d9bcec7/capsule_616x353_schinese.jpg?t=1780995749",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-04 07:23",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "神之军火|豪华中文|Build.24045109-预购特典-圣战惩戒+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/115145.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3100310/edb25ad34b549f802d4c76ad978625b2f7826f7d/capsule_616x353_tchinese.jpg?t=1780662031",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-04 07:22",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "罪恶装备 奋战|豪华中文|Build.23538523+第五季全新DLC角色:机器凯-烈火重燃-瞬破流光-修罗夺魂+全DLC-支持手柄|解压即撸|",
+    "url": "https://www.gamer520.com/18640.html",
+    "image": "https://v1.imagehub.cc/images/2026/07/04/eb495296895b9a8aee4dfd8108956be0.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-04 07:22",
@@ -1219,16 +1640,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "玄尘遗卷|豪华中文|Build.24003453+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/115999.html",
-    "image": "https://v1.imagehub.cc/images/2026/06/17/a9376dca9fb7fda30dd2484541132725.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-03 07:33",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "我来自江湖|官方中文|Build.24019637-剑舞千山-画皮幻影+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/81917.html",
     "image": "https://v1.imagehub.cc/images/2025/12/28/6e55f7092196b2e2e832110295cc1e9f.jpg",
@@ -1397,7 +1808,7 @@
     "date": "2026-07-03 07:12",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 87
+    "rank_hot": 86
   },
   {
     "title": "喋血街头4|官方中文|V1.6.0-漫游模式-狂怒之地-亚利桑那灾变+全DLC|解压即撸|",
@@ -1709,7 +2120,7 @@
     "date": "2026-07-02 08:05",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 46
+    "rank_hot": 47
   },
   {
     "title": "墨境|豪华中文|Build.23998692-泳装皮肤+全DLC|解压即撸|",
@@ -2606,157 +3017,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "王座陨落|官方中文|Build.23897849-骑士守护-夜幕之战+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/62803.html",
-    "image": "https://v1.imagehub.cc/images/2026/06/30/09c34d476ecdb5a58c687321f03f7fca.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 08:02",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "沉没之地|官方中文|Build.23959924-沉寂之域-遗失的陆地+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/63706.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2080690/capsule_616x353.jpg?t=1693103083",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 08:00",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "妖谈2 九尾异闻|豪华中文|Build.23963023-灵狐之契-龙影神途+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/112455.html",
-    "image": "https://v1.imagehub.cc/images/2026/06/30/20a89a9ca0312bd364b04dd630545b5d.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:51",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "雾锁王国|豪华中文|Build.23966345-命运黑泉-黯夜战魂+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/71359.html",
-    "image": "https://s1.imagehub.cc/images/2025/06/25/09886c777480fe47d1d9dff5b7175627.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:32",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 57
-  },
-  {
-    "title": "无限的迷宫城|豪华中文|Build.23965427-战姬觉醒-光辉焚天+预购特典+全DLC-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/110253.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2162820/777c53b6abe05fbdeefb180ca071f6bd7f1fc453/capsule_616x353_schinese.jpg?t=1773157012",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:31",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "东北往事|官方中文|Build.23968951+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/116569.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4056810/ddca49827a7366b7774c48c8e51c4bbb8949fdfd/capsule_616x353.jpg?t=1782190689",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:21",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "圣物深渊|豪华中文|Build.23667985+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/111763.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3017760/bb3678afe6be483dc38880eabfea0666a097182f/capsule_616x353.jpg?t=1776090566",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:17",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "明末 欲火重生|中字-国语|Build.23968069-逆脉碎劲-寒锋踏月+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/102264.html",
-    "image": "https://v1.imagehub.cc/images/2026/05/09/6cbe7488eb3ff2f6048c59ac44ad7fec.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:16",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "七日杀7|豪华中文|Build.23906531-荒土余生-末日救赎-沙盒+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/15258.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/251570/capsule_616x353.jpg?t=1721925235",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:13",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "深入矩阵|豪华中文|Build.23973767-幻能断界-虚核爆袭+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/102052.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2576200/adc2dacd3dd537cbab815dda6229b9a4ad6313d8/capsule_616x353_schinese.jpg?t=1762612334",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:11",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "云之国 完美数字版|豪华中文|Build.23915896-破碎命运-英雄觉醒+季票+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/103294.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2070270/dc489115e26305fa50b2b74a9ec5a9cd610764a5/capsule_616x353.jpg?t=1764895808",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:10",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "恋因天赐!! Present From Angel|官方中文|Build.23930554+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/116944.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4567710/abf1948fcb3da2973f2d00641c71d8f4833ebfb3/capsule_616x353_schinese.jpg?t=1782475209",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:10",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "中国式相亲|官方中文|Build.22688173-风华月影-繁华旧梦+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/87640.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2103130/12380b98f6470b9e4aea37dac97731e401b9ac96/capsule_616x353_schinese.jpg?t=1750837890",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:09",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "轮回战纪|官方中文|Build.23920067+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/113616.html",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369580/babe7b4cd305ff4fb4b853af29ebe68b64623ccb/capsule_616x353_schinese.jpg?t=1778688051",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:06",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "历史的终结|官方中文|Build.23958967-沙盒RPG+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/103573.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2953520/701f3cc8a459389a22a0ef145240e1dfa198ea67/capsule_616x353_schinese.jpg?t=1765364156",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:03",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "[顶置]PC近期爆火游戏 汇总贴",
     "url": "https://www.gamer520.com/56286.html",
     "image": "https://v1.imagehub.cc/images/2026/05/19/29985acb21c255913a269a9aef9960ca.jpg",
@@ -3254,6 +3514,17 @@
     "date": "2026-01-20 10:50",
     "type": "",
     "platform": "GAMER520",
+    "rank_hot": 57
+  },
+  {
+    "title": "雾锁王国|豪华中文|Build.23966345-命运黑泉-黯夜战魂+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/71359.html",
+    "image": "https://s1.imagehub.cc/images/2025/06/25/09886c777480fe47d1d9dff5b7175627.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-06-30 07:32",
+    "type": "",
+    "platform": "GAMER520",
     "rank_hot": 58
   },
   {
@@ -3277,17 +3548,6 @@
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 60
-  },
-  {
-    "title": "红色沙漠|豪华中文|V1.12.01Fix+预购特典+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/110658.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3321460/d76689d0bd0a77b863a64b08760b8dd1c5b50081/capsule_616x353.jpg?t=1773980522",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-22 08:00",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 61
   },
   {
     "title": "致命解药|中字-国语|Build.22848365-夜幕狂袭-魅影危城+整合MOD+全DLC-支持手柄|解压即撸|",
@@ -3554,7 +3814,7 @@
     "date": "2026-04-04 07:00",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 86
+    "rank_hot": 87
   },
   {
     "title": "战魂铭人 豪华版|豪华中文|Build.23693549-华丽剑舞-蔷薇怒放+全DLC|解压即撸|",
@@ -3565,7 +3825,7 @@
     "date": "2026-06-21 07:13",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 88
+    "rank_hot": 89
   },
   {
     "title": "PC单机游戏中文设置方法",
@@ -3576,7 +3836,7 @@
     "date": "2021-06-01 14:31",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 89
+    "rank_hot": 90
   },
   {
     "title": "浪人崛起|豪华中文|V1.09.0.5Fix-誓血修罗-逆命武魂+预购特典+全DLC+修改器-支持手柄|解压即撸|",

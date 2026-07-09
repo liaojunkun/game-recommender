@@ -1,5 +1,15 @@
 [
   {
+    "title": "艾恩葛朗特 回荡新声",
+    "url": "https://www.3dmgame.com/games/echoesoa/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772771380_191467.jpg",
+    "description": "发行：Bandai Namco Entertainment Inc.",
+    "source": "近期新作",
+    "date": "2026-07-10",
+    "type": "日系角色扮演, 动漫, 动作角色扮演, 未来, 砍杀",
+    "platform": "3DM"
+  },
+  {
     "title": "刺客信条：黑旗 记忆重置",
     "url": "https://www.3dmgame.com/games/ac4bfre/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
@@ -40,16 +50,6 @@
     "platform": "3DM"
   },
   {
-    "title": "哥特王朝：重制版",
-    "url": "https://www.3dmgame.com/games/gothic1re/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780882630_777756.jpg",
-    "description": "发行：THQ Nordic,Alkimia Interactive",
-    "source": "近期新作",
-    "date": "2026-06-06",
-    "type": "奇幻, 中世纪, 哥特, 魔法, 重制",
-    "platform": "3DM"
-  },
-  {
     "title": "极品飞车18：宿敌",
     "url": "https://www.3dmgame.com/games/needforspeed18/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526960029_838372.jpg",
@@ -70,16 +70,6 @@
     "platform": "3DM"
   },
   {
-    "title": "007：初露锋芒",
-    "url": "https://www.3dmgame.com/games/007fl/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
-    "description": "类型：动作游戏 | 制作：IO Interactive A/S | 平台：XboxSeriesX | 发行：IO Interactive A/S",
-    "source": "3DM-排行榜",
-    "date": "2026-05-27",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "归唐",
     "url": "https://www.3dmgame.com/games/gt/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250620/1750384793_164625.jpg",
@@ -87,6 +77,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "007：初露锋芒",
+    "url": "https://www.3dmgame.com/games/007fl/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
+    "description": "类型：动作游戏 | 制作：IO Interactive A/S | 平台：XboxSeriesX | 发行：IO Interactive A/S",
+    "source": "3DM-排行榜",
+    "date": "2026-05-27",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {
@@ -126,6 +126,16 @@
     "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
     "source": "3DM-排行榜",
     "date": "2011-11-11",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "哥特王朝：重制版",
+    "url": "https://www.3dmgame.com/games/gothic1re/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780882630_777756.jpg",
+    "description": "类型：角色扮演 | 制作：Alkimia Interactive | 平台：PC | 发行：THQ Nordic,Alkimia Interactive",
+    "source": "3DM-排行榜",
+    "date": "2026-06-06",
     "type": "角色扮演",
     "platform": "3DM"
   },

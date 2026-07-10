@@ -190,20 +190,20 @@
     "platform": "3DM"
   },
   {
-    "title": "穿越火线",
-    "url": "https://ol.3dmgame.com/cf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
-    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "title": "CS:GO",
+    "url": "https://ol.3dmgame.com/csgo/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171228/1514440716_369007.jpg",
+    "description": "类型：射击 | 制作：Valve | 平台：PC | 发行：完美世界",
     "source": "3DM-排行榜",
     "date": "",
     "type": "射击",
     "platform": "3DM"
   },
   {
-    "title": "CS:GO",
-    "url": "https://ol.3dmgame.com/csgo/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171228/1514440716_369007.jpg",
-    "description": "类型：射击 | 制作：Valve | 平台：PC | 发行：完美世界",
+    "title": "穿越火线",
+    "url": "https://ol.3dmgame.com/cf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
+    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
     "source": "3DM-排行榜",
     "date": "",
     "type": "射击",

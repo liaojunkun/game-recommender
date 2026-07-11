@@ -2269,16 +2269,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "月光岭物语 Moonlight Peaks|官方中文|Build.23966928+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/117517.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2209900/86fad83c53a1d9b21b66abf89827b21f0e45ed4a/capsule_616x353.jpg?t=1783444081",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-08 07:13",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "战娘自走棋|官方中文|Build.24092609+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/114531.html",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104000/1b3f76f3307d059bdd25c0b582c7073279df5f1e/capsule_616x353_schinese.jpg?t=1777994466",
@@ -2833,6 +2823,16 @@
     "platform": "GAMER520"
   },
   {
+    "title": "荒域奇谭|官方中文|Build.24033492+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/112726.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4007300/95fb8d78aef903b8964ecc686ec6eb868e72d7bf/capsule_616x353_schinese.jpg?t=1777510569",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-06 07:06",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "色系战记|豪华中文|Build.24050667+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/113102.html",
     "image": "https://v1.imagehub.cc/images/2026/05/07/059b0d4de4a10f2add5134dec768f14c.jpg",
@@ -3311,23 +3311,23 @@
     "rank_hot": 29
   },
   {
-    "title": "苍翼 混沌效应|官方中文|Build.20027533+联动死亡细胞-枭首者+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/63149.html",
-    "image": "https://s1.imagehub.cc/images/2025/09/02/0af2d847ffd1bbb0a7297b5dc6b76158.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2025-09-19 07:02",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 30
-  },
-  {
     "title": "剑星|豪华中文|V1.4.1Fix6-流光斩影-银月剑痕+预购特典+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/109449.html",
     "image": "https://v1.imagehub.cc/images/2026/06/28/683027b807f964ad5a08891c0509c04d.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-06-28 07:35",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 30
+  },
+  {
+    "title": "苍翼 混沌效应|官方中文|Build.20027533+联动死亡细胞-枭首者+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/63149.html",
+    "image": "https://s1.imagehub.cc/images/2025/09/02/0af2d847ffd1bbb0a7297b5dc6b76158.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2025-09-19 07:02",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 31
@@ -3722,23 +3722,23 @@
     "rank_hot": 72
   },
   {
-    "title": "幻灵降世录 女巫的面纱|豪华中文|V1.3.16Fix-快速远征+幻影竞技场-宿命之渊-断魂荒冢+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/43345.html",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530490/dada568bf92b35e91cad1a4039e312c37d8c5c6f/capsule_616x353.jpg?t=1760037674",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-03-06 07:27",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 73
-  },
-  {
     "title": "最后生还者2 复刻版|豪华中文|1.6.10721Fix+预购特典+全DLC-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/90839.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1742580411",
     "description": "",
     "source": "GAMER520",
     "date": "2026-06-09 08:20",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 73
+  },
+  {
+    "title": "幻灵降世录 女巫的面纱|豪华中文|V1.3.16Fix-快速远征+幻影竞技场-宿命之渊-断魂荒冢+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/43345.html",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530490/dada568bf92b35e91cad1a4039e312c37d8c5c6f/capsule_616x353.jpg?t=1760037674",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-03-06 07:27",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 74

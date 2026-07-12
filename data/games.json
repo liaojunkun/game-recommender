@@ -80,16 +80,6 @@
     "platform": "3DM"
   },
   {
-    "title": "宝可梦：剑/盾",
-    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
-    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
-    "source": "3DM-排行榜",
-    "date": "2019-11-15",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "热血无赖",
     "url": "https://www.3dmgame.com/games/sldo/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532308469_415224.jpg",
@@ -100,13 +90,13 @@
     "platform": "3DM"
   },
   {
-    "title": "007：初露锋芒",
-    "url": "https://www.3dmgame.com/games/007fl/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
-    "description": "类型：动作游戏 | 制作：IO Interactive A/S | 平台：XboxSeriesX | 发行：IO Interactive A/S",
+    "title": "宝可梦：剑/盾",
+    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
+    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
     "source": "3DM-排行榜",
-    "date": "2026-05-27",
-    "type": "动作游戏",
+    "date": "2019-11-15",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -116,6 +106,16 @@
     "description": "类型：动作游戏 | 制作：Hazelight | 平台：PC | 发行：EA Games",
     "source": "3DM-排行榜",
     "date": "2018-03-23",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "007：初露锋芒",
+    "url": "https://www.3dmgame.com/games/007fl/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
+    "description": "类型：动作游戏 | 制作：IO Interactive A/S | 平台：XboxSeriesX | 发行：IO Interactive A/S",
+    "source": "3DM-排行榜",
+    "date": "2026-05-27",
     "type": "动作游戏",
     "platform": "3DM"
   },

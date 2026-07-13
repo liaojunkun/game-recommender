@@ -110,16 +110,6 @@
     "platform": "3DM"
   },
   {
-    "title": "007：初露锋芒",
-    "url": "https://www.3dmgame.com/games/007fl/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
-    "description": "类型：动作游戏 | 制作：IO Interactive A/S | 平台：XboxSeriesX | 发行：IO Interactive A/S",
-    "source": "3DM-排行榜",
-    "date": "2026-05-27",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "上古卷轴5：天际",
     "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
@@ -127,6 +117,16 @@
     "source": "3DM-排行榜",
     "date": "2011-11-11",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "007：初露锋芒",
+    "url": "https://www.3dmgame.com/games/007fl/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
+    "description": "类型：动作游戏 | 制作：IO Interactive A/S | 平台：XboxSeriesX | 发行：IO Interactive A/S",
+    "source": "3DM-排行榜",
+    "date": "2026-05-27",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {

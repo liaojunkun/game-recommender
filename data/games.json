@@ -160,16 +160,6 @@
     "platform": "3DM"
   },
   {
-    "title": "魔兽世界",
-    "url": "https://ol.3dmgame.com/wow/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
-    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "我的世界",
     "url": "https://ol.3dmgame.com/mc/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
@@ -177,6 +167,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "沙盒",
+    "platform": "3DM"
+  },
+  {
+    "title": "魔兽世界",
+    "url": "https://ol.3dmgame.com/wow/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
+    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -200,16 +200,6 @@
     "platform": "3DM"
   },
   {
-    "title": "穿越火线",
-    "url": "https://ol.3dmgame.com/cf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
-    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "射击",
-    "platform": "3DM"
-  },
-  {
     "title": "失落的方舟",
     "url": "https://ol.3dmgame.com/lostark/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20181119/1542621558_587118.jpg",
@@ -217,6 +207,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "动作",
+    "platform": "3DM"
+  },
+  {
+    "title": "穿越火线",
+    "url": "https://ol.3dmgame.com/cf/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
+    "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "射击",
     "platform": "3DM"
   },
   {

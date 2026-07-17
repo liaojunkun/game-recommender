@@ -260,764 +260,15 @@
     "platform": "3DM"
   },
   {
-    "title": "影之刃零",
-    "url": "http://www.ali213.net/zt/phantomblade0/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2025/12/12/2025121231422601.jpg",
-    "description": "影之刃零",
-    "source": "ali213-期待榜",
-    "date": "2026-09-09",
-    "type": "动作游戏ACT",
-    "platform": "ali213"
-  },
-  {
-    "title": "空之轨迹 the 2nd",
-    "url": "http://www.ali213.net/zt/soranokisekithe2nd/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2025/12/26/2025122632403652.jpg",
-    "description": "空之轨迹 the 2nd",
-    "source": "ali213-期待榜",
-    "date": "2026-09-17",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "东周拟战",
-    "url": "http://www.ali213.net/zt/dongzhounizhan/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2025/01/21/20250121113705735.jpg",
-    "description": "东周拟战",
-    "source": "ali213-期待榜",
-    "date": "2026-08-01",
-    "type": "策略战棋SLG",
-    "platform": "ali213"
-  },
-  {
-    "title": "秩序碎片",
-    "url": "http://0day.ali213.net/html/2026/155927.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/24/2026062454910109.jpg",
-    "description": "秩序碎片",
-    "source": "ali213-期待榜",
-    "date": "2026-07-29",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "宽恕我",
-    "url": "http://0day.ali213.net/html/2026/155899.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/23/2026062324143895.jpg",
-    "description": "宽恕我",
-    "source": "ali213-期待榜",
-    "date": "2026-07-23",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "朽木难雕",
-    "url": "http://0day.ali213.net/html/2026/155891.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/23/2026062315145525.jpg",
-    "description": "朽木难雕",
-    "source": "ali213-期待榜",
-    "date": "2026-09-23",
-    "type": "休闲益智PUZ",
-    "platform": "ali213"
-  },
-  {
-    "title": "猴子拆弹",
-    "url": "http://0day.ali213.net/html/2026/155887.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/23/20260623112926121.jpg",
-    "description": "猴子拆弹",
-    "source": "ali213-期待榜",
-    "date": "2026-08-12",
-    "type": "休闲益智PUZ",
-    "platform": "ali213"
-  },
-  {
-    "title": "千里山河录",
-    "url": "http://0day.ali213.net/html/2026/156163.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/07/01/2026070155221668.jpg",
-    "description": "千里山河录",
-    "source": "ali213-期待榜",
-    "date": "2026-07-17",
-    "type": "休闲益智PUZ",
-    "platform": "ali213"
-  },
-  {
-    "title": "北方之鸟",
-    "url": "http://0day.ali213.net/html/2026/155853.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/22/2026062294904284.jpg",
-    "description": "北方之鸟",
-    "source": "ali213-期待榜",
-    "date": "2026-09-01",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "行会：欧洲1410",
-    "url": "http://0day.ali213.net/html/2026/155835.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/18/20260618101824945.jpg",
-    "description": "行会：欧洲1410",
-    "source": "ali213-期待榜",
-    "date": "2026-07-16",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "扫雷：次世代",
-    "url": "http://0day.ali213.net/html/2026/155825.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/17/2026061715422836.jpg",
-    "description": "扫雷：次世代",
-    "source": "ali213-期待榜",
-    "date": "2026-09-17",
-    "type": "休闲益智PUZ",
-    "platform": "ali213"
-  },
-  {
-    "title": "猫之岛",
-    "url": "http://0day.ali213.net/html/2026/155931.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/25/202606259154511.jpg",
-    "description": "猫之岛",
-    "source": "ali213-期待榜",
-    "date": "2026-07-20",
-    "type": "模拟经营SIM",
-    "platform": "ali213"
-  },
-  {
-    "title": "蔚蓝反射 Quartet：少女们的奇迹",
-    "url": "http://0day.ali213.net/html/2026/155933.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/25/2026062592512928.jpg",
-    "description": "蔚蓝反射 Quartet：少女们的奇迹",
-    "source": "ali213-期待榜",
-    "date": "2026-07-30",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "今天都是腿",
-    "url": "http://0day.ali213.net/html/2026/155945.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/25/2026062512223531.jpg",
-    "description": "今天都是腿",
-    "source": "ali213-期待榜",
-    "date": "2026-09-25",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "LISIA",
-    "url": "http://0day.ali213.net/html/2026/156107.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/07/01/20260701112227943.jpg",
+    "title": "红色沙漠|豪华中文|Build.24236217+预购特典+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/110658.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3321460/d76689d0bd0a77b863a64b08760b8dd1c5b50081/capsule_616x353.jpg?t=1773980522",
     "description": "",
-    "source": "ali213-期待榜",
-    "date": "2026-08-01",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "大学橄榄球27",
-    "url": "http://0day.ali213.net/html/2026/156101.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/07/01/20260701105817921.jpg",
-    "description": "大学橄榄球27",
-    "source": "ali213-期待榜",
-    "date": "2026-07-10",
-    "type": "体育竞技SPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "深巷",
-    "url": "http://0day.ali213.net/html/2026/156085.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/30/2026063051347660.jpg",
-    "description": "深巷",
-    "source": "ali213-期待榜",
-    "date": "2026-08-30",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "整理工坊",
-    "url": "http://0day.ali213.net/html/2026/156083.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/30/2026063045118811.jpg",
-    "description": "整理工坊",
-    "source": "ali213-期待榜",
-    "date": "2026-08-22",
-    "type": "休闲益智PUZ",
-    "platform": "ali213"
-  },
-  {
-    "title": "海岸地块",
-    "url": "http://0day.ali213.net/html/2026/156015.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/29/2026062933124652.jpg",
-    "description": "海岸地块",
-    "source": "ali213-期待榜",
-    "date": "2026-08-29",
-    "type": "休闲益智PUZ",
-    "platform": "ali213"
-  },
-  {
-    "title": "断曲余音",
-    "url": "http://0day.ali213.net/html/2026/156011.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/29/2026062920557943.jpg",
-    "description": "断曲余音",
-    "source": "ali213-期待榜",
-    "date": "2026-07-21",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "极限竞速：地平线6",
-    "url": "http://www.ali213.net/zt/forzahorizon6/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/04/30/2026043011703441.jpg",
-    "description": "极限竞速：地平线6",
-    "source": "ali213-好评榜",
-    "date": "2026-05-19",
-    "type": "赛车竞速RAC",
-    "platform": "ali213"
-  },
-  {
-    "title": "Pragmata",
-    "url": "http://www.ali213.net/zt/pragmata/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2025/12/12/2025121291801706.jpg",
-    "description": "",
-    "source": "ali213-好评榜",
-    "date": "2026-04-17",
-    "type": "动作游戏ACT",
-    "platform": "ali213"
-  },
-  {
-    "title": "OPUS：心相吾山",
-    "url": "http://www.ali213.net/zt/opusprismpeak/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2024/07/18/2024071815436237.jpeg",
-    "description": "",
-    "source": "ali213-好评榜",
-    "date": "2026-04-16",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "Replaced",
-    "url": "http://www.ali213.net/zt/replaced/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2025/01/06/2025010610433187.jpg",
-    "description": "",
-    "source": "ali213-好评榜",
-    "date": "2026-04-14",
-    "type": "动作游戏ACT",
-    "platform": "ali213"
-  },
-  {
-    "title": "哥特王朝：重制版",
-    "url": "http://www.ali213.net/zt/gothic1r/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2024/08/05/20240805111615167.jpeg",
-    "description": "哥特王朝：重制版",
-    "source": "ali213-好评榜",
-    "date": "2026-06-09",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "挖掘者米娜",
-    "url": "http://www.ali213.net/zt/mth/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2022/02/08/2022020815523421.jpg",
-    "description": "挖掘者米娜",
-    "source": "ali213-好评榜",
-    "date": "2026-05-29",
-    "type": "动作游戏ACT",
-    "platform": "ali213"
-  },
-  {
-    "title": "8020号指令",
-    "url": "http://www.ali213.net/zt/directive8020/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/05/09/2026050995935273.jpg",
-    "description": "",
-    "source": "ali213-好评榜",
-    "date": "2026-05-12",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "导师模拟器",
-    "url": "http://0day.ali213.net/html/2026/155657.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/2026061020207785.jpg",
-    "description": "导师模拟器",
-    "source": "ali213-好评榜",
-    "date": "2026-06-08",
-    "type": "模拟经营SIM",
-    "platform": "ali213"
-  },
-  {
-    "title": "自拍虫虫",
-    "url": "http://0day.ali213.net/html/2026/155653.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/20260610115056983.jpg",
-    "description": "自拍虫虫",
-    "source": "ali213-好评榜",
-    "date": "2026-06-10",
-    "type": "动作游戏ACT",
-    "platform": "ali213"
-  },
-  {
-    "title": "要塞4",
-    "url": "http://0day.ali213.net/html/2026/155651.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/20260610105512833.jpg",
-    "description": "要塞4",
-    "source": "ali213-好评榜",
-    "date": "2026-06-10",
-    "type": "即时战略RTS",
-    "platform": "ali213"
-  },
-  {
-    "title": "狂战之旅",
-    "url": "http://0day.ali213.net/html/2026/155649.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/20260610105248475.jpg",
-    "description": "狂战之旅",
-    "source": "ali213-好评榜",
-    "date": "2026-06-10",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "大尾松鼠",
-    "url": "http://0day.ali213.net/html/2026/155647.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/20260610102222119.jpg",
-    "description": "大尾松鼠",
-    "source": "ali213-好评榜",
-    "date": "2026-05-29",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "维伦达尔城堡之谜 - 密室逃脱",
-    "url": "http://0day.ali213.net/html/2026/155645.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/20260610101823971.jpg",
-    "description": "维伦达尔城堡之谜 - 密室逃脱",
-    "source": "ali213-好评榜",
-    "date": "2026-05-29",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "倒咖啡小子与氮萃死灵法师",
-    "url": "http://0day.ali213.net/html/2026/155643.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/20260610101357643.jpg",
-    "description": "倒咖啡小子与氮萃死灵法师",
-    "source": "ali213-好评榜",
-    "date": "2026-06-01",
-    "type": "动作游戏ACT",
-    "platform": "ali213"
-  },
-  {
-    "title": "阎罗索命",
-    "url": "http://0day.ali213.net/html/2026/155661.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/20260610253476.jpg",
-    "description": "阎罗索命",
-    "source": "ali213-好评榜",
-    "date": "2026-06-08",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "花城秘事",
-    "url": "http://0day.ali213.net/html/2026/155663.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/2026061031604554.jpg",
-    "description": "花城秘事",
-    "source": "ali213-好评榜",
-    "date": "2026-04-17",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "若诅咒以爱之名",
-    "url": "http://0day.ali213.net/html/2026/155665.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/10/2026061034022945.jpg",
-    "description": "若诅咒以爱之名",
-    "source": "ali213-好评榜",
-    "date": "2026-05-27",
-    "type": "角色扮演RPG",
-    "platform": "ali213"
-  },
-  {
-    "title": "工厂肉鸽",
-    "url": "http://0day.ali213.net/html/2026/155695.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/11/20260611103425782.jpg",
-    "description": "工厂肉鸽",
-    "source": "ali213-好评榜",
-    "date": "2026-06-02",
-    "type": "模拟经营SIM",
-    "platform": "ali213"
-  },
-  {
-    "title": "Moss：遗落圣物",
-    "url": "http://0day.ali213.net/html/2026/155691.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/11/20260611101436992.jpg",
-    "description": "",
-    "source": "ali213-好评榜",
-    "date": "2026-06-08",
-    "type": "动作游戏ACT",
-    "platform": "ali213"
-  },
-  {
-    "title": "夕阳攀岩团",
-    "url": "http://0day.ali213.net/html/2026/155689.html",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/06/11/20260611100447276.jpg",
-    "description": "夕阳攀岩团",
-    "source": "ali213-好评榜",
-    "date": "2026-06-08",
-    "type": "冒险游戏AVG",
-    "platform": "ali213"
-  },
-  {
-    "title": "侠盗猎车手6",
-    "url": "http://www.ali213.net/zt/gta6/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2024/10/14/2024101445202114.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 20:00",
     "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "矿井安全",
-    "url": "http://www.ali213.net/zt/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2025/06/21/20250621111613937.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "黑神话：悟空",
-    "url": "http://www.ali213.net/zt/blackmythwukong/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2024/05/11/2024051115448918.jpeg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "博德之门3",
-    "url": "http://www.ali213.net/zt/bg3/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2023/12/12/2023121291405552.png",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "艾尔登法环",
-    "url": "http://www.ali213.net/zt/eldenring/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2022/12/30/20221230122222799.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "双人成行",
-    "url": "http://www.ali213.net/zt/ittakestwo/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2024/11/08/2024110835721740.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "赛博朋克2077",
-    "url": "http://www.ali213.net/zt/Cyberpunk2077/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2026/05/09/2026050922403492.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "只狼：影逝二度",
-    "url": "http://www.ali213.net/zt/sekirosdt/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2018/06/11/20180611113947714.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "战神4",
-    "url": "http://www.ali213.net/zt/godofwar4/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2022/12/29/2022122953655871.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "巫师3：狂猎-血与酒",
-    "url": "http://www.ali213.net/zt/yw3whbaw/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2016/12/27/20161227110543637.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "侠客风云传",
-    "url": "http://www.ali213.net/zt/xinwulin/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2020/02/07/2020020762430140.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "使命召唤11：高级战争",
-    "url": "http://www.ali213.net/zt/COD11/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2014/05/03/20145310342165375468.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "刺客信条3",
-    "url": "http://www.ali213.net/zt/ac3/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2012/03/07/xu006.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "使命召唤8：现代战争3",
-    "url": "http://www.ali213.net/zt/cod8/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2024/10/11/2024101113313901.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "使命召唤7黑色行动",
-    "url": "http://www.ali213.net/zt/cod7/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2010/20100719104238106.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "使命召唤6现代战争2",
-    "url": "http://www.ali213.net/zt/COD6/",
-    "image": "https://imgs.ali213.net/oday/uploadfile/2009/cod6.jpg",
-    "description": "",
-    "source": "ali213-年度榜",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "哥特王朝re",
-    "url": "https://www.ali213.net/zt/gothic1r/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "超级变色龙",
-    "url": "https://www.ali213.net/zt/mecchachameleon/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "千年奇谭",
-    "url": "https://www.ali213.net/zt/mxjaltdqnwy/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "太吾绘卷",
-    "url": "https://www.ali213.net/zt/scrolloftaiwu/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "神之军火",
-    "url": "https://www.ali213.net/zt/armsofgod/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "女王的游戏2",
-    "url": "https://www.ali213.net/zt/roadtoempress/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "西游魔幻服",
-    "url": "https://click.ali213.net/ALiClick-622.html",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "007初露锋芒",
-    "url": "https://www.ali213.net/zt/007firstlight/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "深海迷航2",
-    "url": "https://www.ali213.net/zt/subnautica2/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "红色沙漠",
-    "url": "https://www.ali213.net/zt/crimsondesert/",
-    "image": "",
-    "description": "",
-    "source": "ali213-近期新作",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "AC4黑旗重制版",
-    "url": "https://www.ali213.net/zt/ckxt4hqjycz/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "幻兽帕鲁1.0",
-    "url": "https://www.ali213.net/zt/palworld/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "沉没之城2",
-    "url": "https://www.ali213.net/zt/thesinkingcity2/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "瘟疫传说遗产",
-    "url": "https://www.ali213.net/zt/gmwycsyc/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "漫威金刚狼",
-    "url": "https://www.ali213.net/zt/wolverine/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "战锤40k战争黎明4",
-    "url": "https://www.ali213.net/zt/warhammer40000dw/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "新鬼武者",
-    "url": "https://www.ali213.net/zt/onimushawots/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "真三国无双2RE",
-    "url": "https://www.ali213.net/zt/sgws2mj/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "影之刃零",
-    "url": "https://www.ali213.net/zt/phantomblade0/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
-  },
-  {
-    "title": "GTA 6",
-    "url": "https://www.ali213.net/zt/gta6/",
-    "image": "",
-    "description": "",
-    "source": "ali213-即将上市",
-    "date": "",
-    "type": "",
-    "platform": "ali213"
+    "platform": "GAMER520",
+    "rank_hot": 56
   },
   {
     "title": "刺客信条 黑旗 记忆重置|豪华中文|Build.24213434+预购特典+全DLC|解压即撸|",
@@ -1030,12 +281,53 @@
     "platform": "GAMER520"
   },
   {
+    "title": "奇迹时代4 高级版|豪华中文|V.1.015.005.123867+大法师的秘辛DLC-全扩展+全季票+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/57234.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3976910/76ec186d1004887d70fcb20996797e3da4a5bf85/capsule_616x353.jpg?t=1781614745",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 17:13",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 28
+  },
+  {
     "title": "艾恩葛朗特 回荡新声|豪华中文|Build.24234051+预购特典+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/117684.html",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/1f91cdc83bb1cc3794d3d62635509e4ac3c20284/capsule_616x353_schinese.jpg?t=1781687351",
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-17 17:10",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "霜轨 Frostrain 2|豪华中文|Build.24254452+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/118242.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3690490/3dcb642a7bab039c383340f59c0579f6c10bd312/capsule_616x353.jpg?t=1777550083",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 17:02",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "致病本源|官方中文|Build.24257986+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/118240.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/93470c962da31c1e150889fe044ef04415d8173a/capsule_616x353_schinese.jpg?t=1784222200",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 17:01",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "死重 Dead Weight|豪华中文|Build.24235433+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/118238.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2646720/b2df3a54416f99956d71f968960a4a869e32600c/capsule_616x353_alt_assets_0.jpg?t=1784289556",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 17:01",
     "type": "",
     "platform": "GAMER520"
   },
@@ -1069,6 +361,16 @@
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 34
+  },
+  {
+    "title": "冲就完事模拟器2|官方中文|Build.23737596+星球大战扩展包DLC+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/101200.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4229450/1a06f94e2de3b73a0ae18d67213d2197977b7605/capsule_616x353.jpg?t=1784209747",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:56",
+    "type": "",
+    "platform": "GAMER520"
   },
   {
     "title": "欧陆风云5 高级白金版|豪华中文|V1.3.11+凤凰天命DCL+预购特典+全DLC+修改器|解压即撸|",
@@ -1221,9 +523,109 @@
     "platform": "GAMER520"
   },
   {
+    "title": "星际迷航 航海家号  穿越未知|豪华中文|Build.24181520+德尔塔编年史DLC+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/108999.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2643390/d52c2fe21c1da738f6ad325397eae48ae1cd55f3/capsule_616x353.jpg?t=1771444121",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:40",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "九州仙侠录|官方中文|Build.24238902+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/117922.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4837990/f1999447772e3fa1b13c7acacd97051508d42edf/capsule_616x353.jpg?t=1782741053",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:31",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "泰拉科技魇团|官方中文|Build.24221609+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/112705.html",
+    "image": "https://v1.imagehub.cc/images/2026/05/01/c22bc5de003c6a4f29c1d2efbc680cad.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:21",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "Esports Manager 2026|官方中文|Build.24226509+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/117451.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2749950/eddaddc1b8752c6f64f1d32ca42095d0611c21c8/capsule_616x353.jpg?t=1783353518",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:20",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "海妖的沉默|官方中文|Build.24238353+全DLC||解压即撸|",
+    "url": "https://www.gamer520.com/82741.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2147380/capsule_616x353.jpg?t=1727733137",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:20",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "怪物圣所|官方中文|Build.24235806+DLC怪物图鉴+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/48282.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/814370/capsule_616x353_schinese.jpg?t=1683632655",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:19",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "云之国 完美数字版|豪华中文|Build.24208507-破碎命运-英雄觉醒+季票+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/103294.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2070270/dc489115e26305fa50b2b74a9ec5a9cd610764a5/capsule_616x353.jpg?t=1764895808",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:18",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "落日余晖|豪华中文|Build.24236474-昼夜纷争-亡灵契约+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/84479.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2271930/d31db0d0af597736951a94c1a080cb556e820816/capsule_616x353_schinese.jpg?t=1777488328",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:17",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "铸魂迷途|官方中文|Build.24239764+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/117931.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3839250/9afd015d54aabe1b844c05c1242c9dc15c1bc755/capsule_616x353_schinese.jpg?t=1783925883",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:16",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "归零巡礼 亡谍镇魂曲|豪华中文|Build.24222278+预购特典+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/114029.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2863680/23a9ba86ae091abdd36033685f5dc7b876059b3a/capsule_616x353_schinese.jpg?t=1779203691",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:15",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "霓虹深渊2 支持者版|豪华中文|Build.24200128+宿敌再临DLC+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/96266.html",
+    "image": "https://v1.imagehub.cc/images/2026/06/15/0bb0e34258df37ab57785979668ba065.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-17 07:15",
@@ -1331,6 +733,16 @@
     "platform": "GAMER520"
   },
   {
+    "title": "幽灵守护者|官方中文|Build.24116009+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/118236.html",
+    "image": "https://v1.imagehub.cc/images/2026/07/17/75b622c6919966f5a142885dfa0da26f.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:03",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "怪棋物语|官方中文|Build.24234907+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/115640.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3834650/e3d53f968dcfda6239314c1b678303023dbe0c3a/capsule_616x353_schinese.jpg?t=1780614697",
@@ -1391,6 +803,26 @@
     "platform": "GAMER520"
   },
   {
+    "title": "猫咪列车长|官方中文|Build.24227616+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/118234.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4141710/dad4c19a50950638c7b0c768484ad3c85b0ab61f/capsule_616x353_schinese.jpg?t=1783955168",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:02",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "星球田园诗 正式版|官方中文|Build.24257919+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/88786.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2252680/27c98f125f0516d5a136aff2a775d1b2c9c7d34f/capsule_616x353_schinese.jpg?t=1781775145",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-17 07:00",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "吸血鬼幸存者|豪华中文|Build.24217670+小丑横行DLC+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/41461.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3929770/ba1fef61fad5b861d4bc74dea3e8829e57dae35d/capsule_616x353.jpg?t=1761673085",
@@ -1399,7 +831,7 @@
     "date": "2026-07-16 17:05",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 82
+    "rank_hot": 81
   },
   {
     "title": "简红2|豪华中文|V2.0.7+多瑙之血DLC+全DLC|解压即撸|",
@@ -1589,6 +1021,16 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-16 07:37",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "修仙家族模拟器|官方中文|Build.24193846-烛龙飞舞-潮汐呼唤+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/64553.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2013240/capsule_616x353.jpg?t=1721101977",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-16 07:36",
     "type": "",
     "platform": "GAMER520"
   },
@@ -1853,16 +1295,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "Esports Manager 2026|官方中文|Build.24198186+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/117451.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2749950/eddaddc1b8752c6f64f1d32ca42095d0611c21c8/capsule_616x353.jpg?t=1783353518",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-16 07:03",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "惊悚故事 雪孩子|官方中文|Build.23492319+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/113643.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3529690/0f4d64e7859df65b22f206f43b7186b60199c267/capsule_616x353_schinese.jpg?t=1778241371",
@@ -1984,6 +1416,16 @@
     "platform": "GAMER520"
   },
   {
+    "title": "魔姬征服者|官方中文|Build.19800937+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/118050.html",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927630/ac081ffd3e13a35135ce8d7f2b6f015720ac3a76/capsule_616x353.jpg?t=1756607292",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-15 07:59",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "战锤40K 行商浪人|官方中文|V1.6.1.511+无限缪斯翁DLC+季票+预购特典+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/47313.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4226770/8f5d99ebd813233ad1e31c8f254ee2463899c9da/capsule_616x353.jpg?t=1781187675",
@@ -2021,26 +1463,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-15 07:39",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "喵门镖局 支持者版|官方中文|Build.23933031-新角色:守护者-疾驰护航-喵勇守护+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/86063.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1975580/capsule_616x353_schinese.jpg?t=1733766755",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-15 07:36",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "地狱丧钟|豪华中文|Build.24190471+诅咒战争DLC-苍穹堕落-怒斩亡魂+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/96562.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3774910/b3b55eb358295158bcda1d89b19ca71efe08c3a2/capsule_616x353_schinese.jpg?t=1783620047",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-15 07:35",
     "type": "",
     "platform": "GAMER520"
   },
@@ -2278,16 +1700,6 @@
     "title": "哀鸿 城破十日记|豪华中文|Build.24181263+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/111372.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3220060/7f78e4563c65e0aa332027892729d2d11d39f4f2/capsule_616x353_schinese.jpg?t=1776854162",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-14 07:34",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "霓虹深渊2 支持者版|豪华中文|Build.24161022+宿敌再临DLC+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/96266.html",
-    "image": "https://v1.imagehub.cc/images/2026/06/15/0bb0e34258df37ab57785979668ba065.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-14 07:34",
@@ -2837,146 +2249,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "末日降临! 被美女们关进避难所!?|中字-国语|Build.24107990+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/115805.html",
-    "image": "https://v1.imagehub.cc/images/2026/06/15/7903db154b4d9eacdf2ebd301c29f571.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 08:00",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "侠落 百花杀尽|豪华中文|Build.24123474-风起南荒-千劫归真-炼狱封仙+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/99056.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2774390/0e840553af228206729e1176fc860ae6b082f20a/capsule_616x353.jpg?t=1783651099",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:15",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "风暴崛起|官方中文|Build.24127039-兵戈铁律-焦土狂袭+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/91514.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1486920/capsule_616x353.jpg?t=1744935233",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:10",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "无尽帝国2|官方中文|Build.24130991+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/99811.html",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/97111c31fc17061971264084ce53759b6476cc90/capsule_616x353.jpg?t=1758557307",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:10",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "千棋百计 Gambonanza|官方中文|Build.24142603+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/113288.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3509230/7a62c2313fcc00c041f0afa4fe4edb6a050f6914/capsule_616x353.jpg?t=1780392882",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:05",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "阿喀琉斯 不为人知的传奇|豪华中文|Build.23908902-天命斗魂-苍穹誓约+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/31196.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1314000/capsule_616x353.jpg?t=1698934858",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:05",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "施莱恩传说|官方中文|Build.24113045+全DLC-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/100481.html",
-    "image": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/aduyLvbtgluEazE.png!a-3-854x.png",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:03",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "太阳港 Sun Haven|官方中文|Build.24149864+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/57477.html",
-    "image": "https://ig.2468c.com/2024/08/06/1bacced16baf0.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:03",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "落日余晖|豪华中文|Build.24123667-昼夜纷争-亡灵契约+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/84479.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2271930/d31db0d0af597736951a94c1a080cb556e820816/capsule_616x353_schinese.jpg?t=1777488328",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:01",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "康斯坦丝|官方中文|Build.23917362+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/102686.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2313700/34e639c35aa2127bf82927624263e36f046543e0/capsule_616x353_schinese.jpg?t=1763984940",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-11 07:00",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "庄园领主|官方中文|Build.24113073+预购特典+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/75835.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1363080/capsule_616x353_schinese.jpg?t=1714143614",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-10 09:09",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "魔法门之英雄无敌 上古纪元|豪华中文|Build.24128879+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/100598.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3105440/42e798fe7656dcde74dbf9c50494355face75917/capsule_616x353_schinese.jpg?t=1759997569",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-10 09:09",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "兔兔秘密花园2|豪华中文|Build.24087895-幸福约定-缘起花开+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/113240.html",
-    "image": "https://v1.imagehub.cc/images/2026/07/11/5dd386e0a341b849ec953b3d2c2a05ab.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-10 09:08",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "银白钢铁X 1+2 双重收藏辑|豪华中文|Build.22987869+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/117635.html",
-    "image": "https://p2.bahamut.com.tw/B/2KU/86/00d3121570547fc4b3d9409a991xp8y5.JPG?v=1772013732325",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-10 09:08",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "[顶置]PC近期爆火游戏 汇总贴",
     "url": "https://www.gamer520.com/56286.html",
     "image": "https://v1.imagehub.cc/images/2026/05/19/29985acb21c255913a269a9aef9960ca.jpg",
@@ -3256,17 +2528,6 @@
     "rank_hot": 27
   },
   {
-    "title": "奇迹时代4 高级版|豪华中文|V.1.015.004.123535+大法师的秘辛DLC-全扩展+全季票+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/57234.html",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3976910/76ec186d1004887d70fcb20996797e3da4a5bf85/capsule_616x353.jpg?t=1781614745",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-03 08:07",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 28
-  },
-  {
     "title": "星空 Starfield|豪华中文|V1.16.244-地球舰队DLC+预购特典+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/63932.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1716740/capsule_616x353.jpg?t=1692798833",
@@ -3533,17 +2794,6 @@
     "rank_hot": 55
   },
   {
-    "title": "红色沙漠|豪华中文|Build.24103484+预购特典+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/110658.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3321460/d76689d0bd0a77b863a64b08760b8dd1c5b50081/capsule_616x353.jpg?t=1773980522",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-09 07:55",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 56
-  },
-  {
     "title": "诸天刷宝录 支持者版|官方中文|Build.21463282+四方神界DLC-神纹觉醒-万界逍遥+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/86932.html",
     "image": "https://v1.imagehub.cc/images/2025/12/28/c50e920d1b3ed0b2481a982b458b5f9c.jpg",
@@ -3808,7 +3058,7 @@
     "date": "2026-03-26 08:10",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 81
+    "rank_hot": 82
   },
   {
     "title": "八方旅人2|官方中文|V1.1.0Fix+预购特典+全DLC+修改器-支持手柄|解压即撸|",

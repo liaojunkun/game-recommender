@@ -120,12 +120,12 @@
     "platform": "3DM"
   },
   {
-    "title": "007：初露锋芒",
-    "url": "https://www.3dmgame.com/games/007fl/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
-    "description": "类型：动作游戏 | 制作：IO Interactive A/S | 平台：XboxSeriesX | 发行：IO Interactive A/S",
+    "title": "尼尔：机械纪元",
+    "url": "https://www.3dmgame.com/games/nierautomata/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
+    "description": "类型：动作游戏 | 制作：Platinum Games Inc. | 平台：Switch | 发行：史克威尔艾尼克斯",
     "source": "3DM-排行榜",
-    "date": "2026-05-27",
+    "date": "2022-10-06",
     "type": "动作游戏",
     "platform": "3DM"
   },
@@ -227,6 +227,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "007 初露锋芒",
+    "url": "https://www.3dmgame.com/games/007fl/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260513/1778652189_631135.jpg",
+    "description": "",
+    "source": "3DM-专题",
+    "date": "",
+    "type": "",
     "platform": "3DM"
   },
   {

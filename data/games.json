@@ -1,5 +1,15 @@
 [
   {
+    "title": "光环：战役进化",
+    "url": "https://www.3dmgame.com/games/haloce/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780883215_339784.jpg",
+    "description": "发行：Xbox Game Studios",
+    "source": "近期新作",
+    "date": "2026-07-28",
+    "type": "暴力, 第一人称射击, 电影式, 外星人, 重制",
+    "platform": "3DM"
+  },
+  {
     "title": "艾恩葛朗特 回荡新声",
     "url": "https://www.3dmgame.com/games/echoesoa/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260306/1772771380_191467.jpg",
@@ -37,16 +47,6 @@
     "source": "近期新作",
     "date": "2026-06-19",
     "type": "日系角色扮演, 动作角色扮演, 多结局, 2.5D, 冒险",
-    "platform": "3DM"
-  },
-  {
-    "title": "太吾绘卷",
-    "url": "https://www.3dmgame.com/games/taiwu/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260621/1781972088_837271.jpg",
-    "description": "发行：ConchShip Games",
-    "source": "近期新作",
-    "date": "2026-06-17",
-    "type": "恋爱模拟, 仙侠, 类 Rogue, 神话, 建造",
     "platform": "3DM"
   },
   {
@@ -100,6 +100,16 @@
     "platform": "3DM"
   },
   {
+    "title": "上古卷轴5：天际",
+    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
+    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "source": "3DM-排行榜",
+    "date": "2011-11-11",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
     "title": "宝可梦：剑/盾",
     "url": "https://www.3dmgame.com/games/pokemonswordshield/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
@@ -110,13 +120,13 @@
     "platform": "3DM"
   },
   {
-    "title": "上古卷轴5：天际",
-    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
-    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "title": "太吾绘卷：天幕心帷",
+    "url": "https://www.3dmgame.com/games/taiwu/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260621/1781972088_837271.jpg",
+    "description": "类型：策略游戏 | 制作：ConchShip Games | 平台：PC | 发行：ConchShip Games",
     "source": "3DM-排行榜",
-    "date": "2011-11-11",
-    "type": "角色扮演",
+    "date": "2026-06-17",
+    "type": "策略游戏",
     "platform": "3DM"
   },
   {

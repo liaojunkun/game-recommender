@@ -160,16 +160,6 @@
     "platform": "3DM"
   },
   {
-    "title": "魔兽世界",
-    "url": "https://ol.3dmgame.com/wow/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
-    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "原神",
     "url": "https://ol.3dmgame.com/ys/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
@@ -177,6 +167,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "冒险",
+    "platform": "3DM"
+  },
+  {
+    "title": "魔兽世界",
+    "url": "https://ol.3dmgame.com/wow/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
+    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {

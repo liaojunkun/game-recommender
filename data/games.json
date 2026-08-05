@@ -170,16 +170,6 @@
     "platform": "3DM"
   },
   {
-    "title": "原神",
-    "url": "https://ol.3dmgame.com/ys/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
-    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "冒险",
-    "platform": "3DM"
-  },
-  {
     "title": "我的世界",
     "url": "https://ol.3dmgame.com/mc/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
@@ -187,6 +177,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "沙盒",
+    "platform": "3DM"
+  },
+  {
+    "title": "原神",
+    "url": "https://ol.3dmgame.com/ys/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
+    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "冒险",
     "platform": "3DM"
   },
   {

@@ -778,7 +778,7 @@
     "date": "2026-08-08 08:09",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 71
+    "rank_hot": 70
   },
   {
     "title": "七龙珠 电光炸裂!ZERO|豪华中文|Build.24497537-绝境觉醒-炽火天袭+预购特典+全DLC+终极奖励提升包+全季票+修改器|解压即撸|",
@@ -853,6 +853,16 @@
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 41
+  },
+  {
+    "title": "功夫牌 Kungfu Card|官方中文|V1.0.0+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/119619.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3340780/0e8292abbdf7e0028518c4ec748584cb228d9aa2/capsule_616x353_schinese.jpg?t=1786083911",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-08-08 07:23",
+    "type": "",
+    "platform": "GAMER520"
   },
   {
     "title": "奉魔|官方中文|Build.24618003+全DLC|解压即撸|",
@@ -1726,7 +1736,8 @@
     "source": "GAMER520",
     "date": "2026-08-06 07:17",
     "type": "",
-    "platform": "GAMER520"
+    "platform": "GAMER520",
+    "rank_hot": 100
   },
   {
     "title": "动物海湾|豪华中文|Build.24490026+全DLC|解压即撸|",
@@ -2764,16 +2775,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "隐名三国|官方中文|Build.24516972-群英莫测-千谋百算+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/118035.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4549610/e1f0ab4c5012a0e8e00b006e42439e1294d94b3d/capsule_616x353_schinese.jpg?t=1784053479",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-08-03 07:13",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "赛博朋克2077 终极典藏版|中字-国语|Build.19999047-2.31HF+往日之影DLC+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/4121.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1756209867",
@@ -3448,7 +3449,7 @@
     "date": "2024-09-30 07:00",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 70
+    "rank_hot": 71
   },
   {
     "title": "师父.SIFU|中字-国语|V1.29-新哲学价值观服装-巅峰の武者+全DLC|解压即撸|",
@@ -3737,18 +3738,6 @@
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 99
-  },
-  {
-    "title": "三国志14 威力加强版|中字-国语|PK1.0.10.4+1.0.25.4+全DLC+季票+特典+全联动+PK古武将解锁+编辑修改器|解压即撸|",
-    "url": "https://www.gamer520.com/14719.html",
-    "image": "https://www.gbtgames.com/upload/attach/20230313/2_S2D5VXVQ35D6TNQ.png",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2025-10-17 10:30",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 100,
-    "rank_comment_count": 57
   },
   {
     "title": "破晓传说 黎明新程|豪华中文|Build.20823607-炎舞断罪-双界新生+预购特典+全DLC|解压即撸|",
@@ -4255,6 +4244,17 @@
     "type": "",
     "platform": "GAMER520",
     "rank_comment_count": 56
+  },
+  {
+    "title": "三国志14 威力加强版|中字-国语|PK1.0.10.4+1.0.25.4+全DLC+季票+特典+全联动+PK古武将解锁+编辑修改器|解压即撸|",
+    "url": "https://www.gamer520.com/14719.html",
+    "image": "https://www.gbtgames.com/upload/attach/20230313/2_S2D5VXVQ35D6TNQ.png",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2025-10-17 10:30",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_comment_count": 57
   },
   {
     "title": "刺客信条：英灵殿终极版/Assassins Creed Valhalla（V1.12+DLC-V2修复支持WIN7-8.1）​- Switch520.com",

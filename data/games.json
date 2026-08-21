@@ -1,5 +1,15 @@
 [
   {
+    "title": "喵咪争霸",
+    "url": "https://www.3dmgame.com/games/mmzb/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260624/1782281850_716131.jpg",
+    "description": "发行：3DM Games,蒜头",
+    "source": "近期新作",
+    "date": "2026-08-22",
+    "type": "卡通, 独立, 可爱, 牌组构建, 手绘",
+    "platform": "3DM"
+  },
+  {
     "title": "地狱已满2",
     "url": "https://www.3dmgame.com/games/nmrih2/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260812/1786522385_464392.jpg",
@@ -40,16 +50,6 @@
     "platform": "3DM"
   },
   {
-    "title": "刺客信条：黑旗 记忆重置",
-    "url": "https://www.3dmgame.com/games/ac4bfre/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
-    "description": "发行：育碧",
-    "source": "近期新作",
-    "date": "2026-07-09",
-    "type": "历史, 跑酷, 潜行, 海战, 冒险",
-    "platform": "3DM"
-  },
-  {
     "title": "极品飞车18：宿敌",
     "url": "https://www.3dmgame.com/games/needforspeed18/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526960029_838372.jpg",
@@ -66,6 +66,16 @@
     "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
     "source": "3DM-排行榜",
     "date": "2026-02-27",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "刺客信条：黑旗 记忆重置",
+    "url": "https://www.3dmgame.com/games/ac4bfre/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
+    "description": "类型：动作游戏 | 制作：育碧 | 平台：PC | 发行：育碧",
+    "source": "3DM-排行榜",
+    "date": "2026-07-09",
     "type": "动作游戏",
     "platform": "3DM"
   },
@@ -120,12 +130,12 @@
     "platform": "3DM"
   },
   {
-    "title": "逃出生天",
-    "url": "https://www.3dmgame.com/games/awayout/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180719/1531967652_232197.jpg",
-    "description": "类型：动作游戏 | 制作：Hazelight | 平台：PC | 发行：EA Games",
+    "title": "尼尔：机械纪元",
+    "url": "https://www.3dmgame.com/games/nierautomata/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
+    "description": "类型：动作游戏 | 制作：Platinum Games Inc. | 平台：Switch | 发行：史克威尔艾尼克斯",
     "source": "3DM-排行榜",
-    "date": "2018-03-23",
+    "date": "2022-10-06",
     "type": "动作游戏",
     "platform": "3DM"
   },
@@ -1329,7 +1339,7 @@
     "date": "2026-08-21 06:13",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 67
+    "rank_hot": 66
   },
   {
     "title": "梦境回响|官方中文|Build.24843868+全DLC|解压即撸|",
@@ -1560,7 +1570,7 @@
     "date": "2026-08-20 08:10",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 46
+    "rank_hot": 47
   },
   {
     "title": "毁灭战士 永恒|豪华中文|Build.24695697-魔域战神-奴役恶魔+全DLC+修改器|解压即撸|",
@@ -3506,7 +3516,7 @@
     "date": "2026-08-12 09:00",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 47
+    "rank_hot": 46
   },
   {
     "title": "云族裔 inZOI|豪华中文|Build.24425896+海岛假期DLC+全DLC+修改器|解压即撸|",
@@ -3704,7 +3714,7 @@
     "date": "2026-07-30 05:12",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 66
+    "rank_hot": 67
   },
   {
     "title": "刺客信条 英灵殿终极版|官方中文|V1.7.0Fix+CrackFix Win11+全DLC+季票-末日曙光+遗忘传说+原声音乐+去多国语音|解压即撸|",
@@ -3764,23 +3774,23 @@
     "rank_hot": 73
   },
   {
-    "title": "最后生还者2 复刻版|豪华中文|1.6.10721Fix+预购特典+全DLC-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/90839.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1742580411",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-09 08:20",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 74
-  },
-  {
     "title": "黑神话 悟空|巨量新增MOD合集+画质MOD+性能MOD+外观MOD+武器MOD+功能MOD+存档+修改器",
     "url": "https://www.gamer520.com/81644.html",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/capsule_616x353_schinese.jpg?t=1724119221",
     "description": "",
     "source": "GAMER520",
     "date": "2024-09-05 10:10",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 74
+  },
+  {
+    "title": "最后生还者2 复刻版|豪华中文|1.6.10721Fix+预购特典+全DLC-支持手柄|解压即撸|",
+    "url": "https://www.gamer520.com/90839.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1742580411",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-06-09 08:20",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 75

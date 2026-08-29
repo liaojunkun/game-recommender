@@ -788,7 +788,7 @@
     "date": "2026-08-29 09:05",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 89
+    "rank_hot": 85
   },
   {
     "title": "1666 阿姆斯特丹|豪华中文|Build.24961205+预购特典+全DLC|解压即撸|",
@@ -1380,7 +1380,7 @@
     "date": "2026-08-28 07:10",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 88
+    "rank_hot": 87
   },
   {
     "title": "剑与魔法 征服之路|豪华中文|Build.24930714+全DLC|解压即撸|",
@@ -3400,23 +3400,23 @@
     "rank_hot": 59
   },
   {
-    "title": "帝国时代2 重置决定版|中字-国语|Build.24094652+最后的酋长DLC+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/40759.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3219700/4d6464c524e08974e1ac0638a702a10602f5b7ea/capsule_616x353.jpg?t=1771351243",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-07-09 08:00",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 60
-  },
-  {
     "title": "明末 渊虚之羽|豪华中文|Build.2216953-寂刃冥劫-渊灵断歌+MOD合集+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/96688.html",
     "image": "https://v1.imagehub.cc/images/2026/03/16/702b1b250fcc804b27f8b2150b843c7f.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-31 08:50",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 60
+  },
+  {
+    "title": "帝国时代2 重置决定版|中字-国语|Build.24094652+最后的酋长DLC+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/40759.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3219700/4d6464c524e08974e1ac0638a702a10602f5b7ea/capsule_616x353.jpg?t=1771351243",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-07-09 08:00",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 61
@@ -3533,18 +3533,6 @@
     "rank_hot": 71
   },
   {
-    "title": "师父.SIFU|中字-国语|V1.29-新哲学价值观服装-巅峰の武者+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/26952.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2231950/capsule_616x353.jpg?t=1679397764",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2025-06-21 07:13",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 72,
-    "rank_comment_count": 5
-  },
-  {
     "title": "黑神话 悟空|巨量新增MOD合集+画质MOD+性能MOD+外观MOD+武器MOD+功能MOD+存档+修改器",
     "url": "https://www.gamer520.com/81644.html",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/capsule_616x353_schinese.jpg?t=1724119221",
@@ -3553,7 +3541,19 @@
     "date": "2024-09-05 10:10",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 73
+    "rank_hot": 72
+  },
+  {
+    "title": "师父.SIFU|中字-国语|V1.29-新哲学价值观服装-巅峰の武者+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/26952.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2231950/capsule_616x353.jpg?t=1679397764",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2025-06-21 07:13",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 73,
+    "rank_comment_count": 5
   },
   {
     "title": "生化危机8 村庄 黄金版|中字-国语|V1.2.3.9+萝丝魅影DLC-佣兵模式+修改器+全DLC|解压即撸|",
@@ -3675,17 +3675,6 @@
     "date": "2026-02-16 07:10",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 85
-  },
-  {
-    "title": "神秘海域 盗贼传奇合集|官方中文|V1.4.21058Fix+预购特典+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/43721.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1659420/capsule_616x353_schinese.jpg?t=1751913411",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-01-21 10:00",
-    "type": "",
-    "platform": "GAMER520",
     "rank_hot": 86
   },
   {
@@ -3697,7 +3686,18 @@
     "date": "2026-08-23 09:30",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 87
+    "rank_hot": 88
+  },
+  {
+    "title": "神秘海域 盗贼传奇合集|官方中文|V1.4.21058Fix+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/43721.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1659420/capsule_616x353_schinese.jpg?t=1751913411",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-01-21 10:00",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 89
   },
   {
     "title": "冰汽时代2|中字-国语|Build.24037022+灰烬誓约DLC+全DLC+预购奖励+原生带-数字画册+中篇小说+修改器|解压即撸|",

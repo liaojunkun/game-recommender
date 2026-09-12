@@ -100,16 +100,6 @@
     "platform": "3DM"
   },
   {
-    "title": "刺客信条：黑旗 记忆重置",
-    "url": "https://www.3dmgame.com/games/ac4bfre/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
-    "description": "类型：动作游戏 | 制作：育碧 | 平台：PC | 发行：育碧",
-    "source": "3DM-排行榜",
-    "date": "2026-07-09",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "上古卷轴5：天际",
     "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
@@ -117,6 +107,16 @@
     "source": "3DM-排行榜",
     "date": "2011-11-11",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "刺客信条：黑旗 记忆重置",
+    "url": "https://www.3dmgame.com/games/ac4bfre/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
+    "description": "类型：动作游戏 | 制作：育碧 | 平台：PC | 发行：育碧",
+    "source": "3DM-排行榜",
+    "date": "2026-07-09",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {

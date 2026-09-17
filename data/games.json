@@ -200,16 +200,6 @@
     "platform": "3DM"
   },
   {
-    "title": "坦克世界",
-    "url": "https://ol.3dmgame.com/tksj/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20180105/1515140259_980208.jpg",
-    "description": "类型：射击 | 制作：Wargaming | 平台：PC | 发行：空中网",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "射击",
-    "platform": "3DM"
-  },
-  {
     "title": "星际争霸2",
     "url": "https://ol.3dmgame.com/sc2/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20180108/1515380904_671280.jpg",
@@ -227,6 +217,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "动作",
+    "platform": "3DM"
+  },
+  {
+    "title": "坦克世界",
+    "url": "https://ol.3dmgame.com/tksj/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20180105/1515140259_980208.jpg",
+    "description": "类型：射击 | 制作：Wargaming | 平台：PC | 发行：空中网",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "射击",
     "platform": "3DM"
   },
   {

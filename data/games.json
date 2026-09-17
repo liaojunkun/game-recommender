@@ -120,22 +120,22 @@
     "platform": "3DM"
   },
   {
-    "title": "刺客信条：黑旗 记忆重置",
-    "url": "https://www.3dmgame.com/games/ac4bfre/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
-    "description": "类型：动作游戏 | 制作：育碧 | 平台：PC | 发行：育碧",
-    "source": "3DM-排行榜",
-    "date": "2026-07-09",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "侠盗猎车：圣安地列斯",
     "url": "https://www.3dmgame.com/games/gtasa/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180521/1526889917_469019.jpg",
     "description": "类型：动作游戏 | 制作： Rockstar Games | 平台：PC | 发行： Rockstar Games",
     "source": "3DM-排行榜",
     "date": "2005-06-06",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "刺客信条：黑旗 记忆重置",
+    "url": "https://www.3dmgame.com/games/ac4bfre/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
+    "description": "类型：动作游戏 | 制作：育碧 | 平台：PC | 发行：育碧",
+    "source": "3DM-排行榜",
+    "date": "2026-07-09",
     "type": "动作游戏",
     "platform": "3DM"
   },
@@ -1226,6 +1226,16 @@
     "title": "星砂岛|豪华中文|Build.25322894+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/108595.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/3dd23ee8af3aa62439886d7ac5a9c09dd838e5ba/capsule_616x353_schinese.jpg?t=1777294060",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-17 07:11",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "往生路 The Return|官方中文|Build.24962667+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/122050.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4805100/f691676a67fa073e0214bc53d25c64da098353eb/capsule_616x353_tchinese.jpg?t=1781877667",
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-17 07:11",
@@ -2424,6 +2434,16 @@
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 52
+  },
+  {
+    "title": "空之轨迹 THE 1ST|中字-国语|V1.07+预购特典+季票+全DLC-支持手柄|解压即撸|",
+    "url": "https://www.gamer520.com/99697.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3447040/7ea09c07b0567fb25dae1167dcc10e7bd7749cbd/capsule_616x353_schinese.jpg?t=1758256982",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-13 09:30",
+    "type": "",
+    "platform": "GAMER520"
   },
   {
     "title": "魔法门之梦魇骑士|豪华中文|Build.25698617-禁域破晓-异界军团+全DLC|解压即撸|",
@@ -3844,23 +3864,23 @@
     "rank_comment_count": 36
   },
   {
-    "title": "开拓者 正义之怒 加强版|豪华中文|Build.20235791-黑暗审判-复仇圣歌+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/13478.html",
-    "image": "https://v1.imagehub.cc/images/2026/05/05/b66d290556329fdaef0bdc7a1a471aea.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-05-05 07:13",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 84
-  },
-  {
     "title": "使命召唤17 黑色行动 冷战|豪华中文|Build.20409806-孤狼突围-风暴践踏+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/66751.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1985810/capsule_616x353.jpg?t=1686345977",
     "description": "",
     "source": "GAMER520",
     "date": "2026-02-16 07:13",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 84
+  },
+  {
+    "title": "开拓者 正义之怒 加强版|豪华中文|Build.20235791-黑暗审判-复仇圣歌+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/13478.html",
+    "image": "https://v1.imagehub.cc/images/2026/05/05/b66d290556329fdaef0bdc7a1a471aea.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-05-05 07:13",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 85

@@ -130,16 +130,6 @@
     "platform": "3DM"
   },
   {
-    "title": "刺客信条：黑旗 记忆重置",
-    "url": "https://www.3dmgame.com/games/ascbfr/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
-    "description": "类型：动作游戏 | 制作：育碧 | 平台：PC | 发行：育碧",
-    "source": "3DM-排行榜",
-    "date": "2026-07-09",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "宝可梦：朱/紫",
     "url": "https://www.3dmgame.com/games/pokemonsv/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20220516/1652664349_981575.jpg",
@@ -147,6 +137,16 @@
     "source": "3DM-排行榜",
     "date": "2022-11-18",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "刺客信条：黑旗 记忆重置",
+    "url": "https://www.3dmgame.com/games/ascbfr/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260424/1776992420_893255.jpg",
+    "description": "类型：动作游戏 | 制作：育碧 | 平台：PC | 发行：育碧",
+    "source": "3DM-排行榜",
+    "date": "2026-07-09",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {
@@ -2439,16 +2439,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "最后的气息 Last Breath|官方中文|Build.25325325+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/121041.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4298500/02a785e92a60e5ccaa101745b9a8154688eeee06/capsule_616x353.jpg?t=1789054059",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-16 07:16",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "沉没之地|官方中文|Build.25280983-沉寂之域-遗失的陆地+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/63706.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2080690/capsule_616x353.jpg?t=1693103083",
@@ -2840,16 +2830,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "怪物收割|官方中文|Build.25232214+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/120396.html",
-    "image": "https://img.odbgo.com/i/2026/08/20/6a8655f0003c8.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-15 07:07",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "荒域奇谭|官方中文|Build.25294087+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/112726.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4007300/95fb8d78aef903b8964ecc686ec6eb868e72d7bf/capsule_616x353_schinese.jpg?t=1777510569",
@@ -3036,6 +3016,16 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-14 07:29",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "暗星铁律|豪华中文|Build.25254720+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/119747.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1067360/9cd130b5d76f110bbdcdb7cab94b38c76bfcdd45/capsule_616x353_schinese.jpg?t=1786283279",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-14 07:28",
     "type": "",
     "platform": "GAMER520"
   },

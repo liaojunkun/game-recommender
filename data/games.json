@@ -2379,16 +2379,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "符文世界 龙之荒野|豪华中文|Build.25111146+预购特典+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/116529.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1374490/6eeb7228bf0def21edc9fc57976140acfb67930c/capsule_616x353_alt_assets_1_schinese.jpg?t=1781803285",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-16 08:50",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "绯红战术 白旗之黎明|豪华中文|Build.25309192+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/115683.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1480810/7200051543b6a222f015a56c2130cf7c491f2560/capsule_616x353_tchinese.jpg?t=1781267080",
@@ -2435,6 +2425,16 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-16 07:20",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "最后的气息 Last Breath|官方中文|Build.25325325+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/121041.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4298500/02a785e92a60e5ccaa101745b9a8154688eeee06/capsule_616x353.jpg?t=1789054059",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-16 07:16",
     "type": "",
     "platform": "GAMER520"
   },
@@ -2830,6 +2830,16 @@
     "platform": "GAMER520"
   },
   {
+    "title": "怪物收割|官方中文|Build.25232214+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/120396.html",
+    "image": "https://img.odbgo.com/i/2026/08/20/6a8655f0003c8.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-15 07:07",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "荒域奇谭|官方中文|Build.25294087+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/112726.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4007300/95fb8d78aef903b8964ecc686ec6eb868e72d7bf/capsule_616x353_schinese.jpg?t=1777510569",
@@ -3130,23 +3140,23 @@
     "rank_hot": 12
   },
   {
-    "title": "生化危机9 安魂曲|中字-国语|Build.22898177+预购特典+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/109515.html",
-    "image": "https://img.odbgo.com/i/2026/08/14/6a7eed728e318.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-08-15 08:30",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 13
-  },
-  {
     "title": "双点校园|中字-国语|Build.20226581+Epic官中+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/55014.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1649080/capsule_616x353_schinese.jpg?t=1696860458",
     "description": "",
     "source": "GAMER520",
     "date": "2026-03-23 09:00",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 13
+  },
+  {
+    "title": "生化危机9 安魂曲|中字-国语|Build.22898177+预购特典+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/109515.html",
+    "image": "https://img.odbgo.com/i/2026/08/14/6a7eed728e318.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-08-15 08:30",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 14

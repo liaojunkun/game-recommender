@@ -200,16 +200,6 @@
     "platform": "3DM"
   },
   {
-    "title": "英雄联盟",
-    "url": "https://ol.3dmgame.com/lol/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
-    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "MOBA",
-    "platform": "3DM"
-  },
-  {
     "title": "星际争霸2",
     "url": "https://ol.3dmgame.com/sc2/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20180108/1515380904_671280.jpg",
@@ -217,6 +207,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "策略",
+    "platform": "3DM"
+  },
+  {
+    "title": "英雄联盟",
+    "url": "https://ol.3dmgame.com/lol/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
+    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "MOBA",
     "platform": "3DM"
   },
   {
@@ -1028,6 +1028,16 @@
     "date": "",
     "type": "",
     "platform": "ali213"
+  },
+  {
+    "title": "守墓人2|豪华中文|Build.25467846+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/122444.html",
+    "image": "https://img.odbgo.com/i/2026/09/23/6ab2fa00c46c2.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-23 06:00",
+    "type": "",
+    "platform": "GAMER520"
   },
   {
     "title": "[顶置]PC近期爆火游戏 汇总贴",
@@ -2456,7 +2466,7 @@
     "date": "2026-09-18 08:02",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 77
+    "rank_hot": 76
   },
   {
     "title": "最终幻想战略版 伊瓦利斯编年史|豪华中文|Build.24304444+预购特典+全DLC-支持手柄|解压即撸|",
@@ -3023,16 +3033,6 @@
     "title": "车库整理! Garage Tidy Up|官方中文|Build.25381647+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/122151.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4930980/b4a0180d596f13fe1f0ac0faea632624a9482339/capsule_616x353.jpg?t=1789578051",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-18 07:00",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "钟塔|官方中文|Build.23088782+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/122166.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2373260/c6d778727753425d8906dac97963cbe8c4aad60f/ss_c6d778727753425d8906dac97963cbe8c4aad60f.1920x1080.jpg?t=1788505593",
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-18 07:00",
@@ -3803,7 +3803,7 @@
     "date": "2026-04-02 08:50",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 76
+    "rank_hot": 77
   },
   {
     "title": "明末 欲火重生|中字-国语|Build.25180107-逆脉碎劲-寒锋踏月+全DLC|解压即撸|",
@@ -4027,23 +4027,23 @@
     "rank_hot": 98
   },
   {
-    "title": "暗黑破坏神4|官方中文|V1.2.3.47954.2|解压即撸|",
-    "url": "https://www.gamer520.com/59542.html",
-    "image": "https://ig.freer.blog/2024/01/03/b19cd3292301c.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2024-01-03 18:00",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 99
-  },
-  {
     "title": "空之轨迹 THE 1ST|中字-国语|V1.07+预购特典+季票+全DLC-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/99697.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3447040/7ea09c07b0567fb25dae1167dcc10e7bd7749cbd/capsule_616x353_schinese.jpg?t=1758256982",
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-13 09:30",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 99
+  },
+  {
+    "title": "暗黑破坏神4|官方中文|V1.2.3.47954.2|解压即撸|",
+    "url": "https://www.gamer520.com/59542.html",
+    "image": "https://ig.freer.blog/2024/01/03/b19cd3292301c.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2024-01-03 18:00",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 100

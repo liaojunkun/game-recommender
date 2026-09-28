@@ -70,13 +70,13 @@
     "platform": "3DM"
   },
   {
-    "title": "宝可梦：剑/盾",
-    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
-    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
+    "title": "植物大战僵尸",
+    "url": "https://www.3dmgame.com/games/pvz/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180612/1528772396_505589.jpg",
+    "description": "类型：休闲益智 | 制作：宝开 | 平台：PC | 发行：PopCap Games",
     "source": "3DM-排行榜",
-    "date": "2019-11-15",
-    "type": "角色扮演",
+    "date": "2009-12-14",
+    "type": "休闲益智",
     "platform": "3DM"
   },
   {
@@ -90,13 +90,13 @@
     "platform": "3DM"
   },
   {
-    "title": "植物大战僵尸",
-    "url": "https://www.3dmgame.com/games/pvz/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180612/1528772396_505589.jpg",
-    "description": "类型：休闲益智 | 制作：宝开 | 平台：PC | 发行：PopCap Games",
+    "title": "宝可梦：剑/盾",
+    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
+    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
     "source": "3DM-排行榜",
-    "date": "2009-12-14",
-    "type": "休闲益智",
+    "date": "2019-11-15",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -1030,6 +1030,16 @@
     "platform": "ali213"
   },
   {
+    "title": "桌面破坏神 挂机ARPG|豪华中文|Build.25569292-秘境狂潮-暗影远征+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/122905.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4623570/b755b5c9906da0f77bb4fa51dda3bc803e4bafb9/capsule_616x353_schinese.jpg?t=1790564273",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-28 23:01",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "正统三国 无尽演义|官方中文|Build.25031541-千军破阵-名将天下+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/122899.html",
     "image": "https://img.odbgo.com/i/2026/09/28/6ab9f1e543f2e.jpg",
@@ -1079,7 +1089,7 @@
     "date": "2026-09-28 08:10",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 54
+    "rank_hot": 53
   },
   {
     "title": "剑心犹在|官方中文|Build.25513246+全DLC|解压即撸|",
@@ -3029,16 +3039,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "毁灭战士 永恒|豪华中文|Build.25216728-魔域战神-奴役恶魔+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/64231.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/782330/capsule_616x353.jpg?t=1755109910",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-22 08:30",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "赛博朋克2077 终极典藏版|中字-国语|Build.20383525+DLSS5-往日之影DLC+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/4121.html",
     "image": "https://img.odbgo.com/i/2026/09/19/6aade9a97e3c1.jpg",
@@ -3581,7 +3581,7 @@
     "date": "2026-08-27 08:00",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 53
+    "rank_hot": 54
   },
   {
     "title": "无人深空|豪华中文|Build.25442159+全新内容-黯域归尘-烬海迷途+全DLC+修改器|解压即撸|",
@@ -3672,23 +3672,23 @@
     "rank_hot": 63
   },
   {
-    "title": "雾锁王国|豪华中文|Build.23966345-命运黑泉-黯夜战魂+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/71359.html",
-    "image": "https://s1.imagehub.cc/images/2025/06/25/09886c777480fe47d1d9dff5b7175627.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-06-30 07:32",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 64
-  },
-  {
     "title": "致命解药|中字-国语|Build.22848365-夜幕狂袭-魅影危城+整合MOD+全DLC-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/82889.html",
     "image": "https://v1.imagehub.cc/images/2026/02/14/dbf2595e605ad86b4e0c657df86f16cc.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-04-22 08:05",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 64
+  },
+  {
+    "title": "雾锁王国|豪华中文|Build.23966345-命运黑泉-黯夜战魂+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/71359.html",
+    "image": "https://s1.imagehub.cc/images/2025/06/25/09886c777480fe47d1d9dff5b7175627.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-06-30 07:32",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 65

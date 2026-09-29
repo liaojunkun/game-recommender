@@ -70,13 +70,13 @@
     "platform": "3DM"
   },
   {
-    "title": "植物大战僵尸",
-    "url": "https://www.3dmgame.com/games/pvz/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180612/1528772396_505589.jpg",
-    "description": "类型：休闲益智 | 制作：宝开 | 平台：PC | 发行：PopCap Games",
+    "title": "宝可梦：剑/盾",
+    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
+    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
     "source": "3DM-排行榜",
-    "date": "2009-12-14",
-    "type": "休闲益智",
+    "date": "2019-11-15",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -90,13 +90,13 @@
     "platform": "3DM"
   },
   {
-    "title": "宝可梦：剑/盾",
-    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
-    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
+    "title": "植物大战僵尸",
+    "url": "https://www.3dmgame.com/games/pvz/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180612/1528772396_505589.jpg",
+    "description": "类型：休闲益智 | 制作：宝开 | 平台：PC | 发行：PopCap Games",
     "source": "3DM-排行榜",
-    "date": "2019-11-15",
-    "type": "角色扮演",
+    "date": "2009-12-14",
+    "type": "休闲益智",
     "platform": "3DM"
   },
   {
@@ -1028,6 +1028,16 @@
     "date": "",
     "type": "",
     "platform": "ali213"
+  },
+  {
+    "title": "巫师3 狂猎 重制版|豪华中文|Build.25575366+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/122993.html",
+    "image": "https://img.odbgo.com/i/2026/09/29/6abb940764c99.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-29 18:02",
+    "type": "",
+    "platform": "GAMER520"
   },
   {
     "title": "守墓人2|豪华中文|Build.25589899-幽冥崛起-尸潮霸主+预购特典+全DLC|解压即撸|",
@@ -2637,6 +2647,27 @@
     "platform": "GAMER520"
   },
   {
+    "title": "模拟人生4|豪华中文|V1.128.90.1030+全DLC+全季票+全资料片|解压即撸|",
+    "url": "https://www.gamer520.com/41523.html",
+    "image": "https://img.odbgo.com/i/2026/09/24/6ab4adbf38563.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-24 07:30",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 46
+  },
+  {
+    "title": "我只是想让她们都幸福|官方中文|Build.23633719+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/122625.html",
+    "image": "https://img.odbgo.com/i/2026/09/24/6ab4a6566fa45.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-24 07:20",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "神貌之树逆卡巴拉|官方中文|Build.25081152+预购特典+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/122623.html",
     "image": "https://img.odbgo.com/i/2026/09/24/6ab4960799eb6.jpg",
@@ -3003,16 +3034,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-24 06:02",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "罐中守卫 Jarred Defense|官方中文|Build.25489034+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/122556.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4525520/82980ee193b10aceb9f4f2c908de2b3e73cc85d9/capsule_616x353.jpg?t=1790096545",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-24 06:01",
     "type": "",
     "platform": "GAMER520"
   },
@@ -3485,17 +3506,6 @@
     "rank_hot": 45
   },
   {
-    "title": "模拟人生4|豪华中文|V1.128.90.1030+全DLC+全季票+全资料片|解压即撸|",
-    "url": "https://www.gamer520.com/41523.html",
-    "image": "https://img.odbgo.com/i/2026/09/24/6ab4adbf38563.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-24 07:30",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 46
-  },
-  {
     "title": "文明6|中字-国语|Build.15296837-挑战-富足时代+领袖季票+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/42788.html",
     "image": "https://ig.2468c.com/2024/07/17/6c22d85212f85.jpg",
@@ -3617,23 +3627,23 @@
     "rank_hot": 59
   },
   {
-    "title": "诸天刷宝录 支持者版|官方中文|Build.21463282+四方神界DLC-神纹觉醒-万界逍遥+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/86932.html",
-    "image": "https://v1.imagehub.cc/images/2025/12/28/c50e920d1b3ed0b2481a982b458b5f9c.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-01-13 06:17",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 60
-  },
-  {
     "title": "只狼 影逝二度|豪华中文|最终年度版-影月剑魂+预购特典+全DLC+修改器-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/60450.html",
     "image": "https://v1.imagehub.cc/images/2026/01/20/c820b79ac69c56c9a4e4b95807281ff7.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-01-20 10:00",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 60
+  },
+  {
+    "title": "诸天刷宝录 支持者版|官方中文|Build.21463282+四方神界DLC-神纹觉醒-万界逍遥+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/86932.html",
+    "image": "https://v1.imagehub.cc/images/2025/12/28/c50e920d1b3ed0b2481a982b458b5f9c.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-01-13 06:17",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 61

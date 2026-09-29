@@ -240,13 +240,13 @@
     "platform": "3DM"
   },
   {
-    "title": "CS:GO",
-    "url": "https://ol.3dmgame.com/csgo/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171228/1514440716_369007.jpg",
-    "description": "类型：射击 | 制作：Valve | 平台：PC | 发行：完美世界",
+    "title": "剑网3",
+    "url": "https://ol.3dmgame.com/jianw3/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511160516_991733.jpg",
+    "description": "类型：角色扮演 | 制作：西山居 | 平台：PC | 发行：金山游戏",
     "source": "3DM-排行榜",
     "date": "",
-    "type": "射击",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {

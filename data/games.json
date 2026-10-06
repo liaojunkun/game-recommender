@@ -1,5 +1,15 @@
 [
   {
+    "title": "战争机器：事变日",
+    "url": "https://www.3dmgame.com/games/zzjqsbr/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780869111_208089.jpg",
+    "description": "发行：Xbox Game Studios",
+    "source": "近期新作",
+    "date": "2026-10-07",
+    "type": "科幻, 玩家对战, 开放世界, 本地多人, 冒险",
+    "platform": "3DM"
+  },
+  {
     "title": "皇牌空战8：希孚之翼",
     "url": "https://www.3dmgame.com/games/ace8/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260603/1780447866_655132.jpg",
@@ -37,16 +47,6 @@
     "source": "近期新作",
     "date": "2026-09-04",
     "type": "恐怖, 暴力, 生存恐怖, 冒险, 武士",
-    "platform": "3DM"
-  },
-  {
-    "title": "轨道双子星",
-    "url": "https://www.3dmgame.com/games/orbitals/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20251213/1765588223_349493.jpg",
-    "description": "发行：Shapefarm",
-    "source": "近期新作",
-    "date": "2026-09-03",
-    "type": "飞行, 合作, 闯关",
     "platform": "3DM"
   },
   {
@@ -140,13 +140,13 @@
     "platform": "3DM"
   },
   {
-    "title": "星露谷物语",
-    "url": "https://www.3dmgame.com/games/stardewvalley/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180524/1527125094_258593.jpg",
-    "description": "类型：模拟经营 | 制作：ConcernedApe | 平台：PC | 发行：Chucklefish",
+    "title": "生化危机6",
+    "url": "https://www.3dmgame.com/games/re6/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
+    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
     "source": "3DM-排行榜",
-    "date": "2016-02-27",
-    "type": "模拟经营",
+    "date": "2013-03-22",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {
@@ -1030,6 +1030,16 @@
     "platform": "ali213"
   },
   {
+    "title": "亰都幻都 樱花幻舞 国语配音版|豪华中文|Build.24542472-绯色轮回-黎明觉醒+预购特典+全DLC-支持手柄|解压即撸|",
+    "url": "https://www.gamer520.com/123414.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4449410/88a526df689381c0e50a298ecc0a7d11e29514a3/capsule_616x353_tchinese.jpg?t=1783415181",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-06 18:05",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "[顶置]PC近期爆火游戏 汇总贴",
     "url": "https://www.gamer520.com/56286.html",
     "image": "https://img.odbgo.com/i/2026/09/19/6aae17fe31f4d.jpg",
@@ -1626,17 +1636,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "万象群侠传|官方中文|Build.25704043-剑舞江湖-风华绝代+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/88181.html",
-    "image": "https://img.odbgo.com/i/2026/10/04/6ac2773a997fd.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-05 07:13",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 63
-  },
-  {
     "title": "卡牌修仙传|官方中文|Build.25678525-流光逐月-破晓问天+全DLC解压即撸|",
     "url": "https://www.gamer520.com/109807.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2963600/5db8c04c27a632913797106a056f9acb590ca4da/capsule_616x353_tchinese.jpg?t=1785378170",
@@ -2024,16 +2023,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-03 07:29",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "静脉注射3 边缘|官方中文|Build.25675686+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/123255.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4890770/64ce6acfa749be9598e63485f4e0071caf30fe7f/capsule_616x353.jpg?t=1790953223",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-03 07:01",
     "type": "",
     "platform": "GAMER520"
   },
@@ -2644,26 +2633,6 @@
     "rank_hot": 40
   },
   {
-    "title": "火影忍者 终极风暴羁绊|官方中文|V1.71+预购特典+全DLC+季票-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/67917.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1020790/capsule_616x353_schinese.jpg?t=1706137497",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-01 08:00",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "我的世界 地下城2 完美版|豪华中文|Build.25041023+预购特典+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/123062.html",
-    "image": "https://img.odbgo.com/i/2026/09/29/6abb6ebf73e3c.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-01 07:05",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "祇 女神之道|豪华中文|Build.22258223+预购特典+全DLC-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/96021.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2510710/97ed45021654a9afac136678c15d712f4a4124fd/capsule_616x353.jpg?t=1752199364",
@@ -3040,6 +3009,26 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-30 06:06",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "艾斯莱邦 Eslabong|官方中文|Build.25595441+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/120758.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/8810bda4e5b51e1e614ce5ac0c580fbae5618d47/capsule_616x353.jpg?t=1787590753",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-30 06:05",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "阿格洛斯2|官方中文|Build.25572932+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/120983.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2864290/4c74b32d1d2ba735dc4aa13449802f41eb94d6ba/capsule_616x353.jpg?t=1787844998",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-30 06:05",
     "type": "",
     "platform": "GAMER520"
   },
@@ -3620,6 +3609,17 @@
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 62
+  },
+  {
+    "title": "万象群侠传|官方中文|Build.25704043-剑舞江湖-风华绝代+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/88181.html",
+    "image": "https://img.odbgo.com/i/2026/10/04/6ac2773a997fd.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-05 07:13",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 63
   },
   {
     "title": "泰坦之旅2|豪华中文|Build.24869641+预购特典+全DLC+修改器-支持手柄|解压即撸|",

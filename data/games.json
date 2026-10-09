@@ -200,16 +200,6 @@
     "platform": "3DM"
   },
   {
-    "title": "英雄联盟",
-    "url": "https://ol.3dmgame.com/lol/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
-    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "MOBA",
-    "platform": "3DM"
-  },
-  {
     "title": "梦幻西游",
     "url": "https://ol.3dmgame.com/mhxy/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
@@ -217,6 +207,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "英雄联盟",
+    "url": "https://ol.3dmgame.com/lol/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
+    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "MOBA",
     "platform": "3DM"
   },
   {

@@ -110,6 +110,16 @@
     "platform": "3DM"
   },
   {
+    "title": "真三国无双8：帝国",
+    "url": "https://www.3dmgame.com/games/zsgws8dg/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20200927/1601192088_214930.jpg",
+    "description": "类型：动作游戏 | 制作：光荣特库摩 | 平台：PC | 发行：光荣特库摩",
+    "source": "3DM-排行榜",
+    "date": "2021-12-23",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
     "title": "尼尔：机械纪元",
     "url": "https://www.3dmgame.com/games/nierautomata/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
@@ -137,16 +147,6 @@
     "source": "3DM-排行榜",
     "date": "2022-11-18",
     "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
-    "title": "生化危机6",
-    "url": "https://www.3dmgame.com/games/re6/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
-    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
-    "source": "3DM-排行榜",
-    "date": "2013-03-22",
-    "type": "动作游戏",
     "platform": "3DM"
   },
   {
@@ -1070,12 +1070,72 @@
     "platform": "GAMER520"
   },
   {
+    "title": "斗阵骑士|豪华中文|Build.25168826-破锋铁律-御阵苍穹+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/98263.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3093400/ad75b9090f83553fc82d6f709ad8fd2a0abf6f79/capsule_616x353_schinese.jpg?t=1753976076",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-12 10:25",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "风屿奇航|豪华中文|Build.25729513+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/110475.html",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/b6c85aa4a9ff0ed08240e57e5b371f6d17ff666c/capsule_616x353_alt_assets_0.jpg?t=1773765940",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-12 10:25",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "继续钓鱼 Just Keep Fishing|官方中文|Build.25053229+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/123763.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4601160/7ee0e1e5b68a122c67d31b2f4e4f25345192fe4d/capsule_616x353.jpg?t=1788355895",
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-12 10:25",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "地下城竞技场 Dungeon Brawls|官方中文|Build.25847387+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/121643.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4246640/14e79d7d6357ccc8aa1259a8a44d5859a3695321/capsule_616x353_schinese.jpg?t=1789010870",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-12 10:25",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "富豪榜 清算所 Rich List: The Order|官方中文|Build.25697444+全DLC|解压即撸",
+    "url": "https://www.gamer520.com/123800.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4875060/0dffae1ef571ed4bff01ea32f500efe4cde8b81d/capsule_616x353.jpg?t=1790750789",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-12 10:24",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "幸存者笔记 Survivor’s Notes|官方中文|Build.25796732+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/121812.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4354460/ef46e397e3f7fdbfc436b8266ac70a1a41eaf21f/capsule_616x353_schinese.jpg?t=1788976155",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-12 10:24",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "永冻纪元 Permafrost|官方中文|Build.25866410+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/123638.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2254990/322d6c88c579a5ebad51c3dba9d1255b9ec3399a/capsule_616x353.jpg?t=1791551921",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-12 10:24",
     "type": "",
     "platform": "GAMER520"
   },
@@ -1669,16 +1729,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-10 07:35",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "永冻纪元 Permafrost|官方中文|Build.25839346+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/123638.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2254990/322d6c88c579a5ebad51c3dba9d1255b9ec3399a/capsule_616x353.jpg?t=1791551921",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-10 07:31",
     "type": "",
     "platform": "GAMER520"
   },
@@ -2984,56 +3034,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-07 04:06",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "玩偶之巢 Dolls Nest|官方中文|Build.25675189+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/92651.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1839430/capsule_616x353.jpg?t=1746178741",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-07 04:05",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "破晓|豪华中文|Build.25722651-全新内容-全新服装-崩界余生-深渊回响+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/111582.html",
-    "image": "https://v1.imagehub.cc/images/2026/04/09/9ddf8a17d318f9d94922c67a1e927e41.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-07 04:04",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "幻兽大农场 放置好时光 支持者版|官方中文|Build.25749459-放置挂机+DLC支持者包|解压即撸|",
-    "url": "https://www.gamer520.com/102061.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3659410/bd0bb5c87eb66e69301aef0867e3089a418e3561/capsule_616x353_schinese.jpg?t=1762784440",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-07 04:03",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "掠宝旅团 Lootbound|官方中文|Build.25572443+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/120076.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3091140/d8d30131ac537addce0802cb0f991a6198c3d564/capsule_616x353.jpg?t=1786719023",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-07 04:01",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "超时空地牢|官方中文|Build.25667883+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/114294.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1969810/72ed87430727fc2d669be11c9e2fae22175b88f6/capsule_616x353_schinese.jpg?t=1779768389",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-07 04:00",
     "type": "",
     "platform": "GAMER520"
   },

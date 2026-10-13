@@ -1,5 +1,15 @@
 [
   {
+    "title": "不朽遗志",
+    "url": "https://www.3dmgame.com/games/valormortis/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755629791_935957.jpg",
+    "description": "发行：One More Level,Wax Lyrical Games",
+    "source": "近期新作",
+    "date": "2026-10-14",
+    "type": "战争, 类魂系列",
+    "platform": "3DM"
+  },
+  {
     "title": "战争机器：事变日",
     "url": "https://www.3dmgame.com/games/zzjqsbr/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20261008/1791422689_815258.jpg",
@@ -37,16 +47,6 @@
     "source": "近期新作",
     "date": "2026-09-17",
     "type": "奇幻, 日系角色扮演, 互动小说, 魔法, 重制",
-    "platform": "3DM"
-  },
-  {
-    "title": "鬼武者：剑之道",
-    "url": "https://www.3dmgame.com/games/gwzjzd/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260904/1788486261_232555.jpg",
-    "description": "发行：CAPCOM Co., Ltd.",
-    "source": "近期新作",
-    "date": "2026-09-04",
-    "type": "恐怖, 暴力, 生存恐怖, 冒险, 武士",
     "platform": "3DM"
   },
   {
@@ -100,16 +100,6 @@
     "platform": "3DM"
   },
   {
-    "title": "宝可梦：剑/盾",
-    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
-    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
-    "source": "3DM-排行榜",
-    "date": "2019-11-15",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "真三国无双8：帝国",
     "url": "https://www.3dmgame.com/games/zsgws8dg/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20200927/1601192088_214930.jpg",
@@ -117,6 +107,16 @@
     "source": "3DM-排行榜",
     "date": "2021-12-23",
     "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "宝可梦：剑/盾",
+    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
+    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
+    "source": "3DM-排行榜",
+    "date": "2019-11-15",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -247,6 +247,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "沙盒",
+    "platform": "3DM"
+  },
+  {
+    "title": "鬼武者：剑之道",
+    "url": "https://www.3dmgame.com/games/gwzjzd/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260904/1788486261_232555.jpg",
+    "description": "",
+    "source": "3DM-专题",
+    "date": "",
+    "type": "",
     "platform": "3DM"
   },
   {
@@ -1028,6 +1038,16 @@
     "date": "",
     "type": "",
     "platform": "ali213"
+  },
+  {
+    "title": "全面战争 幕府将军2 完全版|官方中文|Build.25810990+预购特典+全DLC|解压即撸",
+    "url": "https://www.gamer520.com/123887.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3846830/9b5a02f97947c4fc7d8b0d5f8f1a28d32bb34d2d/capsule_616x353.jpg?t=1789489801",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-14 00:00",
+    "type": "",
+    "platform": "GAMER520"
   },
   {
     "title": "剑星|豪华中文|Build.24463856+超级MOD整合+预购特典+全DLC-支持手柄|解压即撸|",
@@ -1832,6 +1852,26 @@
     "platform": "GAMER520"
   },
   {
+    "title": "造化仙缘|官方中文|Build.25847133-灵域封王-神契之约+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/117563.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2377930/0714d882804f530ff742b1dc80c385b8b5c2e297/capsule_616x353_schinese.jpg?t=1785119079",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-11 06:32",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "生存日志|官方中文|Build.25848320-末日余烬-废土重生+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/119994.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4164790/467389f025efc5f687111ad87e7dffb7e39514f7/capsule_616x353_schinese.jpg?t=1786539085",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-11 06:31",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "群侠传 幸存者|豪华中文|Build.25844999+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/120805.html",
     "image": "https://img.odbgo.com/i/2026/08/26/6a8e4920144ce.jpg",
@@ -2414,6 +2454,26 @@
     "platform": "GAMER520"
   },
   {
+    "title": "寂静岭 陨落小镇|豪华中文|Build.25697972+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/122438.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1636440/7786de9407a63dd4917f2d16844f429007b0a0e0/capsule_616x353.jpg?t=1789974011",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-09 07:02",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "恐怖黎明 决定版|官方中文|Build.25813250-阿斯特坎之牙DLC-魂灵禁域-厄运迷境+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/33492.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2699230/d9ea5bbe62eaa89f572b1fb2c4206cbce63cc3a3/capsule_616x353.jpg?t=1784815303",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-09 07:01",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "风暴崛起|官方中文|Build.25752338+维蒂之怒DLC-兵戈铁律-焦土狂袭+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/91514.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1486920/capsule_616x353.jpg?t=1744935233",
@@ -2984,16 +3044,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-08 05:12",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "矿工猫革命 Miners Cat Revolution|官方中文|Build.25796656+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/123535.html",
-    "image": "https://img.odbgo.com/i/2026/10/08/6ac73a14d9df1.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-08 05:09",
     "type": "",
     "platform": "GAMER520"
   },

@@ -1,5 +1,15 @@
 [
   {
+    "title": "恶魔城：贝尔蒙特的诅咒",
+    "url": "https://www.3dmgame.com/games/belmontscurse/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780883002_521567.jpg",
+    "description": "发行：KONAMI",
+    "source": "近期新作",
+    "date": "2026-10-15",
+    "type": "恐怖, 女性主角, 类银河战士恶魔城, 吸血鬼, 彩色",
+    "platform": "3DM"
+  },
+  {
     "title": "不朽遗志",
     "url": "https://www.3dmgame.com/games/valormortis/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755629791_935957.jpg",
@@ -37,16 +47,6 @@
     "source": "近期新作",
     "date": "2026-09-24",
     "type": "灵异, 开放世界, 动作角色扮演, 后末日, 砍杀",
-    "platform": "3DM"
-  },
-  {
-    "title": "空之轨迹 the 2nd",
-    "url": "https://www.3dmgame.com/games/tlohtitst2nd/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260917/1789613729_795093.jpg",
-    "description": "发行：Nihon Falcom,GungHo Online Entertainment America, Inc.,Clouded Leopard Entertainment",
-    "source": "近期新作",
-    "date": "2026-09-17",
-    "type": "奇幻, 日系角色扮演, 互动小说, 魔法, 重制",
     "platform": "3DM"
   },
   {
@@ -247,6 +247,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "策略",
+    "platform": "3DM"
+  },
+  {
+    "title": "空之轨迹 the 2nd",
+    "url": "https://www.3dmgame.com/games/tlohtitst2nd/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260917/1789613729_795093.jpg",
+    "description": "",
+    "source": "3DM-专题",
+    "date": "",
+    "type": "",
     "platform": "3DM"
   },
   {

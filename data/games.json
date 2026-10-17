@@ -1140,7 +1140,7 @@
     "date": "2026-10-17 07:50",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 61
+    "rank_hot": 59
   },
   {
     "title": "生存日志|官方中文|Build.25984240-末日余烬-废土重生+全DLC|解压即撸|",
@@ -2075,7 +2075,7 @@
     "date": "2026-10-15 06:16",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 60
+    "rank_hot": 61
   },
   {
     "title": "团战经理2|豪华中文|Build.25928447+全DLC|解压即撸|",
@@ -3655,7 +3655,7 @@
     "date": "2026-01-20 10:00",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 59
+    "rank_hot": 60
   },
   {
     "title": "明末 渊虚之羽|豪华中文|Build.2235961-逆光封羽-残篇绝响+MOD合集+全DLC+修改器|解压即撸|",
@@ -3802,23 +3802,23 @@
     "rank_hot": 74
   },
   {
-    "title": "边境猎人 艾尔莎的命运之轮|中字-国语|V1.1.04+最终DLC-母亲的考验+全DLC-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/47781.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1429500/capsule_616x353.jpg?t=1721982509",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2024-09-30 07:00",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 75
-  },
-  {
     "title": "仁王 3|豪华中文|V2.02Fix-妖魔乱世-灭妖剑录 +预购特典+全DLC+全季票+修改器-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/106845.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3681010/0084f83d831210e7f0095c20806c7c172783f6e6/capsule_616x353.jpg?t=1767948787",
     "description": "",
     "source": "GAMER520",
     "date": "2026-09-18 08:02",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 75
+  },
+  {
+    "title": "边境猎人 艾尔莎的命运之轮|中字-国语|V1.1.04+最终DLC-母亲的考验+全DLC-支持手柄|解压即撸|",
+    "url": "https://www.gamer520.com/47781.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1429500/capsule_616x353.jpg?t=1721982509",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2024-09-30 07:00",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 76
@@ -3958,23 +3958,23 @@
     "rank_hot": 88
   },
   {
-    "title": "战魂铭人 豪华版|豪华中文|Build.24685276-布伦希尔德DLC-华丽剑舞-蔷薇怒放+权虎鹰皮肤赛博幻喵+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/30442.html",
-    "image": "https://img.odbgo.com/i/2026/07/29/6a69d489e1079.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-08-24 07:18",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 89
-  },
-  {
     "title": "三国志8 威力加强重制版|中字-国语|V1.1.3Fix-双袁之争-四雄决战+预购特典+全DLC+季票+修改器|解压即撸|",
     "url": "https://www.gamer520.com/83813.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3652820/b003d211a37d0749abd30a263193c1532beecec6/capsule_616x353_schinese.jpg?t=1765499691",
     "description": "",
     "source": "GAMER520",
     "date": "2026-06-29 15:00",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 89
+  },
+  {
+    "title": "战魂铭人 豪华版|豪华中文|Build.24685276-布伦希尔德DLC-华丽剑舞-蔷薇怒放+权虎鹰皮肤赛博幻喵+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/30442.html",
+    "image": "https://img.odbgo.com/i/2026/07/29/6a69d489e1079.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-08-24 07:18",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 90

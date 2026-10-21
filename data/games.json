@@ -160,6 +160,16 @@
     "platform": "3DM"
   },
   {
+    "title": "梦幻西游",
+    "url": "https://ol.3dmgame.com/mhxy/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
+    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
     "title": "地下城与勇士",
     "url": "https://ol.3dmgame.com/dnf/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
@@ -170,10 +180,10 @@
     "platform": "3DM"
   },
   {
-    "title": "梦幻西游",
-    "url": "https://ol.3dmgame.com/mhxy/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
-    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
+    "title": "魔兽世界",
+    "url": "https://ol.3dmgame.com/wow/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
+    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
@@ -187,16 +197,6 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "冒险",
-    "platform": "3DM"
-  },
-  {
-    "title": "魔兽世界",
-    "url": "https://ol.3dmgame.com/wow/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
-    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -220,16 +220,6 @@
     "platform": "3DM"
   },
   {
-    "title": "流放之路",
-    "url": "https://ol.3dmgame.com/poe/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211469_720025.jpg",
-    "description": "类型：角色扮演 | 制作：Grinding Gear Games | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "我的世界",
     "url": "https://ol.3dmgame.com/mc/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
@@ -237,6 +227,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "沙盒",
+    "platform": "3DM"
+  },
+  {
+    "title": "流放之路",
+    "url": "https://ol.3dmgame.com/poe/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211469_720025.jpg",
+    "description": "类型：角色扮演 | 制作：Grinding Gear Games | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -2085,7 +2085,7 @@
     "date": "2026-10-17 07:50",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 58
+    "rank_hot": 57
   },
   {
     "title": "英雄立志传 三国志|豪华中文|Build.25988723-英杰归途-雄兵天下+预购特典+全DLC|解压即撸|",
@@ -3626,7 +3626,7 @@
     "date": "2026-10-02 06:12",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 57
+    "rank_hot": 58
   },
   {
     "title": "神话时代 重述高级版|中字-国语|V19.17020+黑曜石之镜DLC-全季票-新纪元+全DLC+季票|解压即撸|",

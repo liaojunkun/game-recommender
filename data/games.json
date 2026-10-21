@@ -110,16 +110,6 @@
     "platform": "3DM"
   },
   {
-    "title": "宝可梦：剑/盾",
-    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
-    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
-    "source": "3DM-排行榜",
-    "date": "2019-11-15",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "尼尔：机械纪元",
     "url": "https://www.3dmgame.com/games/nierautomata/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
@@ -127,6 +117,16 @@
     "source": "3DM-排行榜",
     "date": "2022-10-06",
     "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "宝可梦：剑/盾",
+    "url": "https://www.3dmgame.com/games/pokemonswordshield/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
+    "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
+    "source": "3DM-排行榜",
+    "date": "2019-11-15",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -1290,7 +1290,7 @@
     "date": "2026-10-21 05:21",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 79
+    "rank_hot": 78
   },
   {
     "title": "劫后公司|官方中文|Build.26049821-万圣节尸潮来袭-黑潮余生-灰烬家园+全DLC|解压即撸|",
@@ -1449,6 +1449,26 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-21 05:05",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "骷髅成群|豪华中文|Build.26049140+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/111669.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3199360/73c2636db8676b3acaa89b663b0e72ff1cc07515/capsule_616x353.jpg?t=1775835694",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-21 05:03",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "悠哉钓鱼|官方中文|Build.25844541+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/94814.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3399960/ab9c745d80f867c660b168b88ce06676cd5ccbdd/capsule_616x353_schinese.jpg?t=1754979550",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-21 05:02",
     "type": "",
     "platform": "GAMER520"
   },
@@ -2436,6 +2456,36 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-16 07:31",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "墨境|豪华中文|Build.25925709-斩道成墨-孤锋逆道+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/114304.html",
+    "image": "https://img.odbgo.com/i/2026/09/21/6ab0a67e19d93.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-16 07:31",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "饥荒联机版|豪华中文|Build.25643519+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/75164.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/322330/85affc9254c2cc0587c7f6d683006bd387c88f80/capsule_616x353_alt_assets_50_schinese.jpg?t=1782413299",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-16 07:30",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "侦探杀 罪恶之城|官方中文|Build.25964567+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/124103.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3845070/c94d1696c7b5fe3b88d029acb42dbd94c00500a4/capsule_616x353_alt_assets_1_schinese.jpg?t=1792079628",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-16 07:30",
     "type": "",
     "platform": "GAMER520"
   },
@@ -3775,7 +3825,7 @@
     "date": "2025-06-21 07:13",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 78,
+    "rank_hot": 79,
     "rank_comment_count": 5
   },
   {

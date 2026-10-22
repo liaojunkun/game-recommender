@@ -1,5 +1,25 @@
 [
   {
+    "title": "最终幻想：共鸣",
+    "url": "https://www.3dmgame.com/games/ffr/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260610/1781058821_575045.jpg",
+    "description": "发行：Square Enix",
+    "source": "近期新作",
+    "date": "2026-10-23",
+    "type": "日系角色扮演, 像素图形, 俯视, 2.5D, 团队角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "使命召唤：现代战争4",
+    "url": "https://www.3dmgame.com/games/codmw/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20261022/1792648900_592871.jpg",
+    "description": "发行：Activision",
+    "source": "近期新作",
+    "date": "2026-10-23",
+    "type": "战争, 合作, 军事, 暴力, 人工智能",
+    "platform": "3DM"
+  },
+  {
     "title": "恶魔城：贝尔蒙特的诅咒",
     "url": "https://www.3dmgame.com/games/belmontscurse/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780883002_521567.jpg",
@@ -27,26 +47,6 @@
     "source": "近期新作",
     "date": "2026-10-06",
     "type": "科幻, 恐怖, 女性主角, 开放世界, 冒险",
-    "platform": "3DM"
-  },
-  {
-    "title": "皇牌空战8：希孚之翼",
-    "url": "https://www.3dmgame.com/games/ace8/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260603/1780447866_655132.jpg",
-    "description": "发行：Bandai Namco Entertainment Inc.",
-    "source": "近期新作",
-    "date": "2026-10-02",
-    "type": "飞行, 玩家对战, 合作, 街机, 休闲",
-    "platform": "3DM"
-  },
-  {
-    "title": "控制 Resonant",
-    "url": "https://www.3dmgame.com/games/controlresonant/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20251212/1765507759_206336.jpg",
-    "description": "发行：Remedy Entertainment Plc",
-    "source": "近期新作",
-    "date": "2026-09-24",
-    "type": "灵异, 开放世界, 动作角色扮演, 后末日, 砍杀",
     "platform": "3DM"
   },
   {
@@ -110,16 +110,6 @@
     "platform": "3DM"
   },
   {
-    "title": "尼尔：机械纪元",
-    "url": "https://www.3dmgame.com/games/nierautomata/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
-    "description": "类型：动作游戏 | 制作：Platinum Games Inc. | 平台：Switch | 发行：史克威尔艾尼克斯",
-    "source": "3DM-排行榜",
-    "date": "2022-10-06",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "宝可梦：剑/盾",
     "url": "https://www.3dmgame.com/games/pokemonswordshield/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
@@ -127,6 +117,16 @@
     "source": "3DM-排行榜",
     "date": "2019-11-15",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "尼尔：机械纪元",
+    "url": "https://www.3dmgame.com/games/nierautomata/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532327846_923833.jpg",
+    "description": "类型：动作游戏 | 制作：Platinum Games Inc. | 平台：Switch | 发行：史克威尔艾尼克斯",
+    "source": "3DM-排行榜",
+    "date": "2022-10-06",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {
@@ -247,16 +247,6 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
-    "title": "使命召唤：现代战争4",
-    "url": "https://www.3dmgame.com/games/codmw/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20261022/1792648900_592871.jpg",
-    "description": "",
-    "source": "3DM-专题",
-    "date": "",
-    "type": "",
     "platform": "3DM"
   },
   {

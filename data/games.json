@@ -180,6 +180,16 @@
     "platform": "3DM"
   },
   {
+    "title": "英雄联盟",
+    "url": "https://ol.3dmgame.com/lol/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
+    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "MOBA",
+    "platform": "3DM"
+  },
+  {
     "title": "魔兽世界",
     "url": "https://ol.3dmgame.com/wow/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
@@ -197,16 +207,6 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "冒险",
-    "platform": "3DM"
-  },
-  {
-    "title": "英雄联盟",
-    "url": "https://ol.3dmgame.com/lol/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
-    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "MOBA",
     "platform": "3DM"
   },
   {
@@ -2852,76 +2852,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "废土求生日志|官方中文|Build.25479036+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/124127.html",
-    "image": "https://img.odbgo.com/i/2026/10/16/6ad1a5905708e.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-16 07:16",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "爱丽丝与彼岸 Alice Nation|官方中文|Build.25960830+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/124124.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3755350/f7a0331ea8d60787bd7269c8903e9d02c0db76c3/capsule_616x353_schinese.jpg?t=1791798089",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-16 07:16",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "魔女庭院|官方中文|Build.25950417-影舞裁决-魔庭纷争+全DLC-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/93598.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2530470/75adc79d46e127bdbcd709a028693601a8cac5f4/capsule_616x353_schinese.jpg?t=1748407321",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-16 07:15",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "打工人生存模拟器|官方中文|Build.25924568+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/122762.html",
-    "image": "https://img.odbgo.com/i/2026/10/06/6ac46f4ec800e.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-16 07:14",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "霜港迷城|官方中文|Build.25947704-烬天阵卷-修罗战律+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/97226.html",
-    "image": "https://s1.imagehub.cc/images/2025/09/16/c5b6750e5b6005ca921893baa80b42d9.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-16 07:13",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "丰收之月 特拉底亚的回响|官方中文|Build.25042025+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/124066.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3591180/17a292935c9e05668e7117503145a63470f10b84/capsule_616x353_schinese.jpg?t=1792036831",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-16 07:12",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "无感染区 支持者版|豪华中文|Build.25808032-尸潮来袭-生还之地+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/69323.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1465460/capsule_616x353.jpg?t=1698155111",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-16 07:11",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "欧洲卡车模拟2|官方中文|Build.25904183+北境地平线DLC+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/66421.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/227300/5237101dc9efe4873c9be1804d4ed2619ad7bee4/capsule_616x353.jpg?t=1773641450",
@@ -3048,6 +2978,76 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-15 07:00",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "符文世界 龙之荒野|豪华中文|Build.25812671-破碎天境-失落纪元+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/116529.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1374490/6eeb7228bf0def21edc9fc57976140acfb67930c/capsule_616x353_alt_assets_1_schinese.jpg?t=1781803285",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-15 06:55",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "山瘟 Shanwen|官方中文|Build.25953450+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/124044.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4327330/65f079f0dffb746691e01a32fec8e9f85a460afa/capsule_616x353.jpg?t=1788491450",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-15 06:43",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "掷剑者 SWORD FLINGER|官方中文|Build.25928062+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/124040.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4474400/a158d08e2de493b823d4cbba3dc6ee262ac69821/capsule_616x353_schinese.jpg?t=1789704042",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-15 06:42",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "超级连击 WomboCombo|官方中文|Build.25619592+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/124042.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4210240/dea4347e0e6d9a3694b0ffc6c79eca1c42edeba7/capsule_616x353.jpg?t=1789868454",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-15 06:42",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "反转21克|官方中文|Build.13727845+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/123995.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2685620/capsule_616x353.jpg?t=1749239201",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-15 06:41",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "恋爱吗?我家猫会后空翻|官方中文|Build.22414525+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/123993.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3998800/897bcf269afdb895f31eae2cb8ec6eb9710ca598/capsule_616x353.jpg?t=1768562845",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-15 06:40",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "末日包租公 Doomsday Landlord|官方中文|Build.25921985+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/123990.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5024270/80b4c8bc2fa0df64cacb5d0fe31360c714dd6e8f/capsule_616x353_schinese.jpg?t=1789373182",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-15 06:35",
     "type": "",
     "platform": "GAMER520"
   },

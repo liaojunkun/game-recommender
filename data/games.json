@@ -1,5 +1,15 @@
 [
   {
+    "title": "影之刃零",
+    "url": "https://www.3dmgame.com/games/phantomblade0/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260812/1786501164_281257.jpg",
+    "description": "发行：S-GAME Publishing",
+    "source": "近期新作",
+    "date": "2026-10-29",
+    "type": "暴力, 电影式, 动作角色扮演, 多结局, 快节奏",
+    "platform": "3DM"
+  },
+  {
     "title": "最终幻想：共鸣",
     "url": "https://www.3dmgame.com/games/ffr/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260610/1781058821_575045.jpg",
@@ -37,16 +47,6 @@
     "source": "近期新作",
     "date": "2026-10-14",
     "type": "战争, 类魂系列",
-    "platform": "3DM"
-  },
-  {
-    "title": "战争机器：事变日",
-    "url": "https://www.3dmgame.com/games/zzjqsbr/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20261022/1792649989_188939.jpg",
-    "description": "发行：Xbox Game Studios",
-    "source": "近期新作",
-    "date": "2026-10-06",
-    "type": "科幻, 恐怖, 女性主角, 开放世界, 冒险",
     "platform": "3DM"
   },
   {
@@ -90,16 +90,6 @@
     "platform": "3DM"
   },
   {
-    "title": "上古卷轴5：天际",
-    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
-    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
-    "source": "3DM-排行榜",
-    "date": "2011-11-11",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "真三国无双8：帝国",
     "url": "https://www.3dmgame.com/games/zsgws8dg/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20200927/1601192088_214930.jpg",
@@ -107,6 +97,16 @@
     "source": "3DM-排行榜",
     "date": "2021-12-23",
     "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "上古卷轴5：天际",
+    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
+    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "source": "3DM-排行榜",
+    "date": "2011-11-11",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
@@ -140,13 +140,13 @@
     "platform": "3DM"
   },
   {
-    "title": "热血无赖",
-    "url": "https://www.3dmgame.com/games/sldo/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180723/1532308469_415224.jpg",
-    "description": "类型：冒险游戏 | 制作：United Front Games | 平台：PC | 发行：史克威尔艾尼克斯",
+    "title": "逃生",
+    "url": "https://www.3dmgame.com/games/outlast/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180524/1527163771_977165.png",
+    "description": "类型：动作游戏 | 制作：Red Barrels | 平台：PC | 发行：Red Barrels",
     "source": "3DM-排行榜",
-    "date": "2012-08-14",
-    "type": "冒险游戏",
+    "date": "2024-04-18",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {
@@ -230,6 +230,16 @@
     "platform": "3DM"
   },
   {
+    "title": "剑网3",
+    "url": "https://ol.3dmgame.com/jianw3/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511160516_991733.jpg",
+    "description": "类型：角色扮演 | 制作：西山居 | 平台：PC | 发行：金山游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
     "title": "流放之路",
     "url": "https://ol.3dmgame.com/poe/",
     "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211469_720025.jpg",
@@ -240,13 +250,13 @@
     "platform": "3DM"
   },
   {
-    "title": "剑网3",
-    "url": "https://ol.3dmgame.com/jianw3/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511160516_991733.jpg",
-    "description": "类型：角色扮演 | 制作：西山居 | 平台：PC | 发行：金山游戏",
-    "source": "3DM-排行榜",
+    "title": "战争机器：事变日",
+    "url": "https://www.3dmgame.com/games/zzjqsbr/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20261022/1792649989_188939.jpg",
+    "description": "",
+    "source": "3DM-专题",
     "date": "",
-    "type": "角色扮演",
+    "type": "",
     "platform": "3DM"
   },
   {
@@ -1040,6 +1050,16 @@
     "platform": "ali213"
   },
   {
+    "title": "深空当铺 可能是偷的|豪华中文|Build.26263409+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/124839.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4348910/c259000a2aba10038ca406c8bb2ade41bc7a434c/capsule_616x353_schinese.jpg?t=1785562230",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-28 20:02",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "怪物猎人GU|豪华中文|V1.4.0-4K240帧+全DLC-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/124835.html",
     "image": "https://img.odbgo.com/i/2026/10/28/6ae1c00d225d4.jpg",
@@ -1260,7 +1280,7 @@
     "date": "2026-10-28 06:19",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 54
+    "rank_hot": 53
   },
   {
     "title": "三国志经典|豪华中文|Build.26211346-王命九州-策御八荒+全DLC|解压即撸|",
@@ -3043,16 +3063,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "杀戮之石|官方中文|Build.26091029+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/124388.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2781470/90d06e7e6e614e15e09435fe9d288c1fefc4eb71/capsule_616x353.jpg?t=1792568599",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-22 06:28",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "博德之门3 豪华版|豪华中文|V4.1.1.7631656+预购奖励+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/62634.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1086940/capsule_616x353.jpg?t=1691081186",
@@ -3550,7 +3560,7 @@
     "date": "2026-10-06 08:05",
     "type": "",
     "platform": "GAMER520",
-    "rank_hot": 53
+    "rank_hot": 54
   },
   {
     "title": "人渣 SCUM|官方中文|Build.24929593-狂热尸潮-厄运死神-季票+全DLC|解压即撸|",

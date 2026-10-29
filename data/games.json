@@ -110,6 +110,16 @@
     "platform": "3DM"
   },
   {
+    "title": "逃生",
+    "url": "https://www.3dmgame.com/games/outlast/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180524/1527163771_977165.png",
+    "description": "类型：动作游戏 | 制作：Red Barrels | 平台：PC | 发行：Red Barrels",
+    "source": "3DM-排行榜",
+    "date": "2024-04-18",
+    "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
     "title": "宝可梦：剑/盾",
     "url": "https://www.3dmgame.com/games/pokemonswordshield/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
@@ -136,16 +146,6 @@
     "description": "类型：动作游戏 | 制作： Rockstar Games | 平台：PC | 发行： Rockstar Games",
     "source": "3DM-排行榜",
     "date": "2005-06-06",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
-    "title": "逃生",
-    "url": "https://www.3dmgame.com/games/outlast/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180524/1527163771_977165.png",
-    "description": "类型：动作游戏 | 制作：Red Barrels | 平台：PC | 发行：Red Barrels",
-    "source": "3DM-排行榜",
-    "date": "2024-04-18",
     "type": "动作游戏",
     "platform": "3DM"
   },
@@ -1040,16 +1040,6 @@
     "platform": "ali213"
   },
   {
-    "title": "星际迷航 航海家号  穿越未知|豪华中文|Build.26128946+德尔塔编年史2 DLC+全DLC|解压即撸|",
-    "url": "https://www.gamer520.com/108999.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2643390/d52c2fe21c1da738f6ad325397eae48ae1cd55f3/capsule_616x353.jpg?t=1771444121",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-10-29 17:26",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "最终幻想 共鸣|中字-国语|V1.0.1Fix-4K60帧+金手指+全DLC-模拟器整合版-支持手柄|解压即撸|",
     "url": "https://www.gamer520.com/124889.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3259780/6591a4998a16491b6a7f1d3ad2b948f3da15b52e/capsule_616x353.jpg?t=1788534743",
@@ -1307,6 +1297,16 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-10-29 06:41",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "星际迷航 航海家号  穿越未知|豪华中文|Build.26128946+德尔塔编年史2 DLC+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/108999.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2643390/d52c2fe21c1da738f6ad325397eae48ae1cd55f3/capsule_616x353.jpg?t=1771444121",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-10-29 06:40",
     "type": "",
     "platform": "GAMER520"
   },
@@ -3273,23 +3273,23 @@
     "rank_hot": 24
   },
   {
-    "title": "碧蓝幻想 无尽黄昏 Relink 特别版|豪华中文|V2.0.6-苍蓝誓约-奥义觉醒+预购特典+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/71616.html",
-    "image": "https://img.odbgo.com/i/2026/08/02/6a6ec442daa09.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-09-18 08:00",
-    "type": "",
-    "platform": "GAMER520",
-    "rank_hot": 25
-  },
-  {
     "title": "剑星|豪华中文|Build.20363153-流光斩影-银月剑痕+预购特典+全DLC+修改器|解压即撸|",
     "url": "https://www.gamer520.com/109449.html",
     "image": "https://img.odbgo.com/i/2026/07/27/6a66bdef65be5.jpg",
     "description": "",
     "source": "GAMER520",
     "date": "2026-07-27 09:55",
+    "type": "",
+    "platform": "GAMER520",
+    "rank_hot": 25
+  },
+  {
+    "title": "碧蓝幻想 无尽黄昏 Relink 特别版|豪华中文|V2.0.6-苍蓝誓约-奥义觉醒+预购特典+全DLC+修改器|解压即撸|",
+    "url": "https://www.gamer520.com/71616.html",
+    "image": "https://img.odbgo.com/i/2026/08/02/6a6ec442daa09.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-09-18 08:00",
     "type": "",
     "platform": "GAMER520",
     "rank_hot": 26

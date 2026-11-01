@@ -100,16 +100,6 @@
     "platform": "3DM"
   },
   {
-    "title": "真三国无双8：帝国",
-    "url": "https://www.3dmgame.com/games/zsgws8dg/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20200927/1601192088_214930.jpg",
-    "description": "类型：动作游戏 | 制作：光荣特库摩 | 平台：PC | 发行：光荣特库摩",
-    "source": "3DM-排行榜",
-    "date": "2021-12-23",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "上古卷轴5：天际",
     "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
@@ -117,6 +107,16 @@
     "source": "3DM-排行榜",
     "date": "2011-11-11",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "真三国无双8：帝国",
+    "url": "https://www.3dmgame.com/games/zsgws8dg/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20200927/1601192088_214930.jpg",
+    "description": "类型：动作游戏 | 制作：光荣特库摩 | 平台：PC | 发行：光荣特库摩",
+    "source": "3DM-排行榜",
+    "date": "2021-12-23",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {

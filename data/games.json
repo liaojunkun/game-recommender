@@ -1,5 +1,15 @@
 [
   {
+    "title": "塞尔达：时之笛 重制版",
+    "url": "https://www.3dmgame.com/games/tlozoot/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260610/1781071499_956009.png",
+    "description": "发行：任天堂",
+    "source": "近期新作",
+    "date": "2026-11-05",
+    "type": "日系角色扮演",
+    "platform": "3DM"
+  },
+  {
     "title": "影之刃零",
     "url": "https://www.3dmgame.com/games/phantomblade0/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260812/1786501164_281257.jpg",
@@ -37,16 +47,6 @@
     "source": "近期新作",
     "date": "2026-10-15",
     "type": "恐怖, 女性主角, 类银河战士恶魔城, 吸血鬼, 彩色",
-    "platform": "3DM"
-  },
-  {
-    "title": "不朽遗志",
-    "url": "https://www.3dmgame.com/games/valormortis/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755629791_935957.jpg",
-    "description": "发行：One More Level,Wax Lyrical Games",
-    "source": "近期新作",
-    "date": "2026-10-14",
-    "type": "战争, 类魂系列",
     "platform": "3DM"
   },
   {
@@ -110,22 +110,22 @@
     "platform": "3DM"
   },
   {
-    "title": "上古卷轴5：天际",
-    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
-    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
-    "source": "3DM-排行榜",
-    "date": "2011-11-11",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "宝可梦：剑/盾",
     "url": "https://www.3dmgame.com/games/pokemonswordshield/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190802/1564708787_271757.jpg",
     "description": "类型：角色扮演 | 制作：GameFreak | 平台：Switch | 发行：Nintendo",
     "source": "3DM-排行榜",
     "date": "2019-11-15",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "上古卷轴5：天际",
+    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
+    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "source": "3DM-排行榜",
+    "date": "2011-11-11",
     "type": "角色扮演",
     "platform": "3DM"
   },

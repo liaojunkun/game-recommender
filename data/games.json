@@ -150,89 +150,69 @@
     "platform": "3DM"
   },
   {
-    "title": "英雄联盟",
-    "url": "https://ol.3dmgame.com/lol/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171127/1511762316_160989.jpg",
-    "description": "类型：MOBA | 制作：Riot Games | 平台：PC | 发行：腾讯游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "MOBA",
-    "platform": "3DM"
-  },
-  {
-    "title": "逆战",
-    "url": "https://ol.3dmgame.com/nizhan/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171213/1513147864_264365.jpg",
-    "description": "类型：动作 | 制作：琳琅天上 | 平台：PC | 发行：腾讯游戏",
+    "title": "疾风之刃",
+    "url": "https://ol.3dmgame.com/jfzr/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20260909/1788925783_288933.jpg",
+    "description": "类型：动作 | 制作：VALOFE | 平台：PC | 发行：其他厂商",
     "source": "3DM-排行榜",
     "date": "",
     "type": "动作",
     "platform": "3DM"
   },
   {
-    "title": "梦幻西游",
-    "url": "https://ol.3dmgame.com/mhxy/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211261_710909.jpg",
-    "description": "类型：角色扮演 | 制作：网易游戏 | 平台：PC | 发行：网易游戏",
+    "title": "九牧之野",
+    "url": "https://ol.3dmgame.com/jmzy/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20260616/1781604162_525041.jpg",
+    "description": "类型：策略 | 制作： | 平台：PC | 发行：其他厂商",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "策略",
+    "platform": "3DM"
+  },
+  {
+    "title": "王者荣耀世界",
+    "url": "https://ol.3dmgame.com/wzrysj/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211413_988050.jpg",
+    "description": "类型：角色扮演 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
     "platform": "3DM"
   },
   {
-    "title": "炉石传说",
-    "url": "https://ol.3dmgame.com/luscs/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510918996_390511.jpg",
-    "description": "类型：卡牌 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "卡牌",
-    "platform": "3DM"
-  },
-  {
-    "title": "魔兽世界",
-    "url": "https://ol.3dmgame.com/wow/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511162575_470441.jpg",
-    "description": "类型：角色扮演 | 制作：暴雪娱乐 | 平台：PC | 发行：暴雪战网",
+    "title": "天下：万象",
+    "url": "https://ol.3dmgame.com/txwx/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20260126/1769415406_679154.png",
+    "description": "类型：角色扮演 | 制作：网易 | 平台：PC | 发行：网易游戏",
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
     "platform": "3DM"
   },
   {
-    "title": "剑网3",
-    "url": "https://ol.3dmgame.com/jianw3/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171120/1511160516_991733.jpg",
-    "description": "类型：角色扮演 | 制作：西山居 | 平台：PC | 发行：金山游戏",
+    "title": "天命西游",
+    "url": "https://ol.3dmgame.com/tmxi/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20250610/1749535436_194756.jpg",
+    "description": "类型：角色扮演 | 制作：北京林果科技 | 平台：PC | 发行：腾讯游戏",
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
     "platform": "3DM"
   },
   {
-    "title": "地下城与勇士",
-    "url": "https://ol.3dmgame.com/dnf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171218/1513565311_686793.png",
-    "description": "类型：动作 | 制作：Neople | 平台：PC | 发行：腾讯游戏",
+    "title": "龙之刃",
+    "url": "https://ol.3dmgame.com/lzr/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20250514/1747185680_788243.jpg",
+    "description": "类型：角色扮演 | 制作：千橡游戏 | 平台：PC | 发行：其他厂商",
     "source": "3DM-排行榜",
     "date": "",
-    "type": "动作",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
-    "title": "我的世界",
-    "url": "https://ol.3dmgame.com/mc/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20231222/1703211343_467464.jpg",
-    "description": "类型：沙盒 | 制作：Mojang | 平台：PC | 发行：网易游戏",
-    "source": "3DM-排行榜",
-    "date": "",
-    "type": "沙盒",
-    "platform": "3DM"
-  },
-  {
-    "title": "穿越火线",
-    "url": "https://ol.3dmgame.com/cf/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbbig/20171117/1510916411_511325.jpg",
+    "title": "暗区突围：无限",
+    "url": "https://ol.3dmgame.com/aqtwwx/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20250402/1743560270_785771.jpg",
     "description": "类型：射击 | 制作：腾讯 | 平台：PC | 发行：腾讯游戏",
     "source": "3DM-排行榜",
     "date": "",
@@ -240,13 +220,33 @@
     "platform": "3DM"
   },
   {
-    "title": "原神",
-    "url": "https://ol.3dmgame.com/ys/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
-    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
+    "title": "龙OL",
+    "url": "https://ol.3dmgame.com/longol/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20190103/1546481277_976669.jpg",
+    "description": "类型：角色扮演 | 制作：空中网 | 平台：PC | 发行：绿岸网络",
     "source": "3DM-排行榜",
     "date": "",
-    "type": "冒险",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "大话西游3",
+    "url": "https://ol.3dmgame.com/dhxy3/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20190111/1547197969_817027.jpg",
+    "description": "类型：角色扮演 | 制作：网易 | 平台：PC | 发行：网易游戏",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "装甲战争",
+    "url": "https://ol.3dmgame.com/zjzhzh/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20190112/1547262676_564626.jpg",
+    "description": "类型：射击 | 制作：黑曜石娱乐 | 平台：PC | 发行：其他厂商",
+    "source": "3DM-排行榜",
+    "date": "",
+    "type": "射击",
     "platform": "3DM"
   },
   {
@@ -1056,16 +1056,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-11-10 12:00",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "火焰纹章 万缕千丝|豪华中文|V1.1.1-4K120帧+内建功能MOD+全DLC-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/125630.html",
-    "image": "https://img.odbgo.com/i/2026/11/03/6ae93fa61c9fb.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-11-10 08:00",
     "type": "",
     "platform": "GAMER520"
   },
@@ -2450,16 +2440,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "马力欧网球 狂热|豪华中文|V1.0.0+全DLC-模拟器整合版-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/125282.html",
-    "image": "https://img.odbgo.com/i/2026/11/05/6aebbeae5c63c.jpg",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-11-05 07:10",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "克里夫·巴克猛鬼追魂 复苏|官方中文|Build.26259912+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/123555.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1551980/6708f74679c5feca41a5f264a3b7068a8c2d383f/capsule_616x353.jpg?t=1791462446",
@@ -3047,6 +3027,16 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-11-04 06:07",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "OPUS 心相吾山 典藏版|中字-国语|Build.24727439+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/111911.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1947910/674031f3b27f43627ead1e6e4b60caeeab059f9a/capsule_616x353.jpg?t=1777463561",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-11-04 06:06",
     "type": "",
     "platform": "GAMER520"
   },

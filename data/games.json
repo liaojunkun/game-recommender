@@ -240,13 +240,13 @@
     "platform": "3DM"
   },
   {
-    "title": "原神",
-    "url": "https://ol.3dmgame.com/ys/",
-    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20200914/1600046609_218567.png",
-    "description": "类型：冒险 | 制作：米哈游 | 平台：PC | 发行：米哈游",
+    "title": "CS:GO",
+    "url": "https://ol.3dmgame.com/csgo/",
+    "image": "https://olimg.3dmgame.com/uploads/images/thumbsmall/20171228/1514440716_369007.jpg",
+    "description": "类型：射击 | 制作：Valve | 平台：PC | 发行：完美世界",
     "source": "3DM-排行榜",
     "date": "",
-    "type": "冒险",
+    "type": "射击",
     "platform": "3DM"
   },
   {
@@ -1301,6 +1301,16 @@
     "platform": "GAMER520"
   },
   {
+    "title": "霓虹末世录|官方中文|Build.26612153+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/124371.html",
+    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5183710/6d6a4b57dc48913ace5f24b7c3f5d5de52a2d50c/capsule_616x353_schinese.jpg?t=1791509614",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-11-16 06:05",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "无尽帝国2|官方中文|Build.26326218+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/99811.html",
     "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3407390/97111c31fc17061971264084ce53759b6476cc90/capsule_616x353.jpg?t=1758557307",
@@ -2077,16 +2087,6 @@
     "platform": "GAMER520"
   },
   {
-    "title": "下一站江湖Ⅱ|豪华中文|Build.26585359-狂歌烈酒-苍穹御剑+全DLC+修改器|解压即撸|",
-    "url": "https://www.gamer520.com/112974.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4587320/eff4221b4ae995dac569774cf4c6fe84259e0907/capsule_616x353.jpg?t=1777346484",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-11-13 06:02",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
     "title": "帝国的陨落|豪华中文|Build.26611591+征途DLC+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/109691.html",
     "image": "https://img.odbgo.com/i/2026/11/13/6af6582b14d0b.jpg",
@@ -2841,6 +2841,26 @@
     "platform": "GAMER520"
   },
   {
+    "title": "火焰纹章 风花雪月|豪华中文|V1.2.0-4K240帧-战火年轮-月下共鸣+全DLC-支持手柄|解压即撸|",
+    "url": "https://www.gamer520.com/125726.html",
+    "image": "https://img.odbgo.com/i/2026/11/11/6af3c3e8dfc9f.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-11-11 09:00",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
+    "title": "三国群英传8|豪华中文|Build.10012892+预购特典+全DLC|解压即撸|",
+    "url": "https://www.gamer520.com/125729.html",
+    "image": "https://img.odbgo.com/i/2026/11/11/6af3dfe6a8bf8.jpg",
+    "description": "",
+    "source": "GAMER520",
+    "date": "2026-11-11 08:10",
+    "type": "",
+    "platform": "GAMER520"
+  },
+  {
     "title": "潜行者2 切尔诺贝利之心|豪华中文|V2.1.0Fix+希望的代价DLC+预购特典+季票+全DLC|解压即撸|",
     "url": "https://www.gamer520.com/85231.html",
     "image": "https://img.odbgo.com/i/2026/08/24/6a8bcaf4399e0.jpg",
@@ -3028,16 +3048,6 @@
     "description": "",
     "source": "GAMER520",
     "date": "2026-11-11 06:30",
-    "type": "",
-    "platform": "GAMER520"
-  },
-  {
-    "title": "矿坑之下2|官方中文|Build.26492016-暮光降临-熔岩咆哮-魔契之地+全DLC-支持手柄|解压即撸|",
-    "url": "https://www.gamer520.com/96552.html",
-    "image": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1869780/1a816b2bb73d4501c5e41a0aec86a00dad1e3e9a/capsule_616x353.jpg?t=1753197806",
-    "description": "",
-    "source": "GAMER520",
-    "date": "2026-11-11 06:20",
     "type": "",
     "platform": "GAMER520"
   },

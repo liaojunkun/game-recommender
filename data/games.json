@@ -1,5 +1,15 @@
 [
   {
+    "title": "GTA6",
+    "url": "https://www.3dmgame.com/games/gta6/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20231206/1701829632_433322.jpg",
+    "description": "发行：Rockstar",
+    "source": "近期新作",
+    "date": "2026-11-19",
+    "type": "都市, 开放世界, 暴力, 车辆作战",
+    "platform": "3DM"
+  },
+  {
     "title": "塞尔达：时之笛 重制版",
     "url": "https://www.3dmgame.com/games/tlozoot/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260610/1781071499_956009.png",
@@ -40,16 +50,6 @@
     "platform": "3DM"
   },
   {
-    "title": "恶魔城：贝尔蒙特的诅咒",
-    "url": "https://www.3dmgame.com/games/belmontscurse/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20260608/1780883002_521567.jpg",
-    "description": "发行：KONAMI",
-    "source": "近期新作",
-    "date": "2026-10-15",
-    "type": "恐怖, 女性主角, 类银河战士恶魔城, 吸血鬼, 彩色",
-    "platform": "3DM"
-  },
-  {
     "title": "极品飞车18：宿敌",
     "url": "https://www.3dmgame.com/games/needforspeed18/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526960029_838372.jpg",
@@ -70,16 +70,6 @@
     "platform": "3DM"
   },
   {
-    "title": "生化危机9：安魂曲",
-    "url": "https://www.3dmgame.com/games/shwj9/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
-    "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
-    "source": "3DM-排行榜",
-    "date": "2026-02-27",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
     "title": "归唐",
     "url": "https://www.3dmgame.com/games/gt/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250620/1750384793_164625.jpg",
@@ -87,6 +77,16 @@
     "source": "3DM-排行榜",
     "date": "",
     "type": "角色扮演",
+    "platform": "3DM"
+  },
+  {
+    "title": "生化危机9：安魂曲",
+    "url": "https://www.3dmgame.com/games/shwj9/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20250820/1755654837_203659.jpg",
+    "description": "类型：动作游戏 | 制作：CAPCOM Co., Ltd. | 平台：PC | 发行：CAPCOM Co., Ltd.",
+    "source": "3DM-排行榜",
+    "date": "2026-02-27",
+    "type": "动作游戏",
     "platform": "3DM"
   },
   {
@@ -136,16 +136,6 @@
     "description": "类型：动作游戏 | 制作：Platinum Games Inc. | 平台：Switch | 发行：史克威尔艾尼克斯",
     "source": "3DM-排行榜",
     "date": "2022-10-06",
-    "type": "动作游戏",
-    "platform": "3DM"
-  },
-  {
-    "title": "生化危机6",
-    "url": "https://www.3dmgame.com/games/re6/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180522/1526955156_115737.jpg",
-    "description": "类型：动作游戏 | 制作：卡普空 | 平台：PC | 发行：卡普空",
-    "source": "3DM-排行榜",
-    "date": "2013-03-22",
     "type": "动作游戏",
     "platform": "3DM"
   },

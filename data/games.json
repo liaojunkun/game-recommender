@@ -110,16 +110,6 @@
     "platform": "3DM"
   },
   {
-    "title": "上古卷轴5：天际",
-    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
-    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
-    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
-    "source": "3DM-排行榜",
-    "date": "2011-11-11",
-    "type": "角色扮演",
-    "platform": "3DM"
-  },
-  {
     "title": "侠盗猎车：圣安地列斯",
     "url": "https://www.3dmgame.com/games/gtasa/",
     "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180521/1526889917_469019.jpg",
@@ -127,6 +117,16 @@
     "source": "3DM-排行榜",
     "date": "2005-06-06",
     "type": "动作游戏",
+    "platform": "3DM"
+  },
+  {
+    "title": "上古卷轴5：天际",
+    "url": "https://www.3dmgame.com/games/elderscrolls5skyrim/",
+    "image": "https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180529/1527578329_606706.jpg",
+    "description": "类型：角色扮演 | 制作：Bethesda Softworks | 平台：PC | 发行：Bethesda Game Studios",
+    "source": "3DM-排行榜",
+    "date": "2011-11-11",
+    "type": "角色扮演",
     "platform": "3DM"
   },
   {
